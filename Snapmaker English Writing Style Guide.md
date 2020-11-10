@@ -8,6 +8,7 @@ The **Language and Grammar** chapter outlines rules that govern right or wrong, 
 
 This guide is updated regularly. To report bugs or propose ideas, file an issue on [our GitHub page](https://github.com/Snapmaker), or email at ginger@snapmaker.com.
 
+
 # Language and Grammar
 
 ## **Abbreviation**
@@ -20,7 +21,6 @@ It is helpful to distinguish between **initialisms**, **acronyms**, **shortened 
 |**Acronym**|The first letters of words that's pronounced as a word.|SIM (subscriber identity module)|
 |**Shortened words**|Part of a word or phrase, including Latin abbreviation.|app (application), Inc.(incorporated), i.e., etc., e.g.|
 |**Contractions**|Part of a phrase, with a few letters replaced by an apostrophe.|isn't, you're, it's been so long|
-
 
 To achieve a friendly tone, we use all types of abbreviation in our user experience (UX) writing. So it's okay to say:
 
