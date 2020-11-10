@@ -6,7 +6,7 @@ This guide is compiled based on the need for our documentations to be factual, v
 
 The **Language and Grammar** chapter outlines rules that govern right or wrong, while the **Formatting and Content Planning** chapter stipulates rules that determine good or bad. The sections are organized in alphabetic order. The latter half is a Chinese translation of the guide.
 
-This guide is updated regularly. To report bugs or propose ideas, file an issue on[our GitHub page](https://github.com/Snapmaker), or email at ginger@snapmaker.com.
+This guide is updated regularly. To report bugs or propose ideas, file an issue on [our GitHub page](https://github.com/Snapmaker), or email at ginger@snapmaker.com.
 
 # Language and Grammar
 
@@ -63,9 +63,9 @@ Instead, say:
 * with
 * your, you're, you all
 
-If you are not sure about what is the accepted abbreviation of a certain word, check[American Heritage Dictionary](https://ahdictionary.com/). And as a rule of thumb, place yourself into your readers' shoes. If using abbreviation is likely to cause confusion, don't use it.
+If you are not sure about what is the accepted abbreviation of a certain word, check [American Heritage Dictionary](https://ahdictionary.com/). And as a rule of thumb, place yourself into your readers' shoes. If using abbreviation is likely to cause confusion, don't use it.
 
-Regarding units of measure and their abbreviation, see[Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp).
+Regarding units of measure and their abbreviation, see [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp).
 
 
 ## **Agreement**
@@ -94,7 +94,7 @@ Independently, each sentence in the text is correct, but this kind of switching 
 >**Snapmaker 2.0**, the modular 3-in-1 3D **printer** that **unlocks** your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. **Snapmaker 2.0 is** smarter, faster, larger, and more powerful than ever before. **It is** a new generation of 3-in-1 3D **printer** that **comes** with everything you need!
 ## **Articles**
 
-Articles include indefinite articles **a**, **an**, and definite article **the**. This guide does not provide an exhaustive explaination of all three articles. Rather, it delineates some of the rules regarding the use of the definite article. For a more detailed usage guide, check out[Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/)by Grammarly.
+Articles include indefinite articles **a**, **an**, and definite article **the**. This guide does not provide an exhaustive explaination of all three articles. Rather, it delineates some of the rules regarding the use of the definite article. For a more detailed usage guide, check out [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/)by Grammarly.
 
 The rule of thumb is to put a **the** before one or more particular members of a group that you want to address. That is, use **the** if the noun or noun phrase at issue is too generic and needs to be specified. Otherwise, use **a** or **an**, or don't use any article.
 
@@ -313,7 +313,7 @@ Instead, say:
 * If you can't find answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
 * Brim, raft, and skirt are detachable structures for enhancing object adherence to the heated bed.
 
-Don't create names for steps, processes or procedures. Check the[Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp)first.
+Don't create names for steps, processes or procedures. Check the [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) first.
 
 In terms of grammar, avoid using **be + Verb (ing)** to describe future event. Use **be + Verb (ing)** to indicate progressive tense, while use the less confusing **will + Verb** to express future. For example, don't say:
 
@@ -380,7 +380,7 @@ Write in American English in all occasions, but avoid using North American slang
 |**ll vs. l**|traveling, leveling|travelling, levelling|
 |**e vs. ae**|encyclopedia|encyclopaedia|
 
-This is not an exhaustive list of the differences. When in doubt, check this website:[UK VS US SPELLING](http://www.tysto.com/2012/05/uk-vs-us-spelling/).
+This is not an exhaustive list of the differences. When in doubt, check this website: [UK VS US SPELLING](http://www.tysto.com/2012/05/uk-vs-us-spelling/).
 
 
 ### Numbers
@@ -433,7 +433,7 @@ For example, say:
 
 Don't follow the abbreviation with a period, unless the term is **inch**. In that case, write it a s**in.**.
 
-Consult[Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp)when in doubt.
+Consult [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) when in doubt.
 
 
 ## **Tone**
@@ -607,7 +607,7 @@ Separate adding information from warning your audience. Don't use a warning wher
 
 Occasionally you might need to useasterisk(*) to add a footnote. Use asterisk to add information on a word or phrase, not a text. And don't use it if a parenthesis can do the job.
 
-Though it is not interchangeablewith admonitions, use it sparingly.See[Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp)for more information.
+Though it is not interchangeablewith admonitions, use it sparingly.See [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) for more information.
 
 
 ### Emphasis and Reference
@@ -673,8 +673,8 @@ And just like stipulations in Readability, don't use internet slangs, jargons, a
 In UX writing, always introduce hyper link under the key words. In non-UX writing, introduce links with a preposition, instead of a colon. Where the link is lengthy, restructure your text to keep the link in one single line.
 
 ### Lists
-
-It is helpful to check out[Google's comparison of different types of lists](https://developers.google.com/style/lists)first.
+ 
+It is helpful to check out [Google's comparison of different types of lists](https://developers.google.com/style/lists) first.
 
 Avoid embedded lists. If your description can be sorted by a common denominator, use a list to increase scannability. For example, the following sentence contains an embedded list, and can be improved:
 
@@ -806,11 +806,11 @@ Use exclamation points sparingly.
 |**Name of Tools**|no|USB disk, filament holder tube|
 |**Name of Steps**|no|auto levelling, auto calibration|
 |**Name of Errors**|no|power outage, connection failure, black screen|
-|**V****erb****P****lus****A****dverb**|no when used as noun; yes when used as adjective|plugin, add-on|
-|**N****oun****P****lus****P****ast****P****articiple**|no|computer controlled|
-|**A****dverb****P****lus****P****ast****P****articiple**|no|newly released|
-|**A****djective****P****lus****N****oun**|no when used as noun; yes when used as adjective|high quality, high-precision|
-|**A****ffix before****V****erb**|no, unless it interferes with comprehension|preorder, remeasure, defocuse, re-adjust, re-create|
+|**Verb Plus Adverb**|no when used as noun; yes when used as adjective|plugin, add-on|
+|**Noun Plus Past Participle**|no|computer controlled|
+|**Adverb Plus Past Participle**|no|newly released|
+|**Adjective Plus Noun**|no when used as noun; yes when used as adjective|high quality, high-precision|
+|**Affix before Verb**|no, unless it interferes with comprehension|preorder, remeasure, defocuse, re-adjust, re-create|
 |**Non-**|yes|non-European, non-American, non-standard|
 |**Anti- and Counter-**|yes|anti-clockwise, counter-clockwise, counter-intuitive|
 |**X Axis, Y Axis, Z Axis and their plural forms**|no, unless used as adjective|Z Axis, Z-axis Extension Module (See **Capitalization)**.|
