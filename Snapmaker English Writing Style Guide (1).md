@@ -707,7 +707,7 @@ Use bold text for headers.
 
 ## **Punctuation**
 
-### Ampersand**(&)**
+### Ampersand **(&)**
 
 Avoid using ampersand as shorthand for **and** unless absolutely necessary.
 
