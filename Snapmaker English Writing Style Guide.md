@@ -220,7 +220,7 @@ A general rule is to use **'s** after a living organism and a brand, while use *
 
 ## **Readability**
 
-Most readers have a purpose in mind when browsing our documentations. They could be looking for guidance on certain steps, or they could simply be looking for shipping dates. Either way, simplicity and clarity reduces the volumn of documentations and time your audience spend on locating needed information.
+Most readers have a purpose in mind when browsing our documentations. They could be looking for guidance on certain steps, or they could simply be looking for shipping dates. Either way, simplicity and clarity reduces the volume of documentations and time your audience spend on locating needed information.
 
 
 ### Be Brief
