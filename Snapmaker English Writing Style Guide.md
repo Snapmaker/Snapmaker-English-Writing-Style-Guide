@@ -229,14 +229,12 @@ Get to the point fast. Don't aim for politeness at the expense of efficiency. Li
 
 Write one sentence to express one idea. Avoid using clauses where possible. And avoid multiple clauses at all cost.
 
-Prefer present tense over past tenses, as past tenses are more ambiguous and pose challenge for proofread.
-
-For example, don't say:
+Prefer present tense over past tenses, as past tenses are more ambiguous and pose challenge for proofread. For example, don't say:
 
 * Make sure you have put on CNC Safety Goggles before using the CNC function.
 * If the machine failed to respond, check if the cables have been securely connected.
 
-Instead, say
+Instead, say:
 
 * Put on CNC Safety Goggles before using the CNC function.
 * If the machine fails to respond, check if the cables are securely connected.
