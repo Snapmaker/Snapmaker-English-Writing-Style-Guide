@@ -94,7 +94,7 @@ Independently, each sentence in the text is correct, but this kind of switching 
 >**Snapmaker 2.0**, the modular 3-in-1 3D **printer** that **unlocks** your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. **Snapmaker 2.0 is** smarter, faster, larger, and more powerful than ever before. **It is** a new generation of 3-in-1 3D **printer** that **comes** with everything you need!
 ## **Articles**
 
-Articles include indefinite articles **a**, **an**, and definite article **the**. This guide does not provide an exhaustive explaination of all three articles. Rather, it delineates some of the rules regarding the use of the definite article. For a more detailed usage guide, check out [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/)by Grammarly.
+Articles include indefinite articles **a**, **an**, and definite article **the**. This guide does not provide an exhaustive explaination of all three articles. Rather, it delineates some of the rules regarding the use of the definite article. For a more detailed usage guide, check out [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/) by Grammarly.
 
 The rule of thumb is to put a **the** before one or more particular members of a group that you want to address. That is, use **the** if the noun or noun phrase at issue is too generic and needs to be specified. Otherwise, use **a** or **an**, or don't use any article.
 
@@ -241,7 +241,7 @@ Instead, say
 * Put on CNC Safety Goggles before using the CNC function.
 * If the machine fails to respond, check if the cables are securely connected.
 
-Don't say **please**, **you can**, o r**you should** at the beginning of every step. It is easy to unconsciously overuse **please**, regardless of tone. Refrain from using it in regular situations, because they lose meaning shortly and the content will become cluttered. Use it only when errors occur and fixing them can cause inconvenience for the user.
+Don't say **please**, **you can**, or **you should** at the beginning of every step. It is easy to unconsciously overuse **please**, regardless of tone. Refrain from using it in regular situations, because they lose meaning shortly and the content will become cluttered. Use it only when errors occur and fixing them can cause inconvenience for the user.
 
 More words are not always more accurate. Always use less words when they are precise enough. For example, don't say:
 
@@ -369,7 +369,7 @@ Don't assume your audience know. Always provide background information when you 
 
 Write in American English in all occasions, but avoid using North American slangs. American English can differ from British English in a variety of ways. The following table provides an overview.
 
-|    |**American****S****pelling**|**British Spelling**|
+|    |**American Spelling**|**British Spelling**|
 |:----|:----|:----|
 |**ou vs. ous**|color, flavor, favorite|colour, flavour, favourite|
 |**g vs. gue**|catalog, dialog|catalogue, dialogue|
@@ -431,7 +431,7 @@ For example, say:
 * 45 kg instead of 45 kilogram
 * 20 lb instead of 20 pounds
 
-Don't follow the abbreviation with a period, unless the term is **inch**. In that case, write it a s**in.**.
+Don't follow the abbreviation with a period, unless the term is **inch**. In that case, write it as **in.**.
 
 Consult [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) when in doubt.
 
@@ -484,7 +484,7 @@ Refer to 12:00 as **12 noon** or **12 midnight** to avoid causing confusion. The
 
 ### File Name Extensions
 
-Refer to the file type in upper case when it's in the middle of the sentence. If the name of the file type is at the end of a sentence, write it out as**.file extension**. For example, don't say:
+Refer to the file type in upper case when it's in the middle of the sentence. If the name of the file type is at the end of a sentence, write it out as **.file extension**. For example, don't say:
 
 * Download the pdf of User Manual.
 * Upload you jpg model file.
@@ -579,8 +579,8 @@ Use title-style capitalization for titles and all levels of headings.
 Use lowercase for terms of measurement, except for:
 
 * Decibels (dB)
-* Celsius degree (**°**C)
-* Fahrenheit degree （**°**F)
+* Celsius degree (**°C**)
+* Fahrenheit degree （**°F**)
 * Milliwatt (mW)
 * Megawatt (MW)
 
@@ -605,7 +605,7 @@ Instead, say:
 
 Separate adding information from warning your audience. Don't use a warning where a note can do the job. Don't overuse **Caution** and **Warning**, otherwise they will lose the weight they carry.
 
-Occasionally you might need to useasterisk(*) to add a footnote. Use asterisk to add information on a word or phrase, not a text. And don't use it if a parenthesis can do the job.
+Occasionally you might need to use an asterisk (\*) to add a footnote. Use asterisk to add information on a word or phrase, not a text. And don't use it if a parenthesis can do the job.
 
 Though it is not interchangeablewith admonitions, use it sparingly.See [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) for more information.
 
@@ -617,7 +617,7 @@ Use bold text to highlight actions, or refer to book names, movie titles and the
 >Tap "Controls" on the Touchscreen, and tap "Home Axes" to run a homing session.
 >Or:
 
->Tap*Controls*on the Touchscreen, and tap*Home Axes*to run a homing session.
+>Tap *Controls* on the Touchscreen, and tap *Home Axes* to run a homing session.
 
 Instead, say:
 
@@ -625,7 +625,7 @@ Instead, say:
 
 Also, use bold text when referring to elements in the UI. Occasionally, use icons along with bold text if it's easier to understand. For example, say:
 
->Enter**Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail)to reload serial ports list.
+>Enter **Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail)to reload serial ports list.
 
 ### 
 ## **Organization**
