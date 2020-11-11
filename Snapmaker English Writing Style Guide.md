@@ -481,6 +481,19 @@ Instead, say:
 
 Refer to 12:00 as **12 noon** or **12 midnight** to avoid causing confusion. The designations **noon** and **midnight** should be lower case.
 
+An exception is UX-writing that addresses an event taking place solely in one country, in which case elements like **UTC-8** or **UTC-5** can look odd. Use the popular time indication in the country or region instead, and in upper case. Even if some countries may have more than one standard time, only use one. Common names of time zone are listed below.
+
+|**Country or Region**|**Name**|**Offset**|**Commence**|
+|:----|:----|:----|:----|
+|**Canada, the US, and Mexico**|Pacific Standard Time (PST)|UTC-8|on the first Sunday of November|
+|**Canada, the US, and Mexico**|Pacific Daylight Time (PDT)|UTC-7|on the second Sunday of March|
+|**The UK and Ireland**|Greenwich Mean Time (GMT)|UTC+0|on the last Sunday of October|
+|**The UK and Ireland**|Brisish Summer Time (BST)|UTC+1|on the last Sunday of March|
+|**Members of European Union**|Central Europe Time (CET)|UTC+1|on the last Sunday of October|
+|**Members of European Union**|Central Europe Standard Time (CEST)|UTC+2|on the last Sunday of March|
+|**Australia**|Australian Eastern Standard Time (AEST)|UTC+10|on the first Sunday of April|
+|**Australia**|Australian Eastern Daylight Time (AEST)|UTC+11|on the first Sunday of October|
+
 
 ### File Name Extensions
 
