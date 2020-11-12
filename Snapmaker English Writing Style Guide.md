@@ -268,9 +268,9 @@ Don't use expressions that are already ubiquitous in Chinese language. It's like
 
 
 ### Be Precise
-Being simple is important, but it should not come at the expense of clarity. After all, if the readers don't understand what you mean, a documentation becomes useless. If you have to use homographic verbs, define them first, especially in Quick Start Guides and User Manuals.
+Being simple is important, but it should not come at the expense of clarity. After all, if the readers don't understand what you mean, a documentation becomes useless. If you have to use homonyms, define them first, especially in Quick Start Guides and User Manuals.
 
-The most commonly used homographic verbs include:
+The most commonly used homonyms include:
 
 * Shall
 * Must
