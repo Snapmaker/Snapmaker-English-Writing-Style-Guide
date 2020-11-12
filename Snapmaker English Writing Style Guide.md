@@ -301,7 +301,7 @@ Avoid using words that are too vague or too weak to mean anything. Use specific 
 * It may cause a phenomenon called **dust accumulation**.
 * You should use the dust plugs to avoid the problem of dust accumulation.
 * If you can't find answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
-* Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the heated bed.
+* Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the Heated Bed.
 
 Instead, say:
 
@@ -309,7 +309,7 @@ Instead, say:
 * It may cause dust accumulation.
 * Use the dust plugs to avoid dust accumulation.
 * If you can't find answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
-* Brim, raft, and skirt are detachable structures for enhancing object adherence to the heated bed.
+* Brim, raft, and skirt are detachable structures for enhancing object adherence to the Heated Bed.
 
 Don't create names for steps, processes or procedures. Check the [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) first.
 
