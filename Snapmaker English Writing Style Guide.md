@@ -513,16 +513,16 @@ Instead, say:
 Use sentence-style capitalization in a list, whether the introducing sentence ends with a colon or a period. For example, don't say:
 
 >Prerequisite:
->>a pair of tweezers
->a glue stick
->two spools of PLA filament
+>* a pair of tweezers
+>* a glue stick
+>* two spools of PLA filament
 
 Instead, say:
 
 >Prerequisite:
->>A pair of tweezers
->A glue stick
->Two spools of PLA filament
+>* A pair of tweezers
+>* A glue stick
+>* Two spools of PLA filament
 
 If the list is embedded within a sentence, use lower case in the list. For example, don't say:
 
