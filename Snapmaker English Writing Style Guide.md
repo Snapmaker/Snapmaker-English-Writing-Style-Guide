@@ -550,14 +550,14 @@ Proper nouns can be divided to the following categories.
 
 |**Type**|**Usage**|**Example**|
 |:----|:----|:----|
-|Names ofthe Snapmaker Brand|title-style|Snapmaker|
-|Names ofSnapmaker's Products|title-style|Snapmaker Artisan|
-|Names ofSnapmaker's Software,Firmware andApp|title-style|Snapmaker Luban|
+|Names of the Snapmaker Brand|title-style|Snapmaker|
+|Names of Snapmaker's Products|title-style|Snapmaker Artisan|
+|Names of Snapmaker's Software, Firmware and App|title-style|Snapmaker Luban|
 |Names of Steps, Features and Functions|title-style|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
 |Names of Snapmaker's Services and Policies|sentence-style|Snapmaker's customer service, Snapmaker's return policy|
-|Names ofParts,Tools, andMaterials|title-style for thosewithSnapmaker's logo;<br>sentence-style for the rest|Laser Module,Heated Bed, Calibration Card;<br>screwdriver,clamp set,acrylic plate|
-|Names ofKeys|as displayed on keyboards, regardless of operating system|Ctrl, Enter|
-|Names ofErrors|lowercase at all times; don't ever capitalize|black screen, power loss|
+|Names of Parts, Tools, and Materials|title-style for those with Snapmaker's logo;<br>sentence-style for the rest|Laser Module, Heated Bed, Calibration Card;<br>screwdriver, clamp set, acrylic plate|
+|Names of Keys|as displayed on keyboards, regardless of operating system|Ctrl, Enter|
+|Names of Errors|lowercase at all times; don't ever capitalize|black screen, power loss|
 |X Axis, Y Axis, Z Axis and their Plural Forms|Capitalize the **A** in **Axis** or **Axes** when used as non-adjective, otherwise don't capitalize.|Z Axis, Z-axis Extension Module.|
 
 Note that hyphenated proper nouns should be capitalized in sentence-style. Refer to **Hyphens (-)** for more information.
