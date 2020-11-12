@@ -684,8 +684,6 @@ And just like stipulations in Readability, don't use internet slangs, jargons, a
 In UX writing, always introduce hyper link under the key words. In non-UX writing, introduce links with a preposition, instead of a colon. Where the link is lengthy, restructure your text to keep the link in one single line.
 
 ### Lists
- 
-It is helpful to check out [Google's comparison of different types of lists](https://developers.google.com/style/lists) first.
 
 Avoid embedded lists. If your description can be sorted by a common denominator, use a list to increase scannability. For example, the following sentence contains an embedded list, and can be improved:
 
