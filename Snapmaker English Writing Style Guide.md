@@ -862,7 +862,7 @@ Don't use quotation marks to refer to elements in the UI or as emphasis. Use bol
 
 ### Semi-colons (;)
 
-Use semi-colons to connect two sentences that are close in meaning. Otherwise, use periods. Also, note that therefore, otherwise, namely are adverbs. So separate them with the previous sentence with a semi-colon, rather than a comma. For example, don't say:
+Use semi-colons to connect two sentences that are close in meaning. Otherwise, use periods. Also, note that **therefore**, **otherwise**, and **namely** are adverbs. So separate them with the previous sentence with a semi-colon, rather than a comma. For example, don't say:
 
 >The firmware is updated on 8th September, therefore if you use the previous version, you may experience delay.
 
