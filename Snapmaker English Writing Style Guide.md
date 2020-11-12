@@ -558,7 +558,7 @@ Proper nouns can be divided to the following categories.
 |Names of Parts, Tools, and Materials|title-style for those with Snapmaker's logo;<br>sentence-style for the rest|Laser Module, Heated Bed, Calibration Card;<br>screwdriver, clamp set, acrylic plate|
 |Names of Keys|as displayed on keyboards, regardless of operating system|Ctrl, Enter|
 |Names of Errors|lowercase at all times; don't ever capitalize|black screen, power loss|
-|X Axis, Y Axis, Z Axis and their Plural Forms|Capitalize the **A** in **Axis** or **Axes** when used as non-adjective, otherwise don't capitalize.|Z Axis, Z-axis Extension Module.|
+|X Axis, Y Axis, Z Axis and their Plural Forms|capitalize the **A** in **Axis** or **Axes** when used as non-adjective, otherwise don't capitalize|Z Axis, Z-axis Extension Module|
 
 Note that hyphenated proper nouns should be capitalized in sentence-style. Refer to **Hyphens (-)** for more information.
 
