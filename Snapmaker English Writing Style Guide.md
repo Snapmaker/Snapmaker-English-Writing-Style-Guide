@@ -555,7 +555,7 @@ Proper nouns can be divided to the following categories.
 |Names of Snapmaker's Software, Firmware and App|title-style|Snapmaker Luban|
 |Names of Steps, Features and Functions|title-style|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
 |Names of Snapmaker's Services and Policies|sentence-style|Snapmaker's customer service, Snapmaker's return policy|
-|Names of Parts, Tools, and Materials|title-style for those with Snapmaker's logo;<br>sentence-style for the rest|Laser Module, Heated Bed, Calibration Card;<br>screwdriver, clamp set, acrylic plate|
+|Names of Parts, Tools, and Materials|title-style for those with Snapmaker's logo;<br>lowercase for the rest|Laser Module, Heated Bed, Calibration Card;<br>screwdriver, clamp set, acrylic plate|
 |Names of Keys|as displayed on keyboards, regardless of operating system|Ctrl, Enter|
 |Names of Errors|lowercase at all times; don't ever capitalize|black screen, power loss|
 |X Axis, Y Axis, Z Axis and their Plural Forms|capitalize the **A** in **Axis** or **Axes** when used as non-adjective, otherwise don't capitalize|Z Axis, Z-axis Extension Module|
