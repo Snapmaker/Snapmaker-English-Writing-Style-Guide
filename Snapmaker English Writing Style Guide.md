@@ -279,7 +279,7 @@ If you have to use homonyms, define them first, especially in Quick Start Guides
 * May
 * Can
 
-Avoid using **shall**, **need**, and **may**. Use **must**, **should**, and **can** instead. For clarification of the other four words, copy and paste the following text where applicable:
+Avoid using **shall**, **need**, and **may**. Use **must**, **should**, and **can** instead. For clarification of these three words, copy and paste the following text where applicable:
 
 >Throughout this document, **must** denotes a requirement. Failure to follow is likely to cause hazards. **Should** denotes strong recommendation. Failure to follow is likely to result in unsatisfactory printing results. **Can** demotes general recommendation, which points to resources sites.
 
