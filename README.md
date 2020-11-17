@@ -36,40 +36,40 @@ Below is a **Table of Content** which help you navigate.
 # Formatting and Content Planning
 
 * Capitalization
- * Dates and Times
- * File Name Extensions
- * Lists
- * Notes
- * Proper Nouns
- * Texts in a Table
- * Titles and Headings
- * Units of Measure
+  * Dates and Times
+  * File Name Extensions
+  * Lists
+  * Notes
+  * Proper Nouns
+  * Texts in a Table
+  * Titles and Headings
+  * Units of Measure
 
 * Notation
- * Admonitions
- * Emphasis and Reference
+  * Admonitions
+  * Emphasis and Reference
 
 * Organization
- * Headings
- * Links
- * Lists
- * Tables
+  * Headings
+  * Links
+  * Lists
+  * Tables
 
 * Punctuation
- * Ampersand (&)
- * Asterisks (\*)
- * Colons (:)
- * Commas (,)
- * Ellipses (...)
- * En dashes (–)
- * Em dashes (—)
- * Exclamation points (!)
- * Hyphens (-)
- * Parentheses ()
- * Periods (.)
- * Quotation marks ("")
- * Semi-colons (;)
- * Slashes (/)
+  * Ampersand (&)
+  * Asterisks (\*)
+  * Colons (:)
+  * Commas (,)
+  * Ellipses (...)
+  * En dashes (–)
+  * Em dashes (—)
+  * Exclamation points (!)
+  * Hyphens (-)
+  * Parentheses ()
+  * Periods (.)
+  * Quotation marks ("")
+  * Semi-colons (;)
+  * Slashes (/)
 
 * Spacing
 
