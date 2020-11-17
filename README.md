@@ -23,13 +23,13 @@ Below is a **Table of Content** which help you navigate.
   * Noun Modifiers
 
 * Readability
- * Be Brief
- * Be Precise
- * Be Thoughtful
+  * Be Brief
+  * Be Precise
+  * Be Thoughtful
 
 * Spelling
- * Numbers
- * Units of Measure
+  * Numbers
+  * Units of Measure
 
 * Tone
 
