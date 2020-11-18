@@ -12,30 +12,30 @@ Below is a **Table of Content** which help you navigate.
 
 # [Language and Grammar](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#language-and-grammar)
 * [Abbreviation](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#abbreviation)
-- Agreement
-  * Pronoun-antecedent Agreement
-  * Subject-verb Agreement
+* [Agreement](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#agreement)
+  * [Pronoun-antecedent Agreement](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#pronoun-antecedent-agreement)
+  * [Subject-verb Agreement](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#subject-verb-agreement)
 
-* Articles
-  * Modifiers
-  * Misplaced Modifiers
-  * Multiple Modifiers
-  * Noun Modifiers
+* [Articles](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#articles)
+* [Modifiers](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#modifiers)
+  * [Misplaced Modifiers](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#misplaced-modifiers)
+  * [Multiple Modifiers](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#multiple-modifiers)
+  * [Noun Modifiers](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#noun-modifiers)
 
-* Readability
-  * Be Brief
-  * Be Precise
-  * Be Thoughtful
+* [Readability](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#readability)
+  * [Be Brief](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#be-brief)
+  * [Be Precise](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#be-precise)
+  * [Be Thoughtful](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#be-thoughtful)
 
-* Spelling
-  * Numbers
-  * Units of Measure
+* [Spelling](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#spelling)
+  * [Numbers](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#numbers)
+  * [Units of Measure](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#units-of-measure)
 
-* Tone
+* [Tone](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#tone)
 
-# Formatting and Content Planning
+# [Formatting and Content Planning](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#formatting-and-content-planning)
 
-* Capitalization
+* [Capitalization](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#formatting-and-content-planning)
   * Dates and Times
   * File Name Extensions
   * Lists
@@ -45,17 +45,17 @@ Below is a **Table of Content** which help you navigate.
   * Titles and Headings
   * Units of Measure
 
-* Notation
+* [Notation](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#notation)
   * Admonitions
   * Emphasis and Reference
 
-* Organization
+* [Organization](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#organization)
   * Headings
   * Links
   * Lists
   * Tables
 
-* Punctuation
+* [Punctuation](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#punctuation)
   * Ampersand (&)
   * Asterisks (\*)
   * Colons (:)
@@ -71,6 +71,6 @@ Below is a **Table of Content** which help you navigate.
   * Semi-colons (;)
   * Slashes (/)
 
-* Spacing
+* [Spacing](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#spacing)
 
-# Chinese Translation
+# [Chinese Translation](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#snapmaker-%E8%8B%B1%E6%96%87%E5%86%99%E4%BD%9C%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97)
