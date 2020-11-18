@@ -10,8 +10,8 @@ As of November 12, 2020, the Shimo copy of this guide is no longer being monitor
 
 Below is a **Table of Content** which help you navigate.
 
-# Language and Grammar
-* Abbreviation
+# [Language and Grammar](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#language-and-grammar)
+* [Abbreviation](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#abbreviation)
 - Agreement
   * Pronoun-antecedent Agreement
   * Subject-verb Agreement
