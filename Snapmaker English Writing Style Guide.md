@@ -24,7 +24,7 @@ It is helpful to distinguish between **initialisms**, **acronyms**, **shortened 
 
 To achieve a friendly tone, we use all types of abbreviation in our user experience (UX) writing. So it's okay to say:
 
-* Supported OS: MacOS, Linux, Window 10 and above
+* Supported OS: macOS, Linux, Window 10 and above
 * the US, the UK, the UN (with no **.** in between)
 * app, demo, sync, docs, pics
 * We're streaming!
@@ -47,7 +47,7 @@ Don't use incorrect English. For example, don't say:
 
 * There ain't anything you can't do.
 * We gon' bring you the best experience ever!
-* [What're the repeatability, max. travel length, backlash of the linear modules of three models?](https://support.snapmaker.com/hc/en-us/categories/360001781913-Snapmaker-2-0)
+* What're the repeatability, max. travel length, backlash of the linear modules of three models?
 * trynna, wanna, gonna
 * pp or ppl
 * w/
@@ -76,7 +76,7 @@ A pronoun is used to refer to a noun or noun phrase previously mentioned. To ach
 
 However, do check whether your reference is clear after you finish writing, as pronouns can mislead your audience when used inappropriately. In the following note, for example, it is hard to tell what **its** refer to:
 
->[Note: Parts that are replaced under the Warranty also fall under its original warranty duration and do not restart.](https://support.snapmaker.com/hc/en-us/articles/360051069934-Snapmaker-s-Limited-Warranty)
+>Note: Parts that are replaced under the Warranty also fall under its original warranty duration and do not restart.
 
 On closer inspection, **its** might be referring to **parts** , but as **parts** is a plural noun, the correct pronoun should be **their**.
 
@@ -87,7 +87,7 @@ Although their misuse is not as confusing as that of pronouns and antecedents, i
 
 For example, the following text refers to Snapmaker 2.0 as a single noun and a plural concept at the same time:
 
->[Snapmaker 2.0](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[, the modular 3-in-1 3D ](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[printers](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[ that ](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[unlock](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[ your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. ](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[Snapmaker 2.0 is](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[ smarter, faster, larger, and more powerful than ever before. ](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[It](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[ ](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[is a](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[ new ](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[generation](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[ of 3-in-1 3D ](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[printers](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[ that ](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[come](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)[ with everything you need!](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)
+>Snapmaker 2.0, the modular 3-in-1 3D printers that unlock] your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. Snapmaker 2.0 is smarter, faster, larger, and more powerful than ever before. It is a generation of 3-in-1 3D printers that com with everything you need!
 
 Independently, each sentence in the text is correct, but this kind of switching creates difficulty for proofread, content reuse, as well as localization. It can be improved by being more consistent with agreement:
 
@@ -108,7 +108,7 @@ Whereas when it is used as more of a generic term, a standard process which is p
 
 This being said, many people tend to overuse the definite article. In the following text, for  instance, **replacement** is preceded by a **the**, with the unintended consequence of making it sound like Snapmaker offers a non-standard type of replacement.
 
->[If there is no silicone pad, we will send you a new linear module for the replacement.  ](https://support.snapmaker.com/hc/en-us/articles/360051985253-What-should-I-do-if-some-linear-modules-stop-working-randomly-)
+>If there is no silicone pad, we will send you a new linear module for the replacement.
 
 This sentence will look a lot more natural by deleting the definite article before **replacement**:
 
@@ -160,7 +160,7 @@ Modifiers should be put adjacent to the words they modify. When you separate the
 
 In the following text, **for no reason** is intended to describe **stop**, but they are separated by a string of words:
 
->[If the linear modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.](https://support.snapmaker.com/hc/en-us/articles/360051985253-What-should-I-do-if-some-linear-modules-stop-working-randomly-)
+>If the linear modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.
 
 The audience can't help but wonder how can the machine be working for no reason. This kind of confusion can be avoided by moving **for no reason** next to **stop**:
 
@@ -608,7 +608,7 @@ This kind of information layout immediately puts an impatient reader off. The no
 
 Use **Note** to add information. Don't use **Attention**, **Notice**, **FYI**, or **PS**. For example, don't say:
 
->[Attention: Rest assured that our Technical support is always available to help you out under any circumstances, even if the issue is not covered under warranty. Please feel free to contact us at support@snapmaker.com. ](https://support.snapmaker.com/hc/en-us/articles/360051069934-Snapmaker-s-Limited-Warranty)
+>Attention: Rest assured that our Technical support is always available to help you out under any circumstances, even if the issue is not covered under warranty. Please feel free to contact us at support@snapmaker.com. 
 
 Instead, say:
 
@@ -873,7 +873,7 @@ Instead, say:
 
 Avoid using slash as shorthand for **or**. On rare occasions where you have to use a slash, don't use more than one. More often than not, the slashes can be replaced by commas. For example, don't say:
 
->[You can recover any project and get perfect printing / engraving / cutting / carving results all the time.](https://snapmaker.com/product/snapmaker-2)
+>You can recover any project and get perfect printing / engraving / cutting / carving results all the time.
 
 Instead, say:
 
@@ -941,7 +941,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 我们可以在所有用户体验（UX）类的文档写作中使用以上所有类型的缩略，以传达友好的语气。所以，你可以说：
 
-* Supported OS: MacOS, Linux, Window 10 and above
+* Supported OS: macOS, Linux, Window 10 and above
 * the US, the UK, the UN (中间不用打点)
 * app, demo, sync, docs, pics
 * We're streaming!
@@ -966,7 +966,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 * There ain't anything you can't do.
 * We gon' bring you the best experience ever!
-* [What're the repeatability, max. travel length, backlash of the linear modules of three models?](https://support.snapmaker.com/hc/en-us/categories/360001781913-Snapmaker-2-0)
+* What're the repeatability, max. travel length, backlash of the linear modules of three models?
 * trynna, wanna, gonna
 * pp or ppl
 * w/
@@ -995,7 +995,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 但是，一定要检查代词是否指代清楚，因为如果使用不当的话，反而会误导读者。举个例子，在下面的说明中，很难看出来 **its** 指代的是什么:
 
->[Note: Parts that are replaced under the Warranty also fall under its original warranty duration and do not restart.](https://support.snapmaker.com/hc/en-us/articles/360051069934-Snapmaker-s-Limited-Warranty)
+>Note: Parts that are replaced under the Warranty also fall under its original warranty duration and do not restart.
 
 仔细一看，**its** 指代的可能是 **parts**, 但由于 **parts** 是复数，正确的代词应该是 **their**。
 
@@ -1005,7 +1005,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 举个例子，下面的文本中一会儿将 Snapmaker 二代机当作单数，一会儿又当作复数：
 
->[**Snapmaker 2.0**, the modular 3-in-1 3D **printers** that unlock your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. Snapmaker 2.0 **is** smarter, faster, larger, and more powerful than ever before. **It is** a generation of 3-in-1 3D **printers** that **come** with everything you need!](https://shop.snapmaker.com/products/snapmaker-2-0-modular-3-in-1-3d-printers)
+>**Snapmaker 2.0**, the modular 3-in-1 3D **printers** that unlock your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. Snapmaker 2.0 **is** smarter, faster, larger, and more powerful than ever before. **It is** a generation of 3-in-1 3D **printers** that **come** with everything you need!
 
 单独来看，每个句子都是对的。但这种单复数的切换会给校对、复用，和本地化带来困难。如果统一改为单数，就会好很多。
 
@@ -1027,7 +1027,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 尽管如此规定，很多人依然会过度使用定冠词。比如在下面这段文本中，**replacement** 前面加了一个 **the**，这就使得这句话背离了原意，读起来像 Snapmaker 提供某种独特的换货服务一样。
 
->[If there is no silicone pad, we will send you a new linear module for the replacement.  ](https://support.snapmaker.com/hc/en-us/articles/360051985253-What-should-I-do-if-some-linear-modules-stop-working-randomly-)
+>If there is no silicone pad, we will send you a new linear module for the replacement. 
 
 如果删掉 **replacement** 前面的定冠词，这句话读起来会自然得多：
 
@@ -1080,7 +1080,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 在下面的文本中，**for no reason** 本来是要描述 **stop**，但它们之间隔了一串其他词语：
 
->[If the linear modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.](https://support.snapmaker.com/hc/en-us/articles/360051985253-What-should-I-do-if-some-linear-modules-stop-working-randomly-)
+>If the linear modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.
 
 读者可能会困惑：机器怎么会无缘无故地工作呢？类似这样的误解时可以避免的，只要把修饰语 **for no reason** 放在 **stop** 旁边：
 
@@ -1509,7 +1509,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 用 **Note** 来添加额外说明，不要用 **Attention**，**Notice**，**FYI**，或者 **PS**。比如，不要说：
 
->[Attention: Rest assured that our Technical support is always available to help you out under any circumstances, even if the issue is not covered under warranty. Please feel free to contact us at support@snapmaker.com. ](https://support.snapmaker.com/hc/en-us/articles/360051069934-Snapmaker-s-Limited-Warranty)
+>Attention: Rest assured that our Technical support is always available to help you out under any circumstances, even if the issue is not covered under warranty. Please feel free to contact us at support@snapmaker.com.
 
 而应该说：
 
@@ -1637,7 +1637,7 @@ Use asterisks when adding footnote. See Notation.
 以下情况使用逗号：
 
 * 内嵌列表中，**and** 前面
-* 祈使句中，**and* *前面
+* 祈使句中，**and** 前面
 * 复杂句中，作状语的分词前面
 * 复合句中，连词前面
 * 同一个句子中有两个问题，**or** 前面
@@ -1755,7 +1755,7 @@ Use asterisks when adding footnote. See Notation.
 
 不要用斜杠来代替 **or**。如果非用不可，也不要多个并排用，因为大部分情况下可以用逗号替代多个斜杠。比如，不要说：
 
->[You can recover any project and get perfect printing / engraving / cutting / carving results all the time.](https://snapmaker.com/product/snapmaker-2)
+>You can recover any project and get perfect printing / engraving / cutting / carving results all the time.
 
 而应该说：
 
