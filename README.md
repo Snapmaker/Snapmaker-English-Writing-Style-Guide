@@ -36,40 +36,40 @@ Below is a **Table of Content** which help you navigate.
 # [Formatting and Content Planning](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#formatting-and-content-planning)
 
 * [Capitalization](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#formatting-and-content-planning)
-  * Dates and Times
-  * File Name Extensions
-  * Lists
-  * Notes
-  * Proper Nouns
-  * Texts in a Table
-  * Titles and Headings
-  * Units of Measure
+  * [Dates and Times](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#dates-and-times)
+  * [File Name Extensions](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#file-name-extensions)
+  * [Lists](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#lists)
+  * [Notes](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#notes)
+  * [Proper Nouns](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#proper-nouns)
+  * [Texts in a Table](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#texts-in-a-table)
+  * [Titles and Headings](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#titles-and-headings)
+  * [Units of Measure](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#units-of-measure-1)
 
 * [Notation](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#notation)
-  * Admonitions
-  * Emphasis and Reference
+  * [Admonitions](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#admonitions)
+  * [Emphasis and Reference](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#emphasis-and-reference)
 
 * [Organization](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#organization)
-  * Headings
-  * Links
-  * Lists
-  * Tables
+  * [Headings](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#headings)
+  * [Links](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#links)
+  * [Lists](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#lists-1)
+  * [Tables](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#tables)
 
 * [Punctuation](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#punctuation)
-  * Ampersand (&)
-  * Asterisks (\*)
-  * Colons (:)
-  * Commas (,)
-  * Ellipses (...)
-  * En dashes (–)
-  * Em dashes (—)
-  * Exclamation points (!)
-  * Hyphens (-)
-  * Parentheses ()
-  * Periods (.)
-  * Quotation marks ("")
-  * Semi-colons (;)
-  * Slashes (/)
+  * [Ampersand (&)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#ampersand-)
+  * [Asterisks (\*)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#asterisks-)
+  * [Colons (:)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#colons-)
+  * [Commas (,)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#commas-)
+  * [Ellipses (...)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#ellipses-)
+  * [En dashes (–)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#en-dashes-)
+  * [Em dashes (—)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#em-dashes-)
+  * [Exclamation points (!)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#exclamation-points-)
+  * [Hyphens (-)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#hyphens--)
+  * [Parentheses ()](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#parentheses-)
+  * [Periods (.)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#periods-)
+  * [Quotation marks ("")](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#quotation-marks-)
+  * [Semi-colons (;)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#semi-colons-)
+  * [Slashes (/)](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#slashes-)
 
 * [Spacing](https://github.com/Snapmaker/Snapmaker-English-Writing-Style-Guide/blob/main/Snapmaker%20English%20Writing%20Style%20Guide.md#spacing)
 
