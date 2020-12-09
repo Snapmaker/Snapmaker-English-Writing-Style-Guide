@@ -444,7 +444,7 @@ In both cases, be factual and candid. Avoid promotional hype, exaggerations, and
 
 Avoid emojis, jokes, puns, internet slangs, and cultural or religious references.
 
-Address your audience in second person. When writing in third person, use inclusive language rather than gender-specific words. For example, don't say:
+Address your audience in the second person. When writing in the third person, use inclusive language rather than gender-specific words. For example, don't say:
 
 >When operating this machine, user must follow safety instructions in this guide for his own safety. Snapmaker shall not be held responsible if he fails to do so and gets injured.
 
@@ -454,7 +454,7 @@ Instead, say:
 
 Or, say:
 
->When operating this machine, persons must follow safety instructions in this guide for their own safety. Snapmaker shall not be held responsible if persons fails to do so and gets injured.
+>When operating this machine, persons must follow safety instructions in this guide for their own safety. Snapmaker shall not be held responsible if persons fail to do so and get injured.
 
 With an informal tone, be conversational. Violate grammar once or twice. It's okay to end sentences with prepositions. And it's okay to start a sentence with **And** or **But**.
 
