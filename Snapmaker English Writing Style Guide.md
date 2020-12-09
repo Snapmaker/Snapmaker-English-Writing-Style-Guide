@@ -24,14 +24,14 @@ It is helpful to distinguish between **initialisms**, **acronyms**, **shortened 
 
 To achieve a friendly tone, we use all types of abbreviation in our user experience (UX) writing. So it's okay to say:
 
-* Supported OS: macOS, Linux, Window 10 and above
+* Supported OS: macOS, Linux, Windows 10 and above
 * the US, the UK, the UN (with no **.** in between)
 * app, demo, sync, docs, pics
 * We're streaming!
 * You'll find it exciting.
 * Don't hesitate. Order it now!
 
-While it is okay to use all types of abbreviations in UX content, avoid using contractions in Quick Start Guides and User Manuals. Use acronyms and shortened words with caution. And always define the term first; then include the abbreviated term in the following parenthesis.
+While it is okay to use all types of abbreviations in UX content, avoid using contractions in Quick Start Guides and User Manuals. Use acronyms and shortened words with caution. And always define the term first; then include the abbreviated term in the following parentheses.
 
 For example, in this text, **Target Temperature** is used several times, which makes the whole paragraph look cluttered:
 
@@ -41,7 +41,7 @@ You can clean up the mess by using abbreviation:
 
 >Change the **Target Temperature** (TT) based on the filament you use (the default **TT** is 200 °C). While you wait for the temperature to rise to the **TT**, hang the filament onto the filament holder.
 
-Note that you should use the abbreviated phrase for subsequent mentions within the chapter, and don't switch between abbreviations and full forms. But, to avoid confusion in content reuse, provide full form in a parenthesis after the abbreviation once every chapter.
+Note that you should use the abbreviated phrase for subsequent mentions within the chapter, and don't switch between abbreviations and full forms. But, to avoid confusion in content reuse, provide a full form in a parenthesis after the abbreviation once every chapter.
 
 Don't use incorrect English. For example, don't say:
 
@@ -63,7 +63,7 @@ Instead, say:
 * with
 * your, you're, you all
 
-If you are not sure about what is the accepted abbreviation of a certain word, check [American Heritage Dictionary](https://ahdictionary.com/). And as a rule of thumb, place yourself into your readers' shoes. If using abbreviation is likely to cause confusion, don't use it.
+If you are not sure about what is the accepted abbreviation of a certain word, check [American Heritage Dictionary](https://ahdictionary.com/). And as a rule of thumb, place yourself into your readers' shoes. If using an abbreviation is likely to cause confusion, don't use it.
 
 Regarding units of measure and their abbreviation, see [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp).
 
@@ -74,7 +74,7 @@ Regarding units of measure and their abbreviation, see [Snapmaker Glossary](http
 
 A pronoun is used to refer to a noun or noun phrase previously mentioned. To achieve word economy, as well as increase readability, it is encouraged that you use pronouns where appropriate, instead of spelling out the whole term all the time.
 
-However, do check whether your reference is clear after you finish writing, as pronouns can mislead your audience when used inappropriately. In the following note, for example, it is hard to tell what **its** refer to:
+However, do check whether your reference is clear after you finish writing, as pronouns can mislead your audience when used inappropriately. In the following note, for example, it is hard to tell what **its** refers to:
 
 >Note: Parts that are replaced under the Warranty also fall under its original warranty duration and do not restart.
 
@@ -89,12 +89,14 @@ For example, the following text refers to Snapmaker 2.0 as a single noun and a p
 
 >Snapmaker 2.0, the modular 3-in-1 3D printers that unlock] your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. Snapmaker 2.0 is smarter, faster, larger, and more powerful than ever before. It is a generation of 3-in-1 3D printers that com with everything you need!
 
-Independently, each sentence in the text is correct, but this kind of switching creates difficulty for proofread, content reuse, as well as localization. It can be improved by being more consistent with agreement:
+Independently, each sentence in the text is correct, but this kind of switching creates difficulty for proofreading, content reuse, as well as localization. It can be improved by being more consistent in agreement:
 
 >**Snapmaker 2.0**, the modular 3-in-1 3D **printer** that **unlocks** your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. **Snapmaker 2.0 is** smarter, faster, larger, and more powerful than ever before. **It is** a new generation of 3-in-1 3D **printer** that **comes** with everything you need!
+
+
 ## **Articles**
 
-Articles include indefinite articles **a**, **an**, and definite article **the**. This guide does not provide an exhaustive explaination of all three articles. Rather, it delineates some of the rules regarding the use of the definite article. For a more detailed usage guide, check out [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/) by Grammarly.
+Articles include indefinite articles **a**, **an**, and definite article **the**. This guide does not provide an exhaustive explanation of all three articles. Rather, it delineates some of the rules regarding the use of the definite article. For a more detailed usage guide, check out [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/) by Grammarly.
 
 The rule of thumb is to put a **the** before one or more particular members of a group that you want to address. That is, use **the** if the noun or noun phrase at issue is too generic and needs to be specified. Otherwise, use **a** or **an**, or don't use any article.
 
