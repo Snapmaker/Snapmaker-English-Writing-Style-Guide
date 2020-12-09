@@ -722,6 +722,10 @@ Use bold text for headers.
 
 Avoid using ampersand as shorthand for **and** unless absolutely necessary.
 
+### Angle Bracket **(>)** 
+
+Where there is not enough room for a numbered description of sequential process, use angle brackets to link small steps together. Do not use **->**, **-->**, **--**, or **—→**.
+
 
 ### Asterisks (*)
 
