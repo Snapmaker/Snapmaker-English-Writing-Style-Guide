@@ -724,8 +724,15 @@ Avoid using ampersand as shorthand for **and** unless absolutely necessary.
 
 ### Angle Bracket **(>)** 
 
-Where there is not enough room for a numbered description of sequential process, use angle brackets to link small steps together. Do not use **->**, **-->**, **--**, or **—→**.
+Use angle brackets to link small steps together Where there is not enough room for a step-by-step description, which requires considerable spacing. Do not use **->**, **-->**, **--**, or **—→**. For example, don't say:
 
+* You can enter Home -> Enclosure -> Settings to disable Door Detection.
+* You can enter Home --> Enclosure --> Settings to disable Door Detection.
+* You can enter Home —→ Enclosure —→ Settings to disable the Door Detection.
+
+Instead, say:
+
+* You can enter Home > Enclosure > Settings to disable Door Detection.
 
 ### Asterisks (*)
 
