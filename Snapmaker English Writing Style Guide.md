@@ -724,7 +724,7 @@ Avoid using ampersand as shorthand for **and** unless absolutely necessary.
 
 ### Angle Bracket **(>)** 
 
-Use angle brackets to link small steps together Where there is not enough room for a step-by-step description, which requires considerable spacing. Do not use **->**, **-->**, **--**, or **—→**. For example, don't say:
+Use angle brackets to link small steps together where there is not enough room for a step-by-step description, which requires considerable spacing. Do not use **->**, **-->**, **--**, or **—→**. For example, don't say:
 
 * You can enter Home -> Enclosure -> Settings to disable Door Detection.
 * You can enter Home --> Enclosure --> Settings to disable Door Detection.
@@ -1629,6 +1629,18 @@ Snapmaker A350 and Luban lets you:
 ### 和符号（&）
 
 除非必要，避免使用此符号来替代 **and**。
+
+### 角括号 (>)
+
+当有篇幅限制而不能用分行的段落来解释某个操作时，可以用角括号来连接一些比较小的步骤。不要用 **->**, **-->**, **--**, 或 **—→**。所以，不要说：
+
+* You can enter Home -> Enclosure -> Settings to disable Door Detection.
+* You can enter Home --> Enclosure --> Settings to disable Door Detection.
+* You can enter Home —→ Enclosure —→ Settings to disable the Door Detection.
+
+而应该说：
+
+* You can enter Home > Enclosure > Settings to disable Door Detection.
 
 ### 星号（\*）
 
