@@ -19,7 +19,7 @@ It is helpful to distinguish between **initialisms**, **acronyms**, **shortened 
 |:----|:----|:----|
 |**Initialism**|The first letters of words.|SME (subject matter expert)|
 |**Acronym**|The first letters of words that's pronounced as a word.|SIM (subscriber identity module)|
-|**Shortened words**|Part of a word or phrase, including Latin abbreviation.|app (application), Inc.(incorporated), i.e., etc., e.g.|
+|**Shortened words**|Part of a word or phrase, including Latin abbreviation.|app (application), Inc. (incorporated), i.e., etc., e.g.|
 |**Contractions**|Part of a phrase, with a few letters replaced by an apostrophe.|isn't, you're, it's been so long|
 
 To achieve a friendly tone, we use all types of abbreviation in our user experience (UX) writing. So it's okay to say:
