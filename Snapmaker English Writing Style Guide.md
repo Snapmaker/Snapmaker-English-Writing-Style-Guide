@@ -283,7 +283,7 @@ If you have to use homonyms, define them first, especially in Quick Start Guides
 
 Avoid using **shall**, **need**, and **may**. Use **must**, **should**, and **can** instead. For clarification of these three words, copy and paste the following text where applicable:
 
->Throughout this document, **must** denotes a requirement. Failure to follow is likely to cause hazards. **Should** denotes strong recommendation. Failure to follow is likely to result in unsatisfactory printing results. **Can** demotes general recommendation, which points to resources sites.
+>Throughout this document, **must** denotes a requirement. Failure to follow is likely to cause hazards. **Should** denotes strong recommendation. Failure to follow is likely to result in unsatisfactory printing results. **Can** denotes general recommendation, which points to resources sites.
 
 Note that **should** and **can** carries double meanings. **Should** denotes recommendation, as well as probability. Similarly, **can** is used to grant permission, as well as denote possibility. For clarity, use **be expected to** instead of **should** to denote probability, and use **be likely to** instead of **can** to denote possibility. So, don't say:
 
@@ -1215,7 +1215,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 不要用 **shall**，**need** 和 **may**，而应该用 **must**，**should** 和 **can**。如需厘清这几个概念，直接复制下面这段话并粘贴在在适当的地方即可。
 
->Throughout this document, **must** denotes a requirement. Failure to follow is likely to cause hazards. **Should** denotes strong recommendation. Failure to follow is likely to result in unsatisfactory printing results. **Can** demotes general recommendation, which points to resources sites.
+>Throughout this document, **must** denotes a requirement. Failure to follow is likely to cause hazards. **Should** denotes strong recommendation. Failure to follow is likely to result in unsatisfactory printing results. **Can** denotes general recommendation, which points to resources sites.
 
 注意 **should** 和 **can** 有双重意义。前者可以代表推荐，也可以用来判断可能性。而 **can** 除了用来应允外，也可以用来判断可能性。鉴于此，这份指南主张用 **be expected to** 而不是 **should** 来表示高可能性，以及用 **be likely to** 而不是 **can** 来表示一般可能性。所以，不要说：
 
