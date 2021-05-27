@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome! This is the official **Snapmaker English Writing Style Guide**. It is not a comprehensive grammar handbook, nor an academic writing reference book. It proposes rules that help standardize Snapmaker's documentations that are written in English, and prepare them for future reuse and localization.
+Welcome! This is the official **Snapmaker English Writing Style Guide**. It is not a comprehensive grammar handbook, nor an academic writing reference book. It proposes rules that help standardize Snapmaker's documentation written in English, and prepare them for future reuse and localization.
 
 This guide is compiled based on the need for our documentation to be factual, versatile, and user-friendly. It assumes readers come from varying backgrounds, and not all of them are native English speakers. As such, it prefers simple words and grammatical structures over complicated and fancy ones; it includes rules that violate traditional English grammar, though very rarely.
 
@@ -18,7 +18,7 @@ It is helpful to distinguish between **initialisms**, **acronyms**, **shortened 
 |**Type**|**Definition**|**Examples**|
 |:----|:----|:----|
 |**Initialism**|The first letters of words.|SME (subject matter expert)|
-|**Acronym**|The first letters of words that's pronounced as a word.|SIM (subscriber identity module)|
+|**Acronym**|The first letters of words that are pronounced as a word.|SIM (subscriber identity module)|
 |**Shortened words**|Part of a word or phrase, including Latin abbreviation.|app (application), Inc. (incorporated), i.e., etc., e.g.|
 |**Contractions**|Part of a phrase, with a few letters replaced by an apostrophe.|isn't, you're, it's been so long|
 
@@ -41,7 +41,7 @@ You can clean up the mess by using abbreviation:
 
 >Change the **Target Temperature** (TT) based on the filament you use (the default **TT** is 200 °C). While you wait for the temperature to rise to the **TT**, hang the filament onto the filament holder.
 
-Note that you should use the abbreviated phrase for subsequent mentions within the chapter, and don't switch between abbreviations and full forms. But, to avoid confusion in content reuse, provide a full form in a parenthesis after the abbreviation once every chapter.
+Note that you should use the abbreviated phrase for subsequent mentions within the chapter, and don't switch between abbreviations and full forms. But, to avoid confusion in content reuse, provide a full form in parenthesis after the abbreviation once every chapter.
 
 Don't use incorrect English. For example, don't say:
 
@@ -83,7 +83,7 @@ On closer inspection, **its** might be referring to **parts** , but as **parts**
 
 ### **Subject-verb Agreement**
 
-Although their misuse is not as confusing as that of pronouns and antecedents, it is essential that subjects and verbs agree with each other in number. The grammatical essentials are not covered in this guide. What this guide wants to stress is agreement and consistency.
+Although their misuse is not as confusing as that of pronouns and antecedents, it is essential that subjects and verbs agree with each other in number. The grammatical essentials are not covered in this guide. What this guide wants to stress are agreement and consistency.
 
 For example, the following text refers to Snapmaker 2.0 as a single noun and a plural concept at the same time:
 
@@ -108,7 +108,7 @@ Whereas when it is used as more of a generic term, a standard process which is p
 
 >Always do auto levelling before you print anything.
 
-This being said, many people tend to overuse the definite article. In the following text, for  instance, **replacement** is preceded by a **the**, with the unintended consequence of making it sound like Snapmaker offers a non-standard type of replacement.
+This being said, many people tend to overuse the definite article. In the following text, for instance, **replacement** is preceded by a **the**, with the unintended consequence of making it sound like Snapmaker offers a non-standard type of replacement.
 
 >If there is no silicone pad, we will send you a new linear module for the replacement.
 
@@ -158,7 +158,7 @@ Don't add **the** before:
 
 ### Misplaced Modifiers
 
-Modifiers should be put adjacent to the words they modify. When you separate the modifier with the word it describes, it can create confusion.
+Modifiers should be put adjacent to the words they modify. When you separate the modifier from the word it describes, it can create confusion.
 
 In the following text, **for no reason** is intended to describe **stop**, but they are separated by a string of words:
 
@@ -181,7 +181,7 @@ Look at the following structures:
 
 Grammar-wise, these expressions are okay, but they look awkward nonetheless. In situations like this, try and reduce the number of modifiers first. Ask yourself: is this modifier really necessary? Does it serve your purpose? If not, omit it.
 
-Where each modifier provides indispensible information and can't be editted out, separate them with a preposition, a possessive form, a hyphen or a clause. Don't jam them all together before the nouns or pronouns they describe. So don't say:
+Where each modifier provides indispensable information and can't be edited out, separate them with a preposition, a possessive form, a hyphen, or a clause. Don't jam them all together before the nouns or pronouns they describe. So don't say:
 
 * The Linear Module motor circuit board
 * The upcoming more powerful Laser Module
@@ -209,7 +209,7 @@ But it is okay to say:
 
 Where there are more than two nouns modifying the central noun or noun phrase, use possessive. For example, say:
 
-* The size of 3D printing sheet
+* The size of the 3D printing sheet
 * The height of printer worktable
 
 A general rule is to use **'s** after a living organism and a brand, while use **of** for possessive of a lifeless object. To be specific, use **'s** after Snapmaker as a brand name, and use **of** to indicate possessive for Snapmaker's products, tools, and services. For example, say:
@@ -222,16 +222,16 @@ A general rule is to use **'s** after a living organism and a brand, while use *
 
 ## **Readability**
 
-Most readers have a purpose in mind when browsing our documentation. They could be looking for guidance on certain steps, or they could simply be looking for shipping dates. Either way, simplicity and clarity reduces the volume of documentation and time your audience spend on locating needed information.
+Most readers have a purpose in mind when browsing our documentation. They could be looking for guidance on certain steps, or they could simply be looking for shipping dates. Either way, simplicity and clarity reduce the volume of documentation and time your audience spends on locating needed information.
 
 
 ### Be Brief
 
 Get to the point fast. Don't aim for politeness at the expense of efficiency. Limit each sentence to less than 25 words.
 
-Write one sentence to express one idea. Avoid using clauses where possible. And avoid multiple clauses at all cost.
+Write one sentence to express one idea. Avoid using clauses where possible. And avoid multiple clauses at all costs.
 
-Prefer present tense over past tenses, as past tenses are more ambiguous and pose challenge for proofread. For example, don't say:
+Prefer present tense over past tenses, as past tenses are more ambiguous and pose challenge for proofreading. For example, don't say:
 
 * Make sure you have put on CNC Safety Goggles before using the CNC function.
 * If the machine failed to respond, check if the cables have been securely connected.
@@ -243,7 +243,7 @@ Instead, say:
 
 Don't say **please**, **you can**, or **you should** at the beginning of every step. It is easy to unconsciously overuse **please**, regardless of tone. Refrain from using it in regular situations, because they lose meaning shortly and the content will become cluttered. Use it only when errors occur and fixing them can cause inconvenience for the users.
 
-More words are not always more accurate. Always use less words when they are precise enough. For example, don't say:
+More words are not always more accurate. Always use fewer words when they are precise enough. For example, don't say:
 
 * You can conduct a check on the machine.
 * Please turn your machine off and on.
@@ -259,7 +259,7 @@ Instead, say:
 * If the edges of the captured image are not aligned, click **Calibration** to manually calibrate the camera.
 * Snapmaker modular 3D printer is the ideal choice for beginners, hobbyists who are into customization, as well as engineers and designers who want to make large objects or accurate parts with outstanding quality.
 
-Don't use expressions that are already ubiquitous in Chinese language. It's likely they will appear redundant in English as well, when translated. These expressions include:
+Don't use expressions that are already ubiquitous in Chinese. It's likely they will appear redundant in English as well when translated. These expressions include:
 
 * Some
 * All kinds of
@@ -295,27 +295,27 @@ Instead, say:
 * The machine is expected to return to its original settings.
 * Do not reach inside the machine while it is still in operation, as it is likely to cause injury.
 
-An exception is when **shall** is used in legal notices. In that case **shall** is used in place of **must**.
+An exception is when **shall** is used in legal notices. In that case, **shall** is used in place of **must**.
 
 Avoid using words that are too vague or too weak to mean anything. Use specific and strong verbs instead. For example, don't say:
 
-* There is a sidebar, choose **workspace**. There is a **Connection** icon on top left. Click the **refresh button**, and the software will reload serial ports list.
+* There is a sidebar, choose **workspace**. There is a **Connection** icon on top left. Click the **refresh button**, and the software will reload the serial ports list.
 * It may cause a phenomenon called **dust accumulation**.
 * You should use the dust plugs to avoid the problem of dust accumulation.
-* If you can't find answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
+* If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
 * Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the Heated Bed.
 
 Instead, say:
 
-* From the left sidebar, enter **Workspace**. On top left, find **Connection** and click the **Refresh** button to reload serial ports list.
+* From the left sidebar, enter **Workspace**. On the top left, find **Connection** and click the **Refresh** button to reload the serial ports list.
 * It may cause dust accumulation.
 * Use the dust plugs to avoid dust accumulation.
-* If you can't find answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
+* If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
 * Brim, raft, and skirt are detachable structures for enhancing object adherence to the Heated Bed.
 
-Don't create names for steps, processes or procedures without cheking the [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) first.
+Don't create names for steps, processes, or procedures without cheking the [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) first.
 
-In terms of grammar, avoid using **be + Verb (ing)** to describe future event. Use **be + Verb (ing)** to indicate progressive tense, while use the less confusing **will + Verb** to express future. For example, don't say:
+In terms of grammar, avoid using **be + Verb (ing)** to describe a future event. Use **be + Verb (ing)** to indicate progressive tense, and use the less confusing **will + Verb** to express future. For example, don't say:
 
 >Follow our social media and we are announcing the schedule of the online Makerathon very soon.
 
@@ -326,7 +326,7 @@ Instead, say:
 
 ### Be Thoughtful
 
-Present the most imortant information first. Organize it in a way that is logical and requires minimum effort and brain gymnastics on audience's part.
+Present the most important information first. Organize it in a way that is logical and requires minimum effort and brain gymnastics on your audience's part.
 
 Pay attention to the conjunctions **after** and **only if**. Put what's to be done first at the beginning of the sentence, not the opposite. For example, don't say:
 
@@ -350,7 +350,7 @@ Instead, say:
 * If your port does not show up on the serial port list, unplug the cable and reconnect.
 * To restore original configurations, click **reset**.
 
-Similarly, avoid using sentence inversion. It costs extra time for comprehension. Remember that not all audience are native speakers. For example, don't say:
+Similarly, avoid using sentence inversion. It costs extra time for comprehension. Remember that not all audiences are native speakers. For example, don't say:
 
 * Come Christmas, and your Snapmaker A350 can do wonders for decoration.
 * Never do we stop trying. We want you to have the best experience with Snapmaker.
@@ -360,14 +360,14 @@ Instead, say:
 
 * When Christmas comes, your Snapmaker A350 will do wonders for decoration.
 * We never stop trying. We want you to have the best experience with Snapmaker.
-* You can bring your ideas to reality, while getting to spend time with your children.
+* You can bring your ideas to reality while getting to spend time with your children.
 
-Don't assume your audience know. Always provide background information when you introduce a concept, whether it is a link or a paragraph. Avoid expressions such as **simply**, **just**, **quickly**, **you are a click away**, and **it's easy**, as they can make users feel stupid.
+Don't assume your audience knows. Always provide background information when you introduce a concept, whether it is a link or a paragraph. Avoid expressions such as **simply**, **just**, **quickly**, **you are a click away**, and **it's easy**, as they can make users feel stupid.
 
 
 ## **Spelling**
 
-Write in American English in all occasions, but avoid using North American slangs. American English can differ from British English in a variety of ways. The following table provides an overview.
+Write in American English on all occasions, but avoid using North American slang. American English can differ from British English in a variety of ways. The following table provides an overview.
 
 |    |**American Spelling**|**British Spelling**|
 |:----|:----|:----|
@@ -442,7 +442,7 @@ Generally, a formal tone shows professionalism, while an informal tone engages y
 
 In both cases, be factual and candid. Avoid promotional hype, exaggerations, and buzz words. Buzz words such as **empower**, **solution**, **robust**, **reach out to** give an impression of being pretentious, too lazy to think, or poorly educated. But be positive, too. Focus on what's achieved or improved, rather than what's not.
 
-Avoid emojis, jokes, puns, internet slangs, and cultural or religious references.
+Avoid emojis, jokes, puns, internet slang, and cultural or religious references.
 
 Address your audience in the second person. When writing in the third person, use inclusive language rather than gender-specific words. For example, don't say:
 
@@ -461,17 +461,17 @@ With an informal tone, be conversational. Violate grammar once or twice. It's ok
 
 # Formatting and Content Planning
 
-Consistent formatting is an essential part of documentation success. It strengthens brand image and improves collaboration between content creation teams and other departments. Logical organization of contents not only reduces repetitive communications, but guides the audience through what you want them to see. This chapter covers Capitalization, Notation, Organization, Punctuation, and Spacing.
+Consistent formatting is an essential part of documentation success. It strengthens the brand image and improves collaboration between content creation teams and other departments. Logical organization of contents not only reduces repetitive communications, but guides the audience through what you want them to see. This chapter covers Capitalization, Notation, Organization, Punctuation, and Spacing.
 
 
 ## **Capitalization**
 
-There are two types of capitalization: sentence-style and title-style. In sentence style capitalization, only the first letter of the first word is capitalized, whereas in title-style capitalization, all first letters are capitalized except for those of articles and short prepositions.
+There are two types of capitalization: sentence style and title style. In sentence-style capitalization, only the first letter of the first word is capitalized, whereas in title-style capitalization, all first letters are capitalized except for those of articles and short prepositions.
 
 
 ### Dates and Times
 
-Use 12-hour clock for expression of times. Capitalize all letters in **AM**, **PM**, and **UTC**. So don't say:
+Use the 12-hour clock for expression of times. Capitalize all letters in **AM**, **PM**, and **UTC**. So don't say:
 
 >Opening hours: Monday to Friday 9:30-12:30, 14:30-18:30 (utc+8)
 
@@ -481,7 +481,7 @@ Instead, say:
 
 Refer to 12:00 as **12 noon** or **12 midnight** to avoid causing confusion. The designations **noon** and **midnight** should be lower case.
 
-An exception is UX writing that addresses an event taking place solely in one country, in which case elements like **UTC-8** or **UTC-5** can look odd. Use the popular time indication in the country or region instead, and in upper case. Even if some countries may have more than one standard time, only use one. Common names of time zone are listed below.
+An exception is UX writing that addresses an event taking place solely in one country, in which case elements like **UTC-8** or **UTC-5** can look odd. Use the popular time indication in the country or region instead, and in the upper case. Even if some countries may have more than one standard time, only use one. Common names of time zone are listed below.
 
 |**Country or Region**|**Name**|**Offset**|**Commence**|
 |:----|:----|:----|:----|
@@ -499,13 +499,13 @@ An exception is UX writing that addresses an event taking place solely in one co
 
 Refer to the file type in upper case when it's in the middle of the sentence. If the name of the file type is at the end of a sentence, write it out as **.file extension**. For example, don't say:
 
-* Download the pdf of User Manual.
+* Download the pdf of the User Manual.
 * Upload your jpg model file.
 * The extension of the file is gcode.
 
 Instead, say:
 
-* Download the PDF of User Manual.
+* Download the PDF of the User Manual.
 * Upload your JPG model file.
 * The extension of the file is .gcode.
 
@@ -539,30 +539,30 @@ Instead, say:
 
 Use sentence-style capitalization in the sentence after **Note:**, **Tips:**, **Caution:**, and **Warning:**. For example, don't say:
 
->Note: if your machine is not responding, check A, B and C.
+>Note: if your machine is not responding, check A, B, and C.
 
 Instead, say:
 
->Note: If your machine is not responding, check A, B and C.
+>Note: If your machine is not responding, check A, B, and C.
 
 
 ### Proper Nouns
 
-Proper nouns can be divided to the following categories.
+Proper nouns can be divided into the following categories.
 
 |**Type**|**Usage**|**Example**|
 |:----|:----|:----|
 |Names of the Snapmaker Brand|title-style|Snapmaker|
 |Names of Snapmaker's Products|title-style|Snapmaker Artisan|
-|Names of Snapmaker's Software, Firmware and App|title-style|Snapmaker Luban|
-|Names of Steps, Features and Functions|title-style|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
+|Names of Snapmaker's Software, Firmware, and App|title-style|Snapmaker Luban|
+|Names of Steps, Features, and Functions|title-style|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
 |Names of Snapmaker's Services and Policies|sentence-style|Snapmaker's customer service, Snapmaker's return policy|
 |Names of Parts, Tools, and Materials|title-style for those with Snapmaker's logo;<br>lowercase for the rest|Laser Module, Heated Bed, Calibration Card;<br>screwdriver, clamp set, acrylic plate|
 |Names of Keys|as displayed on keyboards, regardless of operating system|Ctrl, Enter|
 |Names of Errors|lowercase at all times; don't ever capitalize|black screen, power loss|
-|X Axis, Y Axis, Z Axis and their Plural Forms|capitalize the **A** in **Axis** or **Axes** when used as non-adjective, otherwise don't capitalize|Z Axis, Z-axis Extension Module|
+|X Axis, Y Axis, Z Axis, and their Plural Forms|capitalize the **A** in **Axis** or **Axes** when used as non-adjective, otherwise don't capitalize|Z Axis, Z-axis Extension Module|
 
-Note that hyphenated proper nouns should be capitalized in sentence-style. Refer to **Hyphens (-)** for more information.
+Note that hyphenated proper nouns should be capitalized in sentence style. Refer to **Hyphens (-)** for more information.
 
 ### 
 ### Texts in a Table
@@ -616,16 +616,16 @@ Instead, say:
 
 >Note: Snapmaker online support is here to help you, whether the issue is related to parts covered by warranty. Contact us at support@snapmaker.com.
 
-Separate adding information from warning your audience. Don't use a warning where a note can do the job. Don't overuse **Caution** and **Warning**, otherwise they will lose the weight they carry.
+Separate adding information from warning your audience. Don't use a warning where a note can do the job. Don't overuse **Caution** and **Warning**, otherwise, they will lose the weight they carry.
 
-Occasionally you might need to use an asterisk (\*) to add a footnote. Use asterisk to add information on a word or phrase, not a text. And don't use it if a parenthesis can do the job.
+Occasionally you might need to use an asterisk (\*) to add a footnote. Use an asterisk to add information on a word or phrase, not a text. And don't use it if a parenthesis can do the job.
 
-Though it is not interchangeablewith admonitions, use it sparingly.See [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) for more information.
+Though it is not interchangeable with admonitions, use it sparingly. See [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) for more information.
 
 
 ### Emphasis and Reference
 
-Use bold text to highlight actions, or refer to book names, movie titles and the like. Don't capitalize all the letters. Don't use colons, quotation marks, apostrophes, italics, underlines, superscripts, or exclamation points as an emphasis. For example, don't say:
+Use bold text to highlight actions, or refer to book names, movie titles, and the like. Don't capitalize all the letters. Don't use colons, quotation marks, apostrophes, italics, underlines, superscripts, or exclamation points as an emphasis. For example, don't say:
 
 >Tap "Controls" on the Touchscreen, and tap "Home Axes" to run a homing session.
 >Or:
@@ -638,7 +638,7 @@ Instead, say:
 
 Also, use bold text when referring to elements in the UI. Occasionally, use icons along with bold text if it's easier to understand. For example, say:
 
->Enter **Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail)to reload serial ports list.
+>Enter **Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On the top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail)to reload serial ports list.
 
 ### 
 ## **Organization**
@@ -649,9 +649,9 @@ Don't put a number before the heading unless it's part of a sequential operation
 
 Use level 1–3 headings. Avoid creating level 4 and 5 headings. Too many layers of heading undermine readability.
 
-Be as clear and simple as possible with headings. Avoid using vague language such as **miscellaneous**, **unspecified**, and **to be confirmed**. Always use more descriptive words if you can. If we want to make it convenient for our audience to find information, we should reduce times that they have to click and redirect.
+Be as clear and simple as possible with headings. Avoid using vague language such as **miscellaneous**, **unspecified**, and **to be confirmed**. Always use more descriptive words if you can. If we want to make it convenient for our audience to find information, we should reduce the times that they have to click and redirect.
 
-Similarly, pay attention to the logic behind headings. Avoid overlap of contents under different headings of the same level. If overlap can't be avoided, provide links where the same thing are included. For example, the following headings are inappropriate for a User Manual of laser engraving:
+Similarly, pay attention to the logic behind headings. Avoid overlap of contents under different headings of the same level. If overlap can't be avoided, provide links where the same thing is included. For example, the following headings are inappropriate for a User Manual of laser engraving:
 
 * Before you start
 * Prepare your Tools
@@ -678,18 +678,18 @@ Instead, say:
 * Editing Model File
 * Start Printing
 
-And just like stipulations in Readability, don't use internet slangs, jargons, and words that come from a different language in headings.
+And just like stipulations in Readability, don't use internet slang, jargon, and words that come from a different language in headings.
 
 
 ### Links
 
-In UX writing, always introduce hyper link under the key words. In non-UX writing, introduce links with a preposition, instead of a colon. Where the link is lengthy, restructure your text to keep the link in one single line.
+In UX writing, always introduce hyperlinks under the keywords. In non-UX writing, introduce links with a preposition, instead of a colon. Where the link is lengthy, restructure your text to keep the link in one single line.
 
 ### Lists
 
 Avoid embedded lists. If your description can be sorted by a common denominator, use a list to increase scannability. For example, the following sentence contains an embedded list, and can be improved:
 
->Snapmaker A350 and Luban lets you customize your own design by adding support, adhesion and surface, generate a G-code and export it to your PC, send files to the machine via Wi-Fi, and stop the machine when an error occurs.
+>Snapmaker A350 and Luban let you customize your own design by adding support, adhesion and surface, generate a G-code and export it to your PC, send files to the machine via Wi-Fi, and stop the machine when an error occurs.
 
 Introduce a bulleted list, and the sentence is easier to read:
 
@@ -704,14 +704,14 @@ Snapmaker A350 and Luban lets you:
 * Send files to the machine via Wi-Fi.
 * Stop the machine when an error occurs.
 
-Ordered list tend to collapse when transferred to other authoring tools, while bulleted lists can be transferred without causing clutters. As a result, use ordered lists only if your are describing sequential operations. Otherwise, use unordered lists.
+Ordered lists tend to collapse when transferred to other authoring tools, while bulleted lists can be transferred without causing clutters. As a result, use ordered lists only if you are describing sequential operations. Otherwise, use unordered lists.
 
 
 ### Tables
 
 Use tables as a means of comparing data. Don't use it to describe terms, steps, or report system updates.
 
-Do not caption the table; as captions pose challenge to content reuse. Put the table immediately after its introductory text.
+Do not caption the table; as captions pose challenges to content reuse. Put the table immediately after its introductory text.
 
 Use bold text for headers.
 
@@ -736,7 +736,7 @@ Instead, say:
 
 ### Asterisks (*)
 
-Use asterisks when adding footnote. See Notation.
+Use asterisks when adding footnotes. See Notation.
 
 
 ### Colons (:)
@@ -769,7 +769,7 @@ For example, don't say:
 * Before using CNC carving put on safety goggles.
 * Take off the dust plugs and you will see the USB port.
 * You will make your Snapmaker more versatile adding the latest Rotary Module.
-* Have you ever wandered: do I buy a 3D printer? Or do I buy a 3-in-one fabrication machine?
+* Have you ever wondered: do I buy a 3D printer? Or do I buy a 3-in-one fabrication machine?
 * We feel disheartened by this terrible news too.
 * 2100 mm
 
@@ -780,19 +780,19 @@ Instead, say:
 * Take off the dust plugs, and you will see the USB port.
 * You will make your Snapmaker more versatile, adding the latest Rotary Module —or better yet—
 * Adding the latest rotary module, you will make your Snapmaker more versatile.
-* Have you ever wandered: do I buy a 3D printer, or do I buy a 3-in-one fabrication machine?
+* Have you ever wondered: do I buy a 3D printer, or do I buy a 3-in-one fabrication machine?
 * We feel disheartened by this terrible news, too.
 * 2,100 mm
 
 
 ### Ellipses (...)
 
-Ellipsis is a set of three periods, used to indicate omission or hesitation. In tutorials and guides, don't use it. In other situdations, use it sparingly.
+Ellipsis is a set of three periods, used to indicate omission or hesitation. In tutorials and guides, don't use it. In other situations, use it sparingly.
 
 
 ### En dashes (**–**)
 
-The en dash is slightly longer than a hyphen. Use an en dash instead of  a **~** (tilde) to indicate range. For example, don't say:
+The en dash is slightly longer than a hyphen. Use an en dash instead of a **~** (tilde) to indicate ranges. For example, don't say:
 
 >Operating Temperature	-20℃ ~ 50℃ (-4°F~122°F)
 
@@ -802,8 +802,8 @@ Instead, say:
 
 To type an en dash, see below:
 
-* On a Mac, press the **Alt** key and the **Minus (-)** key at the same time.
-* On a PC, press the **Win** key and the **dot (.)** at the same time, click the **omega icon** at the top, scroll down to find the en dash.
+* On a Mac, press the **Alt** key, and the **Minus (-)** key at the same time.
+* On a PC, press the **Win** key, and the **dot (.)** at the same time, click the **omega icon** at the top, scroll down to find the en dash.
 
 
 ### Em dashes (—)
@@ -812,8 +812,8 @@ The em dash is twice as long as the en dash. Use em dashes to indicate conversat
 
 To type an en dash, see below:
 
-* On a Mac, press the **Alt** key, the **Shift** key and the **Minus (-)** key at the same time.
-* On a PC, press the **Win** key and the **dot (.)** at the same time, click the **omega icon** at the top, scroll down to find the em dash.
+* On a Mac, press the **Alt** key, the **Shift** key, and the **Minus (-)** key at the same time.
+* On a PC, press the **Win** key, and the **dot (.)** at the same time, click the **omega icon** at the top, scroll down to find the em dash.
 
 
 ### Exclamation points (!)
@@ -828,14 +828,14 @@ Use exclamation points sparingly.
 |**Name of Tools**|no|USB disk, filament holder tube|
 |**Name of Steps**|no|auto levelling, auto calibration|
 |**Name of Errors**|no|power outage, connection failure, black screen|
-|**Verb Plus Adverb**|no when used as noun; yes when used as adjective|plugin, add-on|
+|**Verb Plus Adverb**|no when used as a noun; yes when used as an adjective|plugin, add-on|
 |**Noun Plus Past Participle**|no|computer controlled|
 |**Adverb Plus Past Participle**|no|newly released|
-|**Adjective Plus Noun**|no when used as noun; yes when used as adjective|high quality, high-precision|
+|**Adjective Plus Noun**|no when used as a noun; yes when used as an adjective|high quality, high-precision|
 |**Affix before Verb**|no, unless it interferes with comprehension|preorder, remeasure, defocuse, re-adjust, re-create|
 |**Non-**|yes|non-European, non-American, non-standard|
 |**Anti- and Counter-**|yes|anti-clockwise, counter-clockwise, counter-intuitive|
-|**X Axis, Y Axis, Z Axis and their plural forms**|no, unless used as adjective|Z Axis, Z-axis Extension Module (See **Capitalization)**.|
+|**X Axis, Y Axis, Z Axis, and their plural forms**|no, unless used as adjective|Z Axis, Z-axis Extension Module (See **Capitalization)**.|
 
 
 ### Parentheses ()
@@ -873,15 +873,15 @@ Don't use quotation marks to refer to elements in the UI or as emphasis. Use bol
 
 ### Semi-colons (;)
 
-Use semi-colons to connect two sentences that are close in meaning. Otherwise, use periods. Also, note that **then**, **therefore**, **otherwise**, and **namely** are adverbs. So separate them with the previous sentence with a semi-colon, rather than a comma. Or, alternatively, add a conjunction before them. For example, don't say:
+Use semi-colons to connect two sentences that are close in meaning. Otherwise, use periods. Also, note that **then**, **therefore**, **otherwise**, and **namely** are adverbs. So separate them with the previous sentence with a semi-colon, rather than a comma. Or alternatively, add conjunction before them. For example, don't say:
 
->The firmware is updated on 8th September, therefore if you use the previous version, you may experience delay.
+>The firmware is updated on 8th September, therefore if you use the previous version, you may experience delays.
 
 Instead, say:
 
->The firmware is updated on 8th September; therefore if you use the previous version, you may experience delay.
+>The firmware is updated on 8th September; therefore if you use the previous version, you may experience delays.
 
-But as we've established in the beginning, this guide might include rules that violates traditional grammar. And it is okay to use **then** without conjuctions such as **and**, considering that it has become widely accepted. So for example, you can say:
+But as we've established in the beginning, this guide might include rules that violate traditional grammar. And it is okay to use **then** without conjunctions such as **and**, considering that it has become widely accepted. So for example, you can say:
 
 * Move the machine to a proper place, then enclose it with the Enclosure.
 * Go to **Solid**, then click **Extrude**. Put the depth at 10 mm, and click **OK**.
@@ -889,7 +889,7 @@ But as we've established in the beginning, this guide might include rules that v
 
 ### Slashes **(/)**
 
-Avoid using slash as shorthand for **or**. On rare occasions where you have to use a slash, don't use more than one. More often than not, the slashes can be replaced by commas. For example, don't say:
+Avoid using the slash as shorthand for **or**. On rare occasions where you have to use a slash, don't use more than one. More often than not, the slashes can be replaced by commas. For example, don't say:
 
 >You can recover any project and get perfect printing / engraving / cutting / carving results at any time.
 
@@ -897,7 +897,7 @@ Instead, say:
 
 >You can recover any project and get perfect printing, engraving, cutting, or carving results at any time.
 
-Don't write date as all numbers in MM/DD/YYYY format, or DD/MM/YYYY for that matter, as it can cause confusion. Use letters, rather than number to indicate months. Write year in four digits, and separate it with month and day with a comma. So don't say:
+Don't write dates as all numbers in MM/DD/YYYY format, or DD/MM/YYYY for that matter, as it can cause confusion. Use letters, rather than number to indicate months. Write the year in four digits, and separate it with month and day with a comma. So don't say:
 
 >We will host an orientation on 07/12/2020. Don't miss it!
 
@@ -918,11 +918,11 @@ While writing, follow these rules:
 * Insert a space before and after a phrase from another language.
 * Insert a blank line between two paragraphs.
 
-Pay close attention to spacing between words when they are connected by punctuation marks. Generally, insert one space after a punctuation mark, except for the following cases where you should put:
+Pay close attention to the spacing between words when they are connected by punctuation marks. Generally, insert one space after a punctuation mark, except for the following cases where you should put:
 
 * No space adjacent to the slash or hyphen.
 * One space before the opening bracket, and none between the closing bracket, if the sentence ends with parenthesis.
-* One space before and after ampersand.
+* One space before and after the ampersand.
 * One space before and after the multiplication sign.
 
 Should you need to use Chinese Pinyin, don't put spacing within the pinyin.
@@ -1065,7 +1065,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
     * the acrylic plate inside the material box 而非 acrylic plate inside material box
     
 * 虽然并不专属于 Snapmaker，但是有被普遍使用的 UI 里面的元素的名称。比如，你应该说：
-    * the side bar 而非 side bar
+    * the sidebar 而非 sidebar
     * the drop-down menu 而非 drop-down menu
     * the dialog box 而非 dialog box
     * the window 而非 window
@@ -1150,8 +1150,8 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 * Michel's comment
 * Snapmaker's return policy
-* the specifications of the machine
-* the horsepower of Tesla Model 3
+* The specifications of the machine
+* The horsepower of Tesla Model 3
 
 ## 可读性
 
@@ -1215,7 +1215,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 不要用 **shall**，**need** 和 **may**，而应该用 **must**，**should** 和 **can**。如需厘清这几个概念，直接复制下面这段话并粘贴在在适当的地方即可。
 
->Throughout this document, **must** denotes a requirement. Failure to follow is likely to cause hazards. **Should** denotes strong recommendation. Failure to follow is likely to result in unsatisfactory printing results. **Can** denotes general recommendation, which points to resources sites.
+>Throughout this document, **must** denotes a requirement. Failure to follow is likely to cause hazards. **Should** denotes strong recommendation. Failure to follow is likely to result in unsatisfactory printing results. **Can** denotes general recommendation, which points to resource sites.
 
 注意 **should** 和 **can** 有双重意义。前者可以代表推荐，也可以用来判断可能性。而 **can** 除了用来应允外，也可以用来判断可能性。鉴于此，这份指南主张用 **be expected to** 而不是 **should** 来表示高可能性，以及用 **be likely to** 而不是 **can** 来表示一般可能性。所以，不要说：
 
@@ -1231,18 +1231,18 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 避免使用太含糊或太弱的动词，而应该用更具体，更强的动词。比如，不要说：
 
-* There is a sidebar, choose **workspace**. There is a **Connection** icon on top left. Click the **refresh button**, and the software will reload serial ports list.
+* There is a sidebar, choose **workspace**. There is a **Connection** icon on the top left. Click the **refresh button**, and the software will reload the serial ports list.
 * It may cause a phenomenon called **dust accumulation**.
 * You should use the dust plugs to avoid the problem of dust accumulation.
-* If you can't find answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
+* If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
 * Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the Heated Bed.
 
 而应该说：
 
-* From the left sidebar, enter **Workspace**. On top left, find **Connection** and click the **Refresh** button to reload serial ports list.
+* From the left sidebar, enter **Workspace**. On the top left, find **Connection** and click the **Refresh** button to reload the serial ports list.
 * It may cause dust accumulation.
 * Use the dust plugs to avoid dust accumulation.
-* If you can't find answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
+* If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
 * Brim, raft, and skirt are detachable structures for enhancing object adherence to the Heated Bed.
 
 不要自己创造步骤、过程或操作的名称。先查询 **Snapmaker 术语表**。
@@ -1291,7 +1291,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 * When Christmas comes, your Snapmaker A350 will do wonders for decoration.
 * We never stop trying. We want you to have the best experience with Snapmaker.
-* You can bring your ideas to reality, while getting to spend time with your children.
+* You can bring your ideas to reality while getting to spend time with your children.
 
 不要预设读者具有背景知识。记得在引入新概念时要介绍背景知识，不管是以连接的形式还是段落的形式。避免说类似 **simply**，**just**，**quickly**，**you are a click away**， 和 **it's easy** 的表述，因为有的操作并不简单，你这么说会让读者有挫败感。
 
@@ -1382,7 +1382,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 或者说：
 
->When operating this machine, persons must follow safety instructions in this guide for their own safety. Snapmaker shall not be held responsible if persons fails to do so and gets injured.
+>When operating this machine, persons must follow safety instructions in this guide for their own safety. Snapmaker shall not be held responsible if persons fail to do so and get injured.
 
 用非正式语气时，口吻要平实。偶尔不尊重传统语法没有关系，用介词结句是 ok 的，用 **And** 或 **But** 开始一个句子也是 ok 的。
 
@@ -1425,14 +1425,14 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 在句子中间用大写表示文件名后缀，在句子末尾则用 **.小写后缀** 的形式。比如，不要说：
 
-* Download the pdf of User Manual.
-* Upload you jpg model file.
+* Download the pdf of the User Manual.
+* Upload your jpg model file.
 * The extension of the file is gcode.
 
 而应该说：
 
 * Download the PDF of User Manual.
-* Upload you JPG model file.
+* Upload your JPG model file.
 * The extension of the file is .gcode.
 
 ### 列表
@@ -1463,11 +1463,11 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 **Note:** **Tips:** **Caution:** 和 **Warning:** 后面的句子首词用句子式大写。比如，不要说：
 
->Note: if your machine is not responding, check A, B and C.
+>Note: if your machine is not responding, check A, B, and C.
 
 而应该说：
 
->Note: If your machine is not responding, check A, B and C.
+>Note: If your machine is not responding, check A, B, and C.
 
 ### 专有名词
 
@@ -1554,7 +1554,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 另外，提及 UI 上的元素时用粗体。如果增加 UI 上的符号能帮助理解，也可以和粗体一起使用。比如，可以说：
 
->Enter **Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail) to reload serial ports list.
+>Enter **Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On the top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail) to reload serial ports list.
 
 ## **信息架构**
 
@@ -1603,11 +1603,11 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 尽量避免嵌在句子当中的列表。如果你的写作中有好几个有共同之处的对象，用列表把它们列出来，这有利于快速浏览。举个例子，以下这个句子包含一个内嵌的列表：
 
->Snapmaker A350 and Luban lets you customize your own design by adding support, adhesion and surface, generate a G-code and export it to your PC, send files to the machine via Wi-Fi, and stop the machine when an error occurs.
+>Snapmaker A350 and Luban let you customize your own design by adding support, adhesion and surface, generate a G-code and export it to your PC, send files to the machine via Wi-Fi, and stop the machine when an error occurs.
 
 如果把内嵌列表里的对象单独列出来，这个句子会更易读：
 
-Snapmaker A350 and Luban lets you:
+Snapmaker A350 and Luban let you:
 
 * Customize your design by adding:
     * support
@@ -1649,7 +1649,7 @@ Snapmaker A350 and Luban lets you:
 
 ### 星号（\*）
 
-Use asterisks when adding footnote. See Notation.
+加脚注用星号. 见 Notation 一节.
 
 ### 冒号（:）
 
@@ -1680,7 +1680,7 @@ Use asterisks when adding footnote. See Notation.
 * Before using CNC carving put on safety goggles.
 * Take off the dust plugs and you will see the USB port.
 * You will make your Snapmaker more versatile adding the latest Rotary Module.
-* Have you ever wandered: do I buy a 3D printer? Or do I buy a 3-in-one fabrication machine?
+* Have you ever wondered: do I buy a 3D printer? Or do I buy a 3-in-one fabrication machine?
 * We feel disheartened by this terrible news too.
 * 2100 mm
 
@@ -1691,7 +1691,7 @@ Use asterisks when adding footnote. See Notation.
 * Take off the dust plugs, and you will see the USB port.
 * You will make your Snapmaker more versatile, adding the latest Rotary Module 或者——
 * Adding the latest rotary module, you will make your Snapmaker more versatile.
-* Have you ever wandered: do I buy a 3D printer, or do I buy a 3-in-one fabrication machine?
+* Have you ever wondered: do I buy a 3D printer, or do I buy a 3-in-one fabrication machine?
 * We feel disheartened by this terrible news, too.
 * 2,100 mm
 
@@ -1775,11 +1775,11 @@ Use asterisks when adding footnote. See Notation.
 
 两个完整句子之间如果意思相近，用分号连接。否则用句号。此外，需注意 **then**，**therefore**，**otherwise**，以及 **namely** 是副词。所以应该用分号而不是逗号把它们和前一个句子隔开。或者，在它们前面加上连词。比如，不要说：
 
->The firmware is updated on 8th September, therefore if you use the previous version, you may experience delay.
+>The firmware is updated on 8th September, therefore if you use the previous version, you may experience delays.
 
 而应该说：
 
->The firmware is updated on 8th September; therefore if you use the previous version, you may experience delay.
+>The firmware is updated on 8th September; therefore if you use the previous version, you may experience delays.
 
 ### 斜杠（/）
 
@@ -1789,7 +1789,7 @@ Use asterisks when adding footnote. See Notation.
 
 而应该说：
 
->You can recover any project and get perfect printing, engraving, cutting or carving results at any time.
+>You can recover any project and get perfect printing, engraving, cutting, or carving results at any time.
 
 不要用斜杠来间隔日期和时间。用连字符来间隔年月日，用冒号来间隔时分秒。比如，不要说：
 
