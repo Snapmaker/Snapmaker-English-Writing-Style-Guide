@@ -837,6 +837,15 @@ Use exclamation points sparingly.
 |**Anti- and Counter-**|yes|anti-clockwise, counter-clockwise, counter-intuitive|
 |**X Axis, Y Axis, Z Axis, and their plural forms**|no, unless used as adjective|Z Axis, Z-axis Extension Module (See **Capitalization)**.|
 
+### Multiplication Sign (×)
+
+You can use this sign to describe the specifications of a product. Note that the units of measure following each number should not be omitted, unless there is not enough room for them. So don't say:
+
+> Dimensions (W × D × H): 405 × 424 × 490 mm
+
+Instead, say:
+
+> Dimensions (W × D × H): 405 mm × 424 mm × 490 mm
 
 ### Parentheses ()
 
@@ -1740,6 +1749,15 @@ Snapmaker A350 and Luban let you:
 |有前缀，前缀为 Anti- 或 Counter-|是|anti-clockwise, counter-clockwise, counter-intuitive|
 |X Axis, Y Axis, Z Axis 以及它们的复数形式|否，除非作定语|Z Axis, Z-axis Extension Module|
 
+### 乘号 (×)
+
+描述产品尺寸时，可以用乘号连接几个数字。但注意，除非有空间限制，否则不要省略每个数字后面的单位。所以，不要说：
+
+> Dimensions (W × D × H): 405 × 424 × 490 mm
+
+而应该说：
+
+> Dimensions (W × D × H): 405 mm × 424 mm × 490 mm
 
 ### 括号 ()
 
