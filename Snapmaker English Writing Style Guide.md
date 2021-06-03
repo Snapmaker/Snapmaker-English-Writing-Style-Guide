@@ -914,7 +914,7 @@ Misplaced spaces can confuse your audience and give a bad impression.
 
 While writing, follow these rules:
 
-* Insert a space between numbers and units of measure, except when units of measure in question is visualised by a superscripted sign, such as **°** (degree), **'** (foot) and **"** (inch), in which case you should omit the spacing.
+* Insert a space between numbers and units of measure, except when the unit of measure in question is visualised by a superscripted sign, such as **°** (degree), **'** (foot) and **"** (inch), in which case you should omit the spacing.
 * Insert a space before and after a phrase from another language.
 * Insert a blank line between two paragraphs.
 
