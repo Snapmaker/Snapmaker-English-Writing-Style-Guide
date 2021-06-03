@@ -914,7 +914,7 @@ Misplaced spaces can confuse your audience and give a bad impression.
 
 While writing, follow these rules:
 
-* Insert a space between numbers and units of measure.
+* Insert a space between numbers and units of measure, except when units of measure in question is visualised by a superscripted sign, such as **°** (degree), **'** (foot) and **"** (inch), in which case you should omit the spacing.
 * Insert a space before and after a phrase from another language.
 * Insert a blank line between two paragraphs.
 
@@ -1807,7 +1807,7 @@ Snapmaker A350 and Luban let you:
 
 遵循以下原则：
 
-* 数字和单位之间空一格。
+* 数字和单位之间空一格。但在某些情况下，单位不是其英文的缩写，而是一个符号，比如 **°**（度）、**'**（英尺）或 **"** (英寸)，这种情况下数字和单位之间不需要空格。
 * 切换语言时，引入语和主体语言之间空一格。
 * 两个段落之间空一行。
 
