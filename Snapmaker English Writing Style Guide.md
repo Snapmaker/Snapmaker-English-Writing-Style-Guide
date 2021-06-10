@@ -732,7 +732,7 @@ Use angle brackets to link small steps together where there is not enough room f
 
 Instead, say:
 
-* You can enter Home > Enclosure > Settings to disable **Door Detection**.
+* You can enter **Home** > **Enclosure** > **Settings** to disable **Door Detection**.
 
 ### Asterisks (*)
 
@@ -1654,7 +1654,7 @@ Snapmaker A350 and Luban let you:
 
 而应该说：
 
-* You can enter Home > Enclosure > Settings to disable Door Detection.
+* You can enter **Home** > **Enclosure** > **Settings** to disable Door Detection.
 
 ### 星号（\*）
 
