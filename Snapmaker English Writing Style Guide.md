@@ -1064,7 +1064,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 在以下情况前面加 **the**：
 
-* 专属于 Snapmaker 的产品、软件、硬件、零件、工具、打印材料、和其他附件的名字。比如，你应该说：
+* 专属于 Snapmaker 的产品、软件、硬件、零件、工具、打印材料和其他附件的名字。比如，你应该说：
     * the Snapmaker community 而非 Snapmaker community
     * the Snapmaker Artisan 而非 Snapmaker Artisan
     * the Snapmaker Luban 而非 Snapmaker Luban
@@ -1085,7 +1085,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * **Snapmaker** 作为一个独立的名称, 比如：
     * Snapmaker will not ask for your credit card PIN.
     * Snapmaker is an equal-opportunity employer.
-* 描述错误的名称, 比如:
+* 描述错误的名称，比如:
     * black screen
     * negative temperature
 * 某个标准的或普遍的服务或操作，比如：
@@ -1107,11 +1107,11 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 在下面的文本中，**for no reason** 本来是要描述 **stop**，但它们之间隔了一串其他词语：
 
->If the linear modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.
+>If the Linear Modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.
 
 读者可能会困惑：机器怎么会无缘无故地工作呢？类似这样的误解时可以避免的，只要把修饰语 **for no reason** 放在 **stop** 旁边：
 
->If the linear modules stop for no reason while the machine is working, please do as follows to check the silicone pad inside the modules.
+>If the Linear Modules stop for no reason while the machine is working, please do as follows to check the silicone pad inside the modules.
 
 ### 多重修饰语
 
@@ -1326,14 +1326,14 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 ### 数字
 
-总体规则是，10以下的数字应该拼出来，而10及以上的则写成阿拉伯数字。除了以下情况：
+总体规则是，10 以下的数字应该拼出来，而10及以上的则写成阿拉伯数字。除了以下情况：
 
-* 某个数字在UI界面上怎么呈现，就怎么写这个数字。比如，应该说：
+* 某个数字在 UI 界面上怎么呈现，就怎么写这个数字。比如，应该说：
     * Work 0 而非 Work zero.
     * Z Offset 而非 Z offset.
-* 如果数字0可能被误认为是字母o，则在数字后面用圆括号标注 zero。 比如，应该说
+* 如果数字 0 可能被误认为是字母 o，则在数字后面用圆括号标注 zero。 比如，应该说
     * Enter 0 (zero) in the bar，而不要说 Enter 0 in the bar。
-* 有小数点的数字，即使小于10，也应该写成阿拉伯数字。 比如，应该说：
+* 有小数点的数字，即使小于 10，也应该写成阿拉伯数字。 比如，应该说：
     * 3.1 而非 three point one
     * 0.12 而非 zero point twelve
 * 后面有计量单位时，写阿拉伯数字。 比如，应该说：
@@ -1343,7 +1343,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * 描述区间时，写阿拉伯数字。 比如，应该说：
     * 2–3 months 而非 two to three months
     * 1–2 minutes 而非 one to two minutes
-* 不要用数字开始一个句子，尽量调整结构。如果无法避免，则把数字拼出来，无论数字是否大于10。比如，应该说：
+* 不要用数字开始一个句子，尽量调整结构。如果无法避免，则把数字拼出来，无论数字是否大于 10。比如，应该说：
     * Up till now, 10,000 customers have received their rewards.
     * Ten thousand customers have received their rewards.
     
@@ -1398,7 +1398,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 # 格式和内容规划
 
-连贯的格式是好文档必不可缺的元素。它会加强品牌形象，以及内容创作团队和其他部门的合作。 有逻辑的内容规划则帮助减少重复沟通，以及引导读者去看你想要展示的内容。 本章包含大小写、加注、信息架构、标点，和间距的内容。
+连贯的格式是好文档必不可缺的元素。它会加强品牌形象，以及内容创作团队和其他部门的合作。 有逻辑的内容规划则帮助减少重复沟通，以及引导读者去看你想要展示的内容。 本章包含大小写、加注、信息架构、标点和间距的内容。
 
 ## **首字母大写**
 
@@ -1406,7 +1406,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 ### 日期和时间
 
-用12小时制表示时间。大写 **AM**，**PM**， 以及 **UTC** 中的所有字母。 因此，不要说：
+用 12 小时制表示时间。大写 **AM**，**PM**， 以及 **UTC** 中的所有字母。 因此，不要说：
 
 >Opening hours: Monday to Friday 9:30-12:30, 14:30-18:30 (utc+8)
 
@@ -1414,7 +1414,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 >Opening hours: Monday to Friday 9:30-12:30 AM, 2:30-6:30 PM (UTC+8)
 
-提到12点时，要写清楚是中午还是晚上。中午说 **12 noon**，晚上说 **12 midnight**。所有字母小写。
+提到 12 点时，要写清楚是中午还是晚上。中午说 **12 noon**，晚上说 **12 midnight**。所有字母小写。
 
 在 UX 类文档写作中，有时需要描述某个只在特定国家开展的活动，比如北美商城的促销，这种情况下 UTC-8 或 UTC-5 这类写法可能会很奇怪。此时，应该用当地常用的时间表示法来描述时间，字母全大写。即使有的国家同时在用好几种时间，我们也只用一种。详见下表。
 
@@ -1518,8 +1518,8 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 所有计量单位的所有字母都用小写，除了以下情况：
 
 * Decibels (dB)
-* Celsius degree (**°C**)
-* Fahrenheit degree （**°F**)
+* Celsius degree (°C)
+* Fahrenheit degree （°F)
 * Milliwatt (mW)
 * Megawatt (MW)
 
@@ -1563,7 +1563,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 另外，提及 UI 上的元素时用粗体。如果增加 UI 上的符号能帮助理解，也可以和粗体一起使用。比如，可以说：
 
->Enter **Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On the top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail) to reload serial ports list.
+>Enter **Workspace**. On the top left, find **Connection** and click the **Refresh** button to reload serial ports list.
 
 ## **信息架构**
 
@@ -1602,7 +1602,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * Editing Model File
 * Start Printing
 
-另外，和可读性原则里提到的要求一样，不要用俚语、行话、和另一种语言来给标题命名。
+另外，和可读性原则里提到的要求一样，不要用俚语、行话或另一种语言来给标题命名。
 
 ### 链接
 
@@ -1680,7 +1680,7 @@ Snapmaker A350 and Luban let you:
 * 复杂句中，作状语的分词前面
 * 复合句中，连词前面
 * 同一个句子中有两个问题，**or** 前面
-* **too**,**neither**,**either** 前面
+* **too**，**neither**，**either** 前面
 * 超过三位的数字中，从右往左，每三个数字之间。
 
 比如，不要说：
