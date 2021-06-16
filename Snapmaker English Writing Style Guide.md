@@ -47,7 +47,7 @@ Don't use incorrect English. For example, don't say:
 
 * There ain't anything you can't do.
 * We gon' bring you the best experience ever!
-* What're the repeatability, max. travel length, backlash of the linear modules of three models?
+* What're the repeatability, max. travel length, and backlash of the linear modules of three models?
 * trynna, wanna, gonna
 * pp or ppl
 * w/
@@ -57,7 +57,7 @@ Instead, say:
 
 * There isn't anything you can't do.
 * We're going to bring you the best experience ever!
-* What are the repeatability, max. travel length, backlash of the linear modules of three models?
+* What are the repeatability, max. travel length, and backlash of the linear modules of three models?
 * try to, want to, going to
 * people
 * with
@@ -300,7 +300,7 @@ An exception is when **shall** is used in legal notices. In that case, **shall**
 Avoid using words that are too vague or too weak to mean anything. Use specific and strong verbs instead. For example, don't say:
 
 * There is a sidebar, choose **workspace**. There is a **Connection** icon on top left. Click the **refresh button**, and the software will reload the serial ports list.
-* It may cause a phenomenon called **dust accumulation**.
+* It is likely to cause a phenomenon called **dust accumulation**.
 * You should use the dust plugs to avoid the problem of dust accumulation.
 * If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
 * Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the Heated Bed.
@@ -308,7 +308,7 @@ Avoid using words that are too vague or too weak to mean anything. Use specific 
 Instead, say:
 
 * From the left sidebar, enter **Workspace**. On the top left, find **Connection** and click the **Refresh** button to reload the serial ports list.
-* It may cause dust accumulation.
+* It is likely to cause dust accumulation.
 * Use the dust plugs to avoid dust accumulation.
 * If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
 * Brim, raft, and skirt are detachable structures for enhancing object adherence to the Heated Bed.
@@ -993,7 +993,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 * There ain't anything you can't do.
 * We gon' bring you the best experience ever!
-* What're the repeatability, max. travel length, backlash of the Linear Modules of three models?
+* What're the repeatability, max. travel length, and backlash of the Linear Modules of three models?
 * trynna, wanna, gonna
 * pp or ppl
 * w/
@@ -1003,7 +1003,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 * There isn't anything you can't do.
 * We're going to bring you the best experience ever!
-* What are the repeatability, max. travel length, backlash of the Linear Modules of three models?
+* What are the repeatability, max. travel length, and backlash of the Linear Modules of three models?
 * try to, want to, going to
 * people
 * with
@@ -1082,10 +1082,10 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 不要在以下情况前面加 **the**：
 
-* **Snapmaker**作为一个独立的名称, 比如：
+* **Snapmaker** 作为一个独立的名称, 比如：
     * Snapmaker will not ask for your credit card PIN.
     * Snapmaker is an equal-opportunity employer.
-* 错误的名称, 比如:
+* 描述错误的名称, 比如:
     * black screen
     * negative temperature
 * 某个标准的或普遍的服务或操作，比如：
@@ -1241,7 +1241,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 避免使用太含糊或太弱的动词，而应该用更具体，更强的动词。比如，不要说：
 
 * There is a sidebar, choose **workspace**. There is a **Connection** icon on the top left. Click the **refresh button**, and the software will reload the serial ports list.
-* It may cause a phenomenon called **dust accumulation**.
+* It is likely to cause a phenomenon called **dust accumulation**.
 * You should use the dust plugs to avoid the problem of dust accumulation.
 * If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
 * Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the Heated Bed.
@@ -1249,7 +1249,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 而应该说：
 
 * From the left sidebar, enter **Workspace**. On the top left, find **Connection** and click the **Refresh** button to reload the serial ports list.
-* It may cause dust accumulation.
+* It is likely to cause dust accumulation.
 * Use the dust plugs to avoid dust accumulation.
 * If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
 * Brim, raft, and skirt are detachable structures for enhancing object adherence to the Heated Bed.
@@ -1329,8 +1329,8 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 总体规则是，10以下的数字应该拼出来，而10及以上的则写成阿拉伯数字。除了以下情况：
 
 * 某个数字在UI界面上怎么呈现，就怎么写这个数字。比如，应该说：
-    * Work 0 instead of Work zero.
-    * Z Offset instead of Z offset.
+    * Work 0 而非 Work zero.
+    * Z Offset 而非 Z offset.
 * 如果数字0可能被误认为是字母o，则在数字后面用圆括号标注 zero。 比如，应该说
     * Enter 0 (zero) in the bar，而不要说 Enter 0 in the bar。
 * 有小数点的数字，即使小于10，也应该写成阿拉伯数字。 比如，应该说：
@@ -1377,7 +1377,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 一般而言，正式的语气传递出专业的形象，而非正式的语气则能拉近与读者的距离。写说明书时用正式的语气，而 UX 类的文档可以用轻快一些的语气。
 
-但无论哪一种情况，都要尊重事实以及语气诚恳。避免太具有煽动性的宣传语，夸大其词，和口水话。类似**empower**, **solution**, **robust**, 和 **reach out to** 的口水话会给人一种装腔作势，懒得思考以及缺乏教养的印象。同时，也要使用正面的语言，强调做到了什么，而非没做到什么。
+但无论哪一种情况，都要尊重事实以及语气诚恳。避免太具有煽动性的宣传语，夸大其词，和口水话。类似 **empower**, **solution**, **robust**, 和 **reach out to** 的口水话会给人一种装腔作势，懒得思考以及缺乏教养的印象。同时，也要使用正面的语言，强调做到了什么，而非没做到什么。
 
 避免使用表情包，笑话，双关语，网络热词，跨文化传播有障碍的内容，以及涉及宗教的内容。
 
