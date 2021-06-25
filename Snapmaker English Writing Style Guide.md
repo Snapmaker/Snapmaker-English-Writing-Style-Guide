@@ -389,7 +389,7 @@ As a general rule, numbers less than 10 should be spelled out, while 10 and anyt
 
 * Write about numbers in UI as they are displayed. As such, say:
     * Work 0 instead of Work zero.
-    * Z Offset instead of Z offset.
+    * Elapsed Time: 1h instead of Elapsed Time: one hour
 * Where 0 could be misread as the letter o or O, follow it with a spelled out zero in a parenthesis. For example, say:
     * Enter 0 (zero) in the bar, instead of Enter 0 in the bar.
 * Write numerals for numbers less than 10 but have more than one digit. As such, say:
