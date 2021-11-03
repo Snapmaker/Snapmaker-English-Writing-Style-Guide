@@ -929,17 +929,17 @@ While writing, follow these rules:
 
 For example, don't say:
 
-> As a desktop 3D printer, F250 offers a 320 × 350 × 220mm work area.
-> The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55 ℃/131 ℉) working temperature.
-> Bring them to life now with the right tool: the 10 W High Power Laser Module.
-> This inevitably gives rise to what we call知之者胜，不知之者不胜in Chinese.
+* As a desktop 3D printer, F250 offers a 320 × 350 × 220mm work area.
+* The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55 ℃/131 ℉) working temperature.
+* Bring them to life now with the right tool: the 10 W High Power Laser Module.
+* This inevitably gives rise to what we call知之者胜，不知之者不胜in Chinese.
 
 Instead, say:
 
->As a desktop 3D printer, F250 offers a 320 × 350 × 220 mm work area.
->The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55℃/131℉) working temperature.
->Bring them to life now with the right tool: the 10W High Power Laser Module.
->This inevitably gives rise to what we call 知之者胜，不知之者不胜 in Chinese.
+* As a desktop 3D printer, F250 offers a 320 × 350 × 220 mm work area.
+* The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55℃/131℉) working temperature.
+* Bring them to life now with the right tool: the 10W High Power Laser Module.
+* This inevitably gives rise to what we call 知之者胜，不知之者不胜 in Chinese.
 
 Pay close attention to the spacing between words when they are connected by punctuation marks. Generally, insert one space after a punctuation mark, except for the following cases where you should put:
 
@@ -1845,17 +1845,17 @@ Snapmaker A350 and Luban let you:
 
 比如，不要说：
 
-> As a desktop 3D printer, F250 offers a 320 × 350 × 220mm work area.
-> The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55 ℃/131 ℉) working temperature.
-> Bring them to life now with the right tool: the 10 W High Power Laser Module.
-> This inevitably gives rise to what we call知之者胜，不知之者不胜in Chinese.
+* As a desktop 3D printer, F250 offers a 320 × 350 × 220mm work area.
+* The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55 ℃/131 ℉) working temperature.
+* Bring them to life now with the right tool: the 10 W High Power Laser Module.
+* This inevitably gives rise to what we call知之者胜，不知之者不胜in Chinese.
 
 而应该说：
 
->As a desktop 3D printer, F250 offers a 320 × 350 × 220 mm work area.
->The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55℃/131℉) working temperature.
->Bring them to life now with the right tool: the 10W High Power Laser Module.
->This inevitably gives rise to what we call 知之者胜，不知之者不胜 in Chinese.
+* As a desktop 3D printer, F250 offers a 320 × 350 × 220 mm work area.
+* The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55℃/131℉) working temperature.
+* Bring them to life now with the right tool: the 10W High Power Laser Module.
+* This inevitably gives rise to what we call 知之者胜，不知之者不胜 in Chinese.
 
 有标点时，注意它们与文字前后的间距。 一般而言，在标点后面，文字前面空一格。除了以下情况：
 
