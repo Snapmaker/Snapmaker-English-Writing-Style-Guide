@@ -923,9 +923,23 @@ Misplaced spaces can confuse your audience and give a bad impression.
 
 While writing, follow these rules:
 
-* Insert a space between numbers and units of measure, except when the unit of measure in question is visualised by a superscripted sign, such as **°** (degree), **'** (foot) and **"** (inch), in which case you should omit the spacing.
+* Insert a space between numbers and units of measure, except when the unit of measure in question is visualised by a superscripted sign, such as **°** (degree), **'** (foot) and **"** (inch), in which case you should omit the spacing. Product naming is another exception, where no space is needed between the number and unit of measure.
 * Insert a space before and after a phrase from another language.
 * Insert a blank line between two paragraphs.
+
+For example, don't say:
+
+> As a desktop 3D printer, F250 offers a 320 × 350 × 220mm work area.
+> The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55 ℃/131 ℉) working temperature.
+> Bring them to life now with the right tool: the 10 W High Power Laser Module.
+> This inevitably gives rise to what we call知之者胜，不知之者不胜in Chinese.
+
+Instead, say:
+
+>As a desktop 3D printer, F250 offers a 320 × 350 × 220 mm work area.
+>The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55℃/131℉) working temperature.
+>Bring them to life now with the right tool: the 10W High Power Laser Module.
+>This inevitably gives rise to what we call 知之者胜，不知之者不胜 in Chinese.
 
 Pay close attention to the spacing between words when they are connected by punctuation marks. Generally, insert one space after a punctuation mark, except for the following cases where you should put:
 
@@ -1825,9 +1839,23 @@ Snapmaker A350 and Luban let you:
 
 遵循以下原则：
 
-* 数字和单位之间空一格。但在某些情况下，单位不是其英文的缩写，而是一个符号，比如 **°**（度）、**'**（英尺）或 **"** (英寸)，这种情况下数字和单位之间不需要空格。
+* 数字和单位之间空一格。但在某些情况下，单位不是其英文的缩写，而是一个符号，比如 **°**（度）、**'**（英尺）或 **"** (英寸)，这种情况下数字和单位之间不需要空格。另一个例外是产品命名，这种情况下数字与单位之间不空格。
 * 切换语言时，引入语和主体语言之间空一格。
 * 两个段落之间空一行。
+
+比如，不要说：
+
+> As a desktop 3D printer, F250 offers a 320 × 350 × 220mm work area.
+> The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55 ℃/131 ℉) working temperature.
+> Bring them to life now with the right tool: the 10 W High Power Laser Module.
+> This inevitably gives rise to what we call知之者胜，不知之者不胜in Chinese.
+
+而应该说：
+
+>As a desktop 3D printer, F250 offers a 320 × 350 × 220 mm work area.
+>The module stops working automatically whenever its temperature sensor detects a higher than normal (one that exceeds 55℃/131℉) working temperature.
+>Bring them to life now with the right tool: the 10W High Power Laser Module.
+>This inevitably gives rise to what we call 知之者胜，不知之者不胜 in Chinese.
 
 有标点时，注意它们与文字前后的间距。 一般而言，在标点后面，文字前面空一格。除了以下情况：
 
