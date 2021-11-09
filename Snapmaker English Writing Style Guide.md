@@ -35,11 +35,11 @@ While it is okay to use all types of abbreviations in UX writing, avoid using co
 
 For example, in this text, **Target Temperature** is used several times, which makes the whole paragraph look cluttered:
 
->Change the **Target Temperature** based on the filament you use (the default **Target Temperature** is 200 °C). While you wait for the temperature to rise to the **Target Temperature**, hang the filament onto the filament holder.
+>Change the **Target Temperature** based on the filament you use (the default **Target Temperature** is 200°C). While you wait for the temperature to rise to the **Target Temperature**, hang the filament onto the filament holder.
 
 You can clean up the mess by using abbreviation:
 
->Change the **Target Temperature** (TT) based on the filament you use (the default **TT** is 200 °C). While you wait for the temperature to rise to the **TT**, hang the filament onto the filament holder.
+>Change the **Target Temperature** (TT) based on the filament you use (the default **TT** is 200°C). While you wait for the temperature to rise to the **TT**, hang the filament onto the filament holder.
 
 Note that you should use the abbreviated phrase for subsequent mentions within the chapter, and don't switch between abbreviations and full forms. But, to avoid confusion in content reuse, provide a full form in parenthesis after the abbreviation once every chapter.
 
@@ -47,7 +47,7 @@ Don't use incorrect English. For example, don't say:
 
 * There ain't anything you can't do.
 * We gon' bring you the best experience ever!
-* What're the repeatability, max. travel length, and backlash of the linear modules of three models?
+* What're the repeatability, max. travel length, and backlash of the Linear Modules of three models?
 * trynna, wanna, gonna
 * pp or ppl
 * w/
@@ -57,7 +57,7 @@ Instead, say:
 
 * There isn't anything you can't do.
 * We're going to bring you the best experience ever!
-* What are the repeatability, max. travel length, and backlash of the linear modules of three models?
+* What are the repeatability, max. travel length, and backlash of the Linear Modules of three models?
 * try to, want to, going to
 * people
 * with
