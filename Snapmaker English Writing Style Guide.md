@@ -602,7 +602,7 @@ Instead, say:
 
 * Easy to Assemble
 * All for Your Best Experience
-* Connect with us
+* Connect with Us
 * Sleek yet Powerful
 * Modular and Expandable
 * A Change to Look Forward To
@@ -1563,7 +1563,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 * Easy to Assemble
 * All for Your Best Experience
-* Connect with us
+* Connect with Us
 * Sleek yet Powerful
 * Modular and Expandable
 * A Change to Look Forward To
