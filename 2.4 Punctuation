@@ -1,0 +1,199 @@
+## **2.4 Punctuation**
+
+### 2.4.1 Ampersand **(&)**
+
+Avoid using ampersand as shorthand for **and** unless absolutely necessary.
+
+### 2.4.2 Angle Bracket **(>)** 
+
+Use angle brackets to link small steps together where there is not enough room for a step-by-step description, which requires considerable spacing. Do not use **->**, **-->**, **--**, or **—→**. For example, don't say:
+
+* You can enter Home -> Enclosure -> Settings to disable **Door Detection**.
+* You can enter Home --> Enclosure --> Settings to disable **Door Detection**.
+* You can enter Home —→ Enclosure —→ Settings to disable the **Door Detection**.
+
+Instead, say:
+
+* You can enter **Home** > **Enclosure** > **Settings** to disable **Door Detection**.
+
+### 2.4.3 Asterisks (*)
+
+Use asterisks when adding footnotes. See Notation.
+
+
+### 2.4.4 Colons (:)
+
+Use colons to do the following:
+
+* Introduce admonitions.
+* Introduce contact information.
+
+In text, use **at** instead of **:** or **at:** to introduce contact information. In footers in **Contact Us** pages, **Support** pages, **Detail** pages, and homepages, introduce contact information with colons.
+
+Don't insert a colon after **including**, **excluding**, **except for**, **other than**, **apart from**, **such as**, and **for example**.
+
+
+### 2.4.5 Commas (,)
+
+Include commas in the following situations:
+
+* In an embedded list (avoid embedded lists if possible), before **and**.
+* In an imperative sentence, before **and**.
+* In a complex sentence, before an adverbial participle.
+* In a compound sentence, before conjunctions.
+* In one sentence where two questions are asked, before **or**.
+* Before **too**, **neither**, and **either**.
+* In numbers that have more than 3 digits.
+
+For example, don't say:
+
+* We represent detail-orientedness, creativity and passion.
+* Before using CNC carving put on safety goggles.
+* Take off the dust plugs and you will see the USB port.
+* You will make your Snapmaker more versatile adding the latest Rotary Module.
+* Have you ever wondered: do I buy a 3D printer? Or do I buy a 3-in-one fabrication machine?
+* We feel disheartened by this terrible news too.
+* 2100 mm
+
+Instead, say:
+
+* We represent detail-orientedness, creativity, and passion.
+* Before using CNC carving, put on safety goggles.
+* Take off the dust plugs, and you will see the USB port.
+* You will make your Snapmaker more versatile, adding the latest Rotary Module —or better yet—
+* Adding the latest rotary module, you will make your Snapmaker more versatile.
+* Have you ever wondered: do I buy a 3D printer, or do I buy a 3-in-one fabrication machine?
+* We feel disheartened by this terrible news, too.
+* 2,100 mm
+
+
+### 2.4.6 Ellipses (...)
+
+Ellipsis is a set of three periods, used to indicate omission or hesitation. In tutorials and guides, don't use it. In other situations, use it sparingly.
+
+
+### 2.4.7 En dashes (**–**)
+
+The en dash is slightly longer than a hyphen. Use an en dash instead of a **~** (tilde) to indicate ranges. For example, don't say:
+
+>Operating Temperature	-20℃ ~ 50℃ (-4°F~122°F)
+
+Instead, say:
+
+>Operating Temperature	-20℃–50℃ (-4°F–122°F)
+
+To type an en dash, see below:
+
+* On a Mac, press the **Alt** key, and the **Minus (-)** key at the same time.
+* On a PC, press the **Win** key, and the **dot (.)** at the same time, click the **omega icon** at the top, scroll down to find the en dash.
+
+
+### 2.4.8 Em dashes (—)
+
+The em dash is twice as long as the en dash. Use em dashes to indicate conversation or in place of parentheses.
+
+To type an en dash, see below:
+
+* On a Mac, press the **Alt** key, the **Shift** key, and the **Minus (-)** key at the same time.
+* On a PC, press the **Win** key, and the **dot (.)** at the same time, click the **omega icon** at the top, scroll down to find the em dash.
+
+
+### 2.4.9 Exclamation points (!)
+
+Use exclamation points sparingly.
+
+
+### 2.4.10 Hyphens (-)
+
+|**Type**|**Use**|**Example**|
+|:----|:----|:----|
+|**Name of Tools**|no|USB disk, filament holder tube|
+|**Name of Steps**|no|auto levelling, auto calibration|
+|**Name of Errors**|no|power outage, connection failure, black screen|
+|**Verb Plus Adverb**|no when used as a noun; yes when used as an adjective|plugin, add-on|
+|**Noun Plus Past Participle**|no|computer controlled|
+|**Adverb Plus Past Participle**|no|newly released|
+|**Adjective Plus Noun**|no when used as a noun; yes when used as an adjective|high quality, high-precision|
+|**Affix before Verb**|no, unless it interferes with comprehension|preorder, remeasure, defocuse, re-adjust, re-create|
+|**Non-**|yes|non-European, non-American, non-standard|
+|**Anti- and Counter-**|yes|anti-clockwise, counter-clockwise, counter-intuitive|
+|**X Axis, Y Axis, Z Axis, and their plural forms**|no, unless used as adjective|Z Axis, Z-axis Extension Module (See **Capitalization)**.|
+
+### 2.4.11 Multiplication Sign (×)
+
+You can use this sign to describe the specifications of a product. Note that the units of measure following each number should not be omitted, unless there is not enough room for them. So don't say:
+
+> Dimensions (W × D × H): 405 × 424 × 490 mm
+
+Instead, say:
+
+> Dimensions (W × D × H): 405 mm × 424 mm × 490 mm
+
+### 2.4.12 Parentheses ()
+
+Use parentheses sparingly. If words in parentheses can be omitted without harming the integrity of sentence meaning, then omit them altogether.
+
+
+### 2.4.13 Periods (.)
+
+Long text without pause can be painful to read. The following description provides an extreme example:
+
+>Keep adjusting the height of the nozzle using **Up** and **Down** buttons until there is slight resistance when you pull out the calibration card and it should be wrinkled when you push it forward.
+
+Add a few commas and a period, it becomes more comprehensible:
+
+>Keep adjusting the height of the nozzle using **Up** and **Down** buttons, until there is slight resistance when you pull out the calibration card. When you push it forward, the card should be wrinkled.
+
+Use periods, as opposed to commas, to separate run-on sentences. For example, don't say:
+
+>Cut the bending end of the filament using the diagonal pliers, then insert the filament into the 3D printing module.
+
+Instead, say:
+
+>Cut the bending end of the filament using the diagonal pliers. Then insert the filament into the 3D printing module.
+
+Put the period after a link or parenthesis when they are part of the sentence.
+
+Do not put a period after titles and headings, even if they are complete sentences.
+
+
+### 2.4.14 Quotation marks ("")
+
+Don't use quotation marks to refer to elements in the UI or as emphasis. Use bold text instead. If you need to quote a whole paragraph, use the markdown grammar, instead of quotation marks.
+
+
+### 2.4.15 Semi-colons (;)
+
+Use semi-colons to connect two sentences that are close in meaning. Otherwise, use periods. Also, note that **then**, **therefore**, **otherwise**, and **namely** are adverbs. So separate them with the previous sentence with a semi-colon, rather than a comma. Or alternatively, add conjunction before them. For example, don't say:
+
+>The firmware is updated on 8th September, therefore if you use the previous version, you may experience delays.
+
+Instead, say:
+
+>The firmware is updated on 8th September; therefore if you use the previous version, you may experience delays.
+
+But as we've established in the beginning, this guide might include rules that violate traditional grammar. And it is okay to use **then** without conjunctions such as **and**, considering that it has become widely accepted. So for example, you can say:
+
+* Move the machine to a proper place, then enclose it with the Enclosure.
+* Go to **Solid**, then click **Extrude**. Put the depth at 10 mm, and click **OK**.
+
+
+### 2.4.16 Slashes **(/)**
+
+Avoid using the slash as shorthand for **or**. On rare occasions where you have to use a slash, don't use more than one. More often than not, the slashes can be replaced by commas. For example, don't say:
+
+>You can recover any project and get perfect printing / engraving / cutting / carving results at any time.
+
+Instead, say:
+
+>You can recover any project and get perfect printing, engraving, cutting, or carving results at any time.
+
+Don't write dates as all numbers in MM/DD/YYYY format, or DD/MM/YYYY for that matter, as it can cause confusion. Use letters, rather than number to indicate months. Write the year in four digits, and separate it with month and day with a comma. So don't say:
+
+>We will host an orientation on 07/12/2020. Don't miss it!
+
+Instead, say:
+
+>We will host an orientation on Monday, December 7th, 2020. Don't miss it!
+
+Avoid using backslashes.
