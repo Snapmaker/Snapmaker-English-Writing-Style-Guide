@@ -1,0 +1,41 @@
+## **2.2 Notation**
+
+### 2.2.1 Admonitions
+
+Be as brief as possible. Don't create a chunky paragraph out of a note. Don't add one note after another. If you have many things to note, consider weaving the information into your text. For example, don't do this:
+
+![图片](https://uploader.shimo.im/f/IHdo2r0vpk6wsS3R.jpg!thumbnail)
+
+This kind of information layout immediately puts an impatient reader off. The notes are scattered around the text, which is already a lot to consume in itself, and there is no good reason to pile up your notes like this.
+
+Use **Note** to add information. Don't use **Attention**, **Notice**, **FYI**, or **PS**. For example, don't say:
+
+>Attention: Rest assured that our Technical support is always available to help you out under any circumstances, even if the issue is not covered under warranty. Please feel free to contact us at support@snapmaker.com. 
+
+Instead, say:
+
+>Note: Snapmaker online support is here to help you, whether the issue is related to parts covered by warranty. Contact us at support@snapmaker.com.
+
+Separate adding information from warning your audience. Don't use a warning where a note can do the job. Don't overuse **Caution** and **Warning**, otherwise, they will lose the weight they carry.
+
+Occasionally you might need to use an asterisk (\*) to add a footnote. Use an asterisk to add information on a word or phrase, not a text. And don't use it if a parenthesis can do the job.
+
+Though it is not interchangeable with admonitions, use it sparingly. See [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) for more information.
+
+
+### 2.2.2 Emphasis and Reference
+
+Use bold text to highlight actions, or refer to book names, movie titles, and the like. Don't capitalize all the letters. Don't use colons, quotation marks, apostrophes, italics, underlines, superscripts, or exclamation points as an emphasis. For example, don't say:
+
+>Tap "Controls" on the Touchscreen, and tap "Home Axes" to run a homing session.
+>Or:
+
+>Tap *Controls* on the Touchscreen, and tap *Home Axes* to run a homing session.
+
+Instead, say:
+
+>Tap **Controls** on the Touchscreen, and tap **Home Axes** to run a homing session.
+
+Also, use bold text when referring to elements in the UI. Occasionally, use icons along with bold text if it's easier to understand. For example, say:
+
+>Enter **Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On the top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail)to reload serial ports list.
