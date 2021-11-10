@@ -584,7 +584,28 @@ For an illustration, see below:
 
 ### Titles and Headings
 
-Use title-style capitalization for titles and all levels of headings.
+Use title-style capitalization for titles and all levels of headings. There are a few exceptions to note:
+
+* Prepositions and conjunctions of 4 letters or fewer 
+* Articles, definite or indefinite
+
+These words should be written in lower case except when they are the first or last word in a tile. So don't say:
+
+* Easy To Assemble
+* All For Your Best Experience
+* Connect With Us
+* Sleek Yet Powerful
+* Modular And Expandable
+* a Change to Look Forward to
+
+Instead, say:
+
+* Easy to Assemble
+* All for Your Best Experience
+* Connect with us
+* Sleek yet Powerful
+* Modular and Expandable
+* A Change to Look Forward To
 
 
 ### Units of Measure
@@ -1524,7 +1545,28 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 ### 题目和标题
 
-题目和各级标题用标题式。
+题目和各级标题用标题式。但有几个例外需要注意：
+
+* 4 个及以下字母的介词和连词；
+* 冠词，无论定冠词还是不定冠词
+
+这类词出现在标题中也不用大写，除非它们是标题中的第一个或最后一个词。所以，不要说：
+
+* Easy To Assemble
+* All For Your Best Experience
+* Connect With Us
+* Sleek Yet Powerful
+* Modular And Expandable
+* a Change to Look Forward to
+
+而应该说：
+
+* Easy to Assemble
+* All for Your Best Experience
+* Connect with us
+* Sleek yet Powerful
+* Modular and Expandable
+* A Change to Look Forward To
 
 
 ### 单位
