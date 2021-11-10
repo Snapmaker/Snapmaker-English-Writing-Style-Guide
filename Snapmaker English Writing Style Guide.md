@@ -9,9 +9,9 @@ The **Language and Grammar** chapter outlines rules that govern right or wrong, 
 This guide is updated regularly. To report bugs or propose ideas, file an issue on [our GitHub page](https://github.com/Snapmaker), or email at ginger@snapmaker.com.
 
 
-# Language and Grammar
+# 1. Language and Grammar
 
-## **Abbreviation**
+## **1.1 Abbreviation**
 
 It is helpful to distinguish between **initialisms**, **acronyms**, **shortened words**, and **contractions** first.
 
@@ -68,9 +68,9 @@ If you are not sure about what is the accepted abbreviation of a certain word, c
 Regarding units of measure and their abbreviation, see [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp).
 
 
-## **Agreement**
+## **1.2 Agreement**
 
-### **Pronoun-antecedent Agreement**
+### **1.2.1 Pronoun-antecedent Agreement**
 
 A pronoun is used to refer to a noun or noun phrase previously mentioned. To achieve word economy, as well as increase readability, it is encouraged that you use pronouns where appropriate, instead of spelling out the whole term all the time.
 
@@ -81,7 +81,7 @@ However, do check whether your reference is clear after you finish writing, as p
 On closer inspection, **its** might be referring to **parts** , but as **parts** is a plural noun, the correct pronoun should be **their**.
 
 
-### **Subject-verb Agreement**
+### **1.2.2 Subject-verb Agreement**
 
 Although their misuse is not as confusing as that of pronouns and antecedents, it is essential that subjects and verbs agree with each other in number. The grammatical essentials are not covered in this guide. What this guide wants to stress are agreement and consistency.
 
@@ -94,7 +94,7 @@ Independently, each sentence in the text is correct, but this kind of switching 
 >**Snapmaker 2.0**, the modular 3-in-1 3D **printer** that **unlocks** your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. **Snapmaker 2.0 is** smarter, faster, larger, and more powerful than ever before. **It is** a new generation of 3-in-1 3D **printer** that **comes** with everything you need!
 
 
-## **Articles**
+## **1.3 Articles**
 
 Articles include indefinite articles **a**, **an**, and definite article **the**. This guide does not provide an exhaustive explanation of all three articles. Rather, it delineates some of the rules regarding the use of the definite article. For a more detailed usage guide, check out [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/) by Grammarly.
 
@@ -154,9 +154,9 @@ Don't add **the** before:
     * Enter
     * Ctrl+C
     
-## **Modifiers**
+## **1.4 Modifiers**
 
-### Misplaced Modifiers
+### 1.4.1 Misplaced Modifiers
 
 Modifiers should be put adjacent to the words they modify. When you separate the modifier from the word it describes, it can create confusion.
 
@@ -169,7 +169,7 @@ The audience can't help but wonder how can the machine be working for no reason.
 >If the linear modules stop for no reason while the machine is working, please do as follows to check the silicone pad inside the modules.
 
 
-### Multiple Modifiers
+### 1.4.2 Multiple Modifiers
 
 When a noun or noun phrase is preceded by more than two modifiers, it begins to look hard on the eyes.
 
@@ -194,7 +194,7 @@ Instead, say:
 * A regularly maintained open-source software
 
 
-### Noun Modifiers
+### 1.4.3 Noun Modifiers
 
 Don't put more than two nouns before the central noun or noun phrase. For example, don't say:
 
@@ -220,12 +220,12 @@ A general rule is to use **'s** after a living organism and a brand, while use *
 * The horsepower of Tesla Model 3
 
 
-## **Readability**
+## **1.5 Readability**
 
 Most readers have a purpose in mind when browsing our documentation. They could be looking for guidance on certain steps, or they could simply be looking for shipping dates. Either way, simplicity and clarity reduce the volume of documentation and time your audience spends on locating needed information.
 
 
-### Be Brief
+### 1.5.1 Be Brief
 
 Get to the point fast. Don't aim for politeness at the expense of efficiency. Limit each sentence to less than 25 words.
 
@@ -269,7 +269,7 @@ Don't use expressions that are already ubiquitous in Chinese. It's likely they w
 * Powerful and strong
 
 
-### Be Precise
+### 1.5.2 Be Precise
 Being simple is important, but it should not come at the expense of clarity. After all, if the readers don't understand what you mean, a document becomes useless. 
 
 If you have to use homonyms, define them first, especially in Quick Start Guides and User Manuals. The most commonly used homonyms that can be confusing include:
@@ -324,7 +324,7 @@ Instead, say:
 >Follow our social media and we will announce the schedule of the online Makerathon very soon.
 
 
-### Be Thoughtful
+### 1.5.3 Be Thoughtful
 
 Present the most important information first. Organize it in a way that is logical and requires minimum effort and brain gymnastics on your audience's part.
 
@@ -365,7 +365,7 @@ Instead, say:
 Don't assume your audience knows. Always provide background information when you introduce a concept, whether it is a link or a paragraph. Avoid expressions such as **simply**, **just**, **quickly**, **you are a click away**, and **it's easy**, as they can make users feel stupid.
 
 
-## **Spelling**
+## 1.6 **Spelling**
 
 Write in American English on all occasions, but avoid using North American slang. American English can differ from British English in a variety of ways. The following table provides an overview.
 
@@ -383,7 +383,7 @@ Write in American English on all occasions, but avoid using North American slang
 This is not an exhaustive list of the differences. When in doubt, check this website: [UK VS US SPELLING](http://www.tysto.com/2012/05/uk-vs-us-spelling/).
 
 
-### Numbers
+### 1.6.1 Numbers
 
 As a general rule, numbers less than 10 should be spelled out, while 10 and anything larger should be written in numerals. A few exceptions should be noted:
 
@@ -407,7 +407,7 @@ As a general rule, numbers less than 10 should be spelled out, while 10 and anyt
     * Ten thousand customers have received their rewards.
     
     
-### Units of Measure
+### 1.6.2 Units of Measure
 
 Different systems of measurement are used across the world. While most of the world use the metric system, the US uses the imperial system. The following table provides an overview of their common differences.
 
@@ -436,7 +436,7 @@ Don't follow the abbreviation with a period, unless the term is **inch**. In tha
 Consult [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) when in doubt.
 
 
-## **Tone**
+## **1.7 Tone**
 
 Generally, a formal tone shows professionalism, while an informal tone engages your audience. Take a formal tone when writing Quick Start Guides and User Manuals, whereas your UX writing can be a little more light-hearted.
 
@@ -459,17 +459,17 @@ Or, say:
 With an informal tone, be conversational. Violate grammar once or twice. It's okay to end sentences with prepositions. And it's okay to start a sentence with **And** or **But**.
 
 
-# Formatting and Content Planning
+# 2. Formatting and Content Planning
 
 Consistent formatting is an essential part of documentation success. It strengthens the brand image and improves collaboration between content creation teams and other departments. Logical organization of contents not only reduces repetitive communications, but guides the audience through what you want them to see. This chapter covers Capitalization, Notation, Organization, Punctuation, and Spacing.
 
 
-## **Capitalization**
+## **2.1 Capitalization**
 
 There are two types of capitalization: sentence style and title style. In sentence-style capitalization, only the first letter of the first word is capitalized, whereas in title-style capitalization, all first letters are capitalized except for those of articles and short prepositions.
 
 
-### Dates and Times
+### 2.1.1 Dates and Times
 
 Use the 12-hour clock for expression of times. Capitalize all letters in **AM**, **PM**, and **UTC**. So don't say:
 
@@ -495,7 +495,7 @@ An exception is UX writing that addresses an event taking place solely in one co
 |**Australia**|Australian Eastern Daylight Time (AEST)|UTC+11|on the first Sunday of October|
 
 
-### File Name Extensions
+### 2.1.2 File Name Extensions
 
 Refer to the file type in upper case when it's in the middle of the sentence. If the name of the file type is at the end of a sentence, write it out as **.file extension**. For example, don't say:
 
@@ -510,7 +510,7 @@ Instead, say:
 * The extension of the file is .gcode.
 
 
-### Lists
+### 2.1.3 Lists
 
 Use sentence-style capitalization in a list, whether the introducing sentence ends with a colon or a period. For example, don't say:
 
@@ -535,7 +535,7 @@ Instead, say:
 >Prerequisite: a pair of tweezers, 3-5 pieces of paper, and a spool of PLA filament.
 
 
-### Notes
+### 2.1.4 Notes
 
 Use sentence-style capitalization in the sentence after **Note:**, **Tips:**, **Caution:**, and **Warning:**. For example, don't say:
 
@@ -546,7 +546,7 @@ Instead, say:
 >Note: If your machine is not responding, check A, B, and C.
 
 
-### Proper Nouns
+### 2.1.5 Proper Nouns
 
 Proper nouns can be divided into the following categories.
 
@@ -564,8 +564,8 @@ Proper nouns can be divided into the following categories.
 
 Note that hyphenated proper nouns should be capitalized in sentence style. Refer to **Hyphens (-)** for more information.
 
-### 
-### Texts in a Table
+
+### 2.1.6 Texts in a Table
 
 In a table, column headers are at the topmost. They describe data in each column. Row headers are at the leftmost. They describe data in each row. You should:
 
@@ -582,7 +582,7 @@ For an illustration, see below:
 |**Treatment C**|3.78789|0.467|TO BE CONFIRMED|
 
 
-### Titles and Headings
+### 2.1.7 Titles and Headings
 
 Use title-style capitalization for titles and all levels of headings. So capitalize all the words in a title, including the nouns, verbs, pronouns, adjectives, and adverbs. Note that prepositions and conjunctions of 5 letters or more should also be capitalized. But, the following words should not be capitalized except when they are the first or last word in a title:
 
@@ -612,7 +612,7 @@ Instead, say:
 * A Change to Look Forward To
 
 
-### Units of Measure
+### 2.1.8 Units of Measure
 
 Use lowercase for terms of measurement, except for:
 
@@ -623,9 +623,9 @@ Use lowercase for terms of measurement, except for:
 * Megawatt (MW)
 
 
-## **Notation**
+## **2.2 Notation**
 
-### Admonitions
+### 2.2.1 Admonitions
 
 Be as brief as possible. Don't create a chunky paragraph out of a note. Don't add one note after another. If you have many things to note, consider weaving the information into your text. For example, don't do this:
 
@@ -648,7 +648,7 @@ Occasionally you might need to use an asterisk (\*) to add a footnote. Use an as
 Though it is not interchangeable with admonitions, use it sparingly. See [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) for more information.
 
 
-### Emphasis and Reference
+### 2.2.2 Emphasis and Reference
 
 Use bold text to highlight actions, or refer to book names, movie titles, and the like. Don't capitalize all the letters. Don't use colons, quotation marks, apostrophes, italics, underlines, superscripts, or exclamation points as an emphasis. For example, don't say:
 
@@ -665,10 +665,10 @@ Also, use bold text when referring to elements in the UI. Occasionally, use icon
 
 >Enter **Workspace**![图片](https://uploader.shimo.im/f/eIGGgqXtlFM3r92O.png!thumbnail). On the top left, find **Connection** and click the **Refresh** button![图片](https://uploader.shimo.im/f/MS5cpizgYDWUYhJf.png!thumbnail)to reload serial ports list.
 
-### 
-## **Organization**
+ 
+## **2.3 Organization**
 
-### Headings
+### 2.3.1 Headings
 
 Don't put a number before the heading unless it's part of a sequential operation. Use styling rather than numbers to differentiate different levels of heading.
 
@@ -706,11 +706,11 @@ Instead, say:
 And just like stipulations in Readability, don't use internet slang, jargon, and words that come from a different language in headings.
 
 
-### Links
+### 2.3.2 Links
 
 In UX writing, always introduce hyperlinks under the keywords. In non-UX writing, introduce links with a preposition, instead of a colon. Where the link is lengthy, restructure your text to keep the link in one single line.
 
-### Lists
+### 2.3.3 Lists
 
 Avoid embedded lists. If your description can be sorted by a common denominator, use a list to increase scannability. For example, the following sentence contains an embedded list, and can be improved:
 
@@ -732,7 +732,7 @@ Snapmaker A350 and Luban lets you:
 Ordered lists tend to collapse when transferred to other authoring tools, while bulleted lists can be transferred without causing clutters. As a result, use ordered lists only if you are describing sequential operations. Otherwise, use unordered lists.
 
 
-### Tables
+### 2.3.4 Tables
 
 Use tables as a means of comparing data. Don't use it to describe terms, steps, or report system updates.
 
@@ -741,13 +741,13 @@ Do not caption the table; as captions pose challenges to content reuse. Put the 
 Use bold text for headers.
 
 
-## **Punctuation**
+## **2.4 Punctuation**
 
-### Ampersand **(&)**
+### 2.4.1 Ampersand **(&)**
 
 Avoid using ampersand as shorthand for **and** unless absolutely necessary.
 
-### Angle Bracket **(>)** 
+### 2.4.2 Angle Bracket **(>)** 
 
 Use angle brackets to link small steps together where there is not enough room for a step-by-step description, which requires considerable spacing. Do not use **->**, **-->**, **--**, or **—→**. For example, don't say:
 
@@ -759,12 +759,12 @@ Instead, say:
 
 * You can enter **Home** > **Enclosure** > **Settings** to disable **Door Detection**.
 
-### Asterisks (*)
+### 2.4.3 Asterisks (*)
 
 Use asterisks when adding footnotes. See Notation.
 
 
-### Colons (:)
+### 2.4.4 Colons (:)
 
 Use colons to do the following:
 
@@ -776,7 +776,7 @@ In text, use **at** instead of **:** or **at:** to introduce contact information
 Don't insert a colon after **including**, **excluding**, **except for**, **other than**, **apart from**, **such as**, and **for example**.
 
 
-### Commas (,)
+### 2.4.5 Commas (,)
 
 Include commas in the following situations:
 
@@ -810,12 +810,12 @@ Instead, say:
 * 2,100 mm
 
 
-### Ellipses (...)
+### 2.4.6 Ellipses (...)
 
 Ellipsis is a set of three periods, used to indicate omission or hesitation. In tutorials and guides, don't use it. In other situations, use it sparingly.
 
 
-### En dashes (**–**)
+### 2.4.7 En dashes (**–**)
 
 The en dash is slightly longer than a hyphen. Use an en dash instead of a **~** (tilde) to indicate ranges. For example, don't say:
 
@@ -831,7 +831,7 @@ To type an en dash, see below:
 * On a PC, press the **Win** key, and the **dot (.)** at the same time, click the **omega icon** at the top, scroll down to find the en dash.
 
 
-### Em dashes (—)
+### 2.4.8 Em dashes (—)
 
 The em dash is twice as long as the en dash. Use em dashes to indicate conversation or in place of parentheses.
 
@@ -841,12 +841,12 @@ To type an en dash, see below:
 * On a PC, press the **Win** key, and the **dot (.)** at the same time, click the **omega icon** at the top, scroll down to find the em dash.
 
 
-### Exclamation points (!)
+### 2.4.9 Exclamation points (!)
 
 Use exclamation points sparingly.
 
 
-### Hyphens (-)
+### 2.4.10 Hyphens (-)
 
 |**Type**|**Use**|**Example**|
 |:----|:----|:----|
@@ -862,7 +862,7 @@ Use exclamation points sparingly.
 |**Anti- and Counter-**|yes|anti-clockwise, counter-clockwise, counter-intuitive|
 |**X Axis, Y Axis, Z Axis, and their plural forms**|no, unless used as adjective|Z Axis, Z-axis Extension Module (See **Capitalization)**.|
 
-### Multiplication Sign (×)
+### 2.4.11 Multiplication Sign (×)
 
 You can use this sign to describe the specifications of a product. Note that the units of measure following each number should not be omitted, unless there is not enough room for them. So don't say:
 
@@ -872,12 +872,12 @@ Instead, say:
 
 > Dimensions (W × D × H): 405 mm × 424 mm × 490 mm
 
-### Parentheses ()
+### 2.4.12 Parentheses ()
 
 Use parentheses sparingly. If words in parentheses can be omitted without harming the integrity of sentence meaning, then omit them altogether.
 
 
-### Periods (.)
+### 2.4.13 Periods (.)
 
 Long text without pause can be painful to read. The following description provides an extreme example:
 
@@ -900,12 +900,12 @@ Put the period after a link or parenthesis when they are part of the sentence.
 Do not put a period after titles and headings, even if they are complete sentences.
 
 
-### Quotation marks ("")
+### 2.4.14 Quotation marks ("")
 
 Don't use quotation marks to refer to elements in the UI or as emphasis. Use bold text instead. If you need to quote a whole paragraph, use the markdown grammar, instead of quotation marks.
 
 
-### Semi-colons (;)
+### 2.4.15 Semi-colons (;)
 
 Use semi-colons to connect two sentences that are close in meaning. Otherwise, use periods. Also, note that **then**, **therefore**, **otherwise**, and **namely** are adverbs. So separate them with the previous sentence with a semi-colon, rather than a comma. Or alternatively, add conjunction before them. For example, don't say:
 
@@ -921,7 +921,7 @@ But as we've established in the beginning, this guide might include rules that v
 * Go to **Solid**, then click **Extrude**. Put the depth at 10 mm, and click **OK**.
 
 
-### Slashes **(/)**
+### 2.4.16 Slashes **(/)**
 
 Avoid using the slash as shorthand for **or**. On rare occasions where you have to use a slash, don't use more than one. More often than not, the slashes can be replaced by commas. For example, don't say:
 
@@ -942,7 +942,7 @@ Instead, say:
 Avoid using backslashes.
 
 
-## **Spacing**
+## 2.5 **Spacing**
 
 Misplaced spaces can confuse your audience and give a bad impression.
 
@@ -991,9 +991,9 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 这份指南会经常更新。如果您发现错误或有任何提议，可以在我们的 Github 页面上提出 issue。另外，您也可以发邮件至 ginger@snapmaker.com。
 
 
-# 语言和语法
+# 1. 语言和语法
 
-## 缩略
+## 1.1 缩略
 
 首先需要区分首字母缩写（initialisms）、简写（acronyms）、略写（shortened words）和缩写（contractions）。
 
@@ -1053,9 +1053,9 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 有关计量单位的缩写，查看 **Snapmaker 术语表** 的规定。
 
  
-## 一致性
+## 1.2 一致性
 
-### 代词和先行词一致
+### 1.2.1 代词和先行词一致
 
 代词可以替代前面提到的词或短语。为了实现语言的简洁，增加可读性，鼓励在合适的地方使用代词，而不是每次都用全称。
 
@@ -1065,7 +1065,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 仔细一看，**its** 指代的可能是 **parts**, 但由于 **parts** 是复数，正确的代词应该是 **their**。
 
-### 主谓一致
+### 1.2.2 主谓一致
 
 尽管主谓不一致并不像代词先行词不一致那样具有误导性，但主谓一致很重要。这份指南不讲基础的语法，而希望引起对连贯性和一致性的注意。
 
@@ -1077,7 +1077,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 >**Snapmaker 2.0**, the modular 3-in-1 3D **printer** that **unlocks** your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. **Snapmaker 2.0 is** smarter, faster, larger, and more powerful than ever before. **It is** a new generation of 3-in-1 3D **printer** that **comes** with everything you need!
 
-## 冠词
+## 1.3 冠词
 
 冠词包括不定冠词 **a**，**an**，以及定冠词 **the**。这份指南不详尽列出所有冠词的解释，而只是列出定冠词的一些用法。如果要了解详尽的冠词用法，查看 Grammarly 的 [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/)。
 
@@ -1138,9 +1138,9 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
     * Enter
     * Ctrl+C
     
-## 修饰语
+## 1.4 修饰语
 
-### 错置的修饰语
+### 1.4.1 错置的修饰语
 
 修饰语应该与被修饰语紧密地放置在一起。如果它们被分隔开，有可能会造成误解。
 
@@ -1152,7 +1152,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 >If the Linear Modules stop for no reason while the machine is working, please do as follows to check the silicone pad inside the modules.
 
-### 多重修饰语
+### 1.4.2 多重修饰语
 
 如果某个词或短语前面堆砌了超过两个修饰语，就会看起来不自然。
 
@@ -1176,7 +1176,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * the upcoming laser module that’s more powerful
 * a regularly maintained open-source software
 
-### 名词修饰语
+### 1.4.3 名词修饰语
 
 不要在中心词前面放超过两个名词修饰语。比如，不要说：
 
@@ -1201,11 +1201,11 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * The specifications of the machine
 * The horsepower of Tesla Model 3
 
-## 可读性
+## 1.5 可读性
 
 大部分读者都是带着目的阅读我们的文档的。TA们有可能在找某一个步骤的说明，或者有可能只是在找关于发货日期的说明。不管读者要找什么，精简性和准确性能够减少文档的篇幅以及读者搜寻信息所需要的时间。
 
-### 精简性
+### 1.5.1 精简性
 
 直奔主题。不要为了礼貌而牺牲精简性。将每个句子限制在25字以内。
 
@@ -1248,7 +1248,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * Update and improve
 * Powerful and strong
 
-### 准确性
+### 1.5.2 准确性
 
 精简性很重要，但不应该以牺牲准确性为代价。毕竟如果读者不知道你在说什么，文档就成了废纸。
 
@@ -1303,7 +1303,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 >Follow our social media and we will announce the schedule of the online Makerathon very soon.
 
-### 周密性
+### 1.5.3 周密性
 
 最重要的信息先说。用有逻辑的架构来组织信息，让读者能用最少的操作和思考获取和理解信息。
 
@@ -1344,7 +1344,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 不要预设读者具有背景知识。记得在引入新概念时要介绍背景知识，不管是以连接的形式还是段落的形式。避免说类似 **simply**，**just**，**quickly**，**you are a click away**， 和 **it's easy** 的表述，因为有的操作并不简单，你这么说会让读者有挫败感。
 
 
-## **拼写**
+## 1.6 **拼写**
 
 所有场合都应使用美式拼写，但要避免使用北美的俚语。美式和英式英语在很多方面都不一样，
 
@@ -1363,7 +1363,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 这份表格没有列出所有的英美式拼写的区别，如果你不确定某一个拼写是否正确，查询 [UK VS US SPELLING](http://www.tysto.com/2012/05/uk-vs-us-spelling/)。
 
-### 数字
+### 1.6.1 数字
 
 总体规则是，10 以下的数字应该拼出来，而10及以上的则写成阿拉伯数字。除了以下情况：
 
@@ -1386,7 +1386,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
     * Up till now, 10,000 customers have received their rewards.
     * Ten thousand customers have received their rewards.
     
-### 单位
+### 1.6.2 单位
 
 世界各地所用的计量制度并不相同。尽管大部分使用公制单位，美国使用的是英制。下面的表格提供一个粗略的比较。
 
@@ -1412,7 +1412,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 如果不确定，查询 [Snapmaker 术语表](https://shimo.im/sheets/9YTQWxT6yVkxYHGp)对单位的规定。
 
-## **语气**
+## **1.7 语气**
 
 一般而言，正式的语气传递出专业的形象，而非正式的语气则能拉近与读者的距离。写说明书时用正式的语气，而 UX 类的文档可以用轻快一些的语气。
 
@@ -1435,15 +1435,15 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 用非正式语气时，口吻要平实。偶尔不尊重传统语法没有关系，用介词结句是 ok 的，用 **And** 或 **But** 开始一个句子也是 ok 的。
 
 
-# 格式和内容规划
+# 2. 格式和内容规划
 
 连贯的格式是好文档必不可缺的元素。它会加强品牌形象，以及内容创作团队和其他部门的合作。 有逻辑的内容规划则帮助减少重复沟通，以及引导读者去看你想要展示的内容。 本章包含大小写、加注、信息架构、标点和间距的内容。
 
-## **首字母大写**
+## **2.1 首字母大写**
 
 首字母的大写分为句子式和标题式。句子式只大写第一个单词的首字母，而标题式则大写所有单词的首字母，除了冠词和短介词的首字母以外。
 
-### 日期和时间
+### 2.1.1 日期和时间
 
 用 12 小时制表示时间。大写 **AM**，**PM**， 以及 **UTC** 中的所有字母。 因此，不要说：
 
@@ -1469,7 +1469,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 |**Australia**|Australian Eastern Daylight Time (AEST)|UTC+11|on the first Sunday of October|
 
 
-### 文件名后缀
+### 2.1.2 文件名后缀
 
 在句子中间用大写表示文件名后缀，在句子末尾则用 **.小写后缀** 的形式。比如，不要说：
 
@@ -1483,7 +1483,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * Upload your JPG model file.
 * The extension of the file is .gcode.
 
-### 列表
+### 2.1.3 列表
 
 列表里使用句子式大写，无论介绍句的结尾是逗号还是冒号。比如，不要说：
 
@@ -1507,7 +1507,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 >Prerequisite: a pair of tweezers, 3-5 pieces of paper, and a spool of PLA filament.
 
-### 注解
+### 2.1.4 注解
 
 **Note:** **Tips:** **Caution:** 和 **Warning:** 后面的句子首词用句子式大写。比如，不要说：
 
@@ -1517,7 +1517,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 >Note: If your machine is not responding, check A, B, and C.
 
-### 专有名词
+### 2.1.5 专有名词
 
 专有名词的首字母大写根据类型可以总结为：
 
@@ -1535,7 +1535,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 中间有连字符的专有名词用句子式。
 
-### 表格中的文字
+### 2.1.6 表格中的文字
 
 在表格中，表头（纵向最上和横向最左）文字都用标题式，其余文字的处理同正文。类似这样：
 
@@ -1547,7 +1547,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 
 
-### 题目和标题
+### 2.1.7 题目和标题
 
 题目和各级标题用标题式大写，所以你需要大写名词、动词、代词、形容词和副词的首字母。注意，5 个及以上字母构成的介词和连词也需要大写首字母。但是，除非是题目或标题的第一个或最后一个词，以下词语不要大写：
 
@@ -1577,7 +1577,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * A Change to Look Forward To
 
 
-### 单位
+### 2.1.8 单位
 
 所有计量单位的所有字母都用小写，除了以下情况：
 
@@ -1588,9 +1588,9 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * Megawatt (MW)
 
 
-## **加注**
+## 2.2 **加注**
 
-### 注解
+### 2.2.1 注解
 
 尽可能简洁。不要把注解变成段落。不要叠加多个注解。如果有很多信息要说明，尝试把它们加到正文中。比如，不要这样写：
 
@@ -1612,7 +1612,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 详询[Snapmaker 术语表](https://shimo.im/sheets/9YTQWxT6yVkxYHGp)。
 
-### 强调和提及
+### 2.2.2 强调和提及
 
 强调动作，或提及书名、电影名之类时用粗体。不要大写所有字母，不要用冒号，引号，斜体，下划线，右上角字体或感叹号来做强调。 比如，不要说：
 
@@ -1629,9 +1629,9 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 >Enter **Workspace**. On the top left, find **Connection** and click the **Refresh** button to reload serial ports list.
 
-## **信息架构**
+## **2.3 信息架构**
 
-### 标题
+### 2.3.1 标题
 
 不要在标题前面加序号，除非此标题是某个有序操作的一个步骤。各级标题之间用格式来做区分，而不要用数字。
 
@@ -1668,11 +1668,11 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 另外，和可读性原则里提到的要求一样，不要用俚语、行话或另一种语言来给标题命名。
 
-### 链接
+### 2.3.2 链接
 
 在 UX 类文档写作中，如果要加入链接，把链接加在关键词下面，而不要单独放出来。在非 UX 类的写作中，用介词 **at** 或 **from** 来引出链接，而不要用冒号。如果链接太长，就重新组织语言，把链接放在一行内。
 
-### 列表
+### 2.3.3 列表
 
 尽量避免嵌在句子当中的列表。如果你的写作中有好几个有共同之处的对象，用列表把它们列出来，这有利于快速浏览。举个例子，以下这个句子包含一个内嵌的列表：
 
@@ -1693,7 +1693,7 @@ Snapmaker A350 and Luban let you:
 
 有序列表在迁移时可能会导致格式错乱，而子弹型列表不会。因此，仅在描述步骤时使用有序列表，其他时候使用无序列表。
 
-### 表格
+### 2.3.4 表格
 
 用表格来做对比。不要用它来描述术语、步骤或报告系统更新情况。
 
@@ -1702,13 +1702,13 @@ Snapmaker A350 and Luban let you:
 表头内容用粗体。
 
 
-## **标点**
+## **2.4 标点**
 
-### 和符号（&）
+### 2.4.1 和符号（&）
 
 除非必要，避免使用此符号来替代 **and**。
 
-### 角括号 (>)
+### 2.4.2 角括号 (>)
 
 当有篇幅限制而不能用分行的段落来解释某个操作时，可以用角括号来连接一些比较小的步骤。不要用 **->**, **-->**, **--**, 或 **—→**。所以，不要说：
 
@@ -1720,11 +1720,11 @@ Snapmaker A350 and Luban let you:
 
 * You can enter **Home** > **Enclosure** > **Settings** to disable Door Detection.
 
-### 星号（\*）
+### 2.4.3 星号（\*）
 
 加脚注用星号. 见 Notation 一节.
 
-### 冒号（:）
+### 2.4.4 冒号（:）
 
 以下情况使用冒号：
 
@@ -1735,7 +1735,7 @@ Snapmaker A350 and Luban let you:
 
 不要在 **including**，**excluding**，**except for**，**other than**，**apart from**，**such as**，和 **for example** 的后面加冒号。
 
-### 逗号（,）
+### 2.4.5 逗号（,）
 
 以下情况使用逗号：
 
@@ -1768,11 +1768,11 @@ Snapmaker A350 and Luban let you:
 * We feel disheartened by this terrible news, too.
 * 2,100 mm
 
-### 省略号（...）
+### 2.4.6 省略号（...）
 
 英文省略号是三个句号，用来表示省略或犹豫。不要用。
 
-### En dash（–）
+### 2.4.7 En dash（–）
 此符号比连字符稍长。用 en dash 来表示区间，而不要用波浪线 **~** 。比如，不要说：
 
 >Operating Temperature	-20℃ ~ 50℃ (-4°F~122°F)
@@ -1786,7 +1786,7 @@ Snapmaker A350 and Luban let you:
 * 如果是 Mac 键盘，同时按下 **Alt** 键和 **减号（-）** 键。
 * 如果是 Windows 键盘, 同时按下 **开始** 键和 **句号（.）** 键，点击上方的 **omega** 符号，下拉可找到 en dash。
 
-### Em dash （—）
+### 2.4.8 Em dash （—）
 此符号是 en dash 的两倍长. 用 em dash 来表示对话，和在文本中加说明。
 
 打 em dash 的方式如下：
@@ -1794,10 +1794,10 @@ Snapmaker A350 and Luban let you:
 * 如果是 Mac 键盘，同时按下 **Alt** 键，**Shift** 键，和 **减号（-）** 键。
 * 如果是 Windows 键盘, 同时按下 **开始** 键和 **句号（.）** 键，点击上方的 **omega** 符号，下拉可找到 em dash。
 
-### 感叹号（!）
+### 2.4.9 感叹号（!）
 少用。
 
-### 连字符（-）
+### 2.4.10 连字符（-）
 
 |**类型**|**是否使用**|**例子**|
 |:----|:----|:----|
@@ -1813,7 +1813,7 @@ Snapmaker A350 and Luban let you:
 |有前缀，前缀为 Anti- 或 Counter-|是|anti-clockwise, counter-clockwise, counter-intuitive|
 |X Axis, Y Axis, Z Axis 以及它们的复数形式|否，除非作定语|Z Axis, Z-axis Extension Module|
 
-### 乘号 (×)
+### 2.4.11 乘号 (×)
 
 描述产品尺寸时，可以用乘号连接几个数字。但注意，除非有空间限制，否则不要省略每个数字后面的单位。所以，不要说：
 
@@ -1823,11 +1823,11 @@ Snapmaker A350 and Luban let you:
 
 > Dimensions (W × D × H): 405 mm × 424 mm × 490 mm
 
-### 括号 ()
+### 2.4.12 括号 ()
 
 少用。如果删除括号内的内容不影响句子意思的完整性，不要用。
 
-### 句号（.）
+### 2.4.13 句号（.）
 
 没有停顿的长篇大段是很难读的。以下是一个极端的案例：
 
@@ -1849,11 +1849,11 @@ Snapmaker A350 and Luban let you:
 
 不要在题目和标题结尾打句号，即使它们读起来是完整的句子。
 
-### 双引号（""）
+### 2.4.14 双引号（""）
 
 不要用双引号来提及UI里面的元素，用粗体。如果需要引用一个整段，用 markdown 语法，而不要用双引号或单引号。
 
-### 分号（;）
+### 2.4.15 分号（;）
 
 两个完整句子之间如果意思相近，用分号连接。否则用句号。此外，需注意 **then**，**therefore**，**otherwise**，以及 **namely** 是副词。所以应该用分号而不是逗号把它们和前一个句子隔开。或者，在它们前面加上连词。比如，不要说：
 
@@ -1863,7 +1863,7 @@ Snapmaker A350 and Luban let you:
 
 >The firmware is updated on 8th September; therefore if you use the previous version, you may experience delays.
 
-### 斜杠（/）
+### 2.4.16 斜杠（/）
 
 不要用斜杠来代替 **or**。如果非用不可，也不要多个并排用，因为大部分情况下可以用逗号替代多个斜杠。比如，不要说：
 
@@ -1883,7 +1883,7 @@ Snapmaker A350 and Luban let you:
 
 避免使用反方向的斜杠。
 
-## **间距**
+## **2.5 间距**
 
 间距不对有可能会造成误解，并且给人不专业的印象。
 
