@@ -1,0 +1,143 @@
+## **1.5 Readability**
+
+Most readers have a purpose in mind when browsing our documentation. They could be looking for guidance on certain steps, or they could simply be looking for shipping dates. Either way, simplicity and clarity reduce the volume of documentation and time your audience spends on locating needed information.
+
+
+### 1.5.1 Be Brief
+
+Get to the point fast. Don't aim for politeness at the expense of efficiency. Limit each sentence to less than 25 words.
+
+Write one sentence to express one idea. Avoid using clauses where possible. And avoid multiple clauses at all costs.
+
+Prefer present tense over past tenses, as past tenses are more ambiguous and pose challenge for proofreading. For example, don't say:
+
+* Make sure you have put on CNC Safety Goggles before using the CNC function.
+* If the machine failed to respond, check if the cables have been securely connected.
+
+Instead, say:
+
+* Put on CNC Safety Goggles before using the CNC function.
+* If the machine fails to respond, check if the cables are securely connected.
+
+Don't say **please**, **you can**, or **you should** at the beginning of every step. It is easy to unconsciously overuse **please**, regardless of tone. Refrain from using it in regular situations, because they lose meaning shortly and the content will become cluttered. Use it only when errors occur and fixing them can cause inconvenience for the users.
+
+More words are not always more accurate. Always use fewer words when they are precise enough. For example, don't say:
+
+* You can conduct a check on the machine.
+* Please turn your machine off and on.
+* Make sure the Heated Bed is clean and there isn't any dust or dirt on it before you place the Print Sheet.
+* If you find the edges of the captured image are not aligned, you shall click **Calibration** to manually calibrate the camera.
+* Snapmaker modular 3D printers are ideal choice for beginners who are just getting started, hobbyists who prefer more customized options, as well as engineers and designers who want to make large objects or accurate parts with outstanding print / engrave / cut / carve quality.
+
+Instead, say:
+
+* Check the machine.
+* Restart your machine.
+* Make sure the Heated Bed is contamination-free before you place the Print Sheet.
+* If the edges of the captured image are not aligned, click **Calibration** to manually calibrate the camera.
+* Snapmaker modular 3D printer is the ideal choice for beginners, hobbyists who are into customization, as well as engineers and designers who want to make large objects or accurate parts with outstanding quality.
+
+Don't use expressions that are already ubiquitous in Chinese. It's likely they will appear redundant in English as well when translated. These expressions include:
+
+* Some
+* All kinds of
+* Effectively
+* Improve and enhance
+* Update and improve
+* Powerful and strong
+
+
+### 1.5.2 Be Precise
+Being simple is important, but it should not come at the expense of clarity. After all, if the readers don't understand what you mean, a document becomes useless. 
+
+If you have to use homonyms, define them first, especially in Quick Start Guides and User Manuals. The most commonly used homonyms that can be confusing include:
+
+* Shall
+* Must
+* Need
+* Should
+* May
+* Can
+
+Avoid using **shall**, **need**, and **may**. Use **must**, **should**, and **can** instead. For clarification of these three words, copy and paste the following text where applicable:
+
+>Throughout this document, **must** denotes a requirement. Failure to follow is likely to cause hazards. **Should** denotes strong recommendation. Failure to follow is likely to result in unsatisfactory printing results. **Can** denotes general recommendation, which points to resources sites.
+
+Note that **should** and **can** carries double meanings. **Should** denotes recommendation, as well as probability. Similarly, **can** is used to grant permission, as well as denote possibility. For clarity, use **be expected to** instead of **should** to denote probability, and use **be likely to** instead of **can** to denote possibility. So, don't say:
+
+* The machine should return to its original settings.
+* Do not reach inside the machine while it is still in operation. An injury can be caused.
+
+Instead, say:
+
+* The machine is expected to return to its original settings.
+* Do not reach inside the machine while it is still in operation, as it is likely to cause injury.
+
+An exception is when **shall** is used in legal notices. In that case, **shall** is used in place of **must**.
+
+Avoid using words that are too vague or too weak to mean anything. Use specific and strong verbs instead. For example, don't say:
+
+* There is a sidebar, choose **workspace**. There is a **Connection** icon on top left. Click the **refresh button**, and the software will reload the serial ports list.
+* It is likely to cause a phenomenon called **dust accumulation**.
+* You should use the dust plugs to avoid the problem of dust accumulation.
+* If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
+* Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the Heated Bed.
+
+Instead, say:
+
+* From the left sidebar, enter **Workspace**. On the top left, find **Connection** and click the **Refresh** button to reload the serial ports list.
+* It is likely to cause dust accumulation.
+* Use the dust plugs to avoid dust accumulation.
+* If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
+* Brim, raft, and skirt are detachable structures for enhancing object adherence to the Heated Bed.
+
+Don't create names for steps, processes, or procedures without cheking the [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) first.
+
+In terms of grammar, avoid using **be + Verb (ing)** to describe a future event. Use **be + Verb (ing)** to indicate progressive tense, and use the less confusing **will + Verb** to express future. For example, don't say:
+
+>Follow our social media and we are announcing the schedule of the online Makerathon very soon.
+
+Instead, say:
+
+>Follow our social media and we will announce the schedule of the online Makerathon very soon.
+
+
+### 1.5.3 Be Thoughtful
+
+Present the most important information first. Organize it in a way that is logical and requires minimum effort and brain gymnastics on your audience's part.
+
+Pay attention to the conjunctions **after** and **only if**. Put what's to be done first at the beginning of the sentence, not the opposite. For example, don't say:
+
+>Check whether the laser module works properly, after putting on Safety Goggles.
+
+Instead, say:
+
+>After putting on Safety Goggles, check whether the Laser Module works properly.
+
+Or:
+
+>Put on Safety Goggles before you check whether the Laser Module works properly.
+
+However, when using **if**, **in case**, and **in order to** (or **to** for that matter), let the reader know why, before giving instructions. For example, don't say:
+
+* Unplug the cable and reconnect, if your port does not show up on the serial port list.
+* Click **reset** to restore original configurations.
+
+Instead, say:
+
+* If your port does not show up on the serial port list, unplug the cable and reconnect.
+* To restore original configurations, click **reset**.
+
+Similarly, avoid using sentence inversion. It costs extra time for comprehension. Remember that not all audiences are native speakers. For example, don't say:
+
+* Come Christmas, and your Snapmaker A350 can do wonders for decoration.
+* Never do we stop trying. We want you to have the best experience with Snapmaker.
+* Not only can you bring your ideas to reality, you can spend time with your children.
+
+Instead, say:
+
+* When Christmas comes, your Snapmaker A350 will do wonders for decoration.
+* We never stop trying. We want you to have the best experience with Snapmaker.
+* You can bring your ideas to reality while getting to spend time with your children.
+
+Don't assume your audience knows. Always provide background information when you introduce a concept, whether it is a link or a paragraph. Avoid expressions such as **simply**, **just**, **quickly**, **you are a click away**, and **it's easy**, as they can make users feel stupid.
