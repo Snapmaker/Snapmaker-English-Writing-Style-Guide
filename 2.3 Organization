@@ -1,0 +1,73 @@
+## **2.3 Organization**
+
+### 2.3.1 Headings
+
+Don't put a number before the heading unless it's part of a sequential operation. Use styling rather than numbers to differentiate different levels of heading.
+
+Use level 1–3 headings. Avoid creating level 4 and 5 headings. Too many layers of heading undermine readability.
+
+Be as clear and simple as possible with headings. Avoid using vague language such as **miscellaneous**, **unspecified**, and **to be confirmed**. Always use more descriptive words if you can. If we want to make it convenient for our audience to find information, we should reduce the times that they have to click and redirect.
+
+Similarly, pay attention to the logic behind headings. Avoid overlap of contents under different headings of the same level. If overlap can't be avoided, provide links where the same thing is included. For example, the following headings are inappropriate for a User Manual of laser engraving:
+
+* Before you start
+* Prepare your Tools
+* Initial Setup
+* Steps
+* Troubleshooting
+* FAQs
+
+First of all, **Before you Start** is too general. Any preparation could be swept in under it. In this sense, **Prepare your Tools** and **Initial Setup** should fall under **Before you Start**. Similarly, **FAQs** often include **Troubleshooting**; therefore it's not appropriate to list them as the same level of heading.
+
+It's okay to name your heading in sentence form. That is, you can use verbs in headings. But do match the grammatical structure of the headings belonging to a same level. For example, don't say:
+
+* Connecting to your PC
+* Calibrate
+* Loading Filament
+* Editing Model File
+* Start Printing
+
+Instead, say:
+
+* Connecting to your PC
+* Calibrating the Heated Bed
+* Loading Filament
+* Editing Model File
+* Start Printing
+
+And just like stipulations in Readability, don't use internet slang, jargon, and words that come from a different language in headings.
+
+
+### 2.3.2 Links
+
+In UX writing, always introduce hyperlinks under the keywords. In non-UX writing, introduce links with a preposition, instead of a colon. Where the link is lengthy, restructure your text to keep the link in one single line.
+
+### 2.3.3 Lists
+
+Avoid embedded lists. If your description can be sorted by a common denominator, use a list to increase scannability. For example, the following sentence contains an embedded list, and can be improved:
+
+>Snapmaker A350 and Luban let you customize your own design by adding support, adhesion and surface, generate a G-code and export it to your PC, send files to the machine via Wi-Fi, and stop the machine when an error occurs.
+
+Introduce a bulleted list, and the sentence is easier to read:
+
+Snapmaker A350 and Luban lets you:
+
+* Customize your design by adding:
+    * support
+    * adhesion
+    * surface
+* Generate G-code.
+* Export G-code to your PC.
+* Send files to the machine via Wi-Fi.
+* Stop the machine when an error occurs.
+
+Ordered lists tend to collapse when transferred to other authoring tools, while bulleted lists can be transferred without causing clutters. As a result, use ordered lists only if you are describing sequential operations. Otherwise, use unordered lists.
+
+
+### 2.3.4 Tables
+
+Use tables as a means of comparing data. Don't use it to describe terms, steps, or report system updates.
+
+Do not caption the table; as captions pose challenges to content reuse. Put the table immediately after its introductory text.
+
+Use bold text for headers.
