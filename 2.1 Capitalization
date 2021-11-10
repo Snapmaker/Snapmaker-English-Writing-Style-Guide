@@ -1,0 +1,162 @@
+# 2. Formatting and Content Planning
+
+Consistent formatting is an essential part of documentation success. It strengthens the brand image and improves collaboration between content creation teams and other departments. Logical organization of contents not only reduces repetitive communications, but guides the audience through what you want them to see. This chapter covers Capitalization, Notation, Organization, Punctuation, and Spacing.
+
+
+## **2.1 Capitalization**
+
+There are two types of capitalization: sentence style and title style. In sentence-style capitalization, only the first letter of the first word is capitalized, whereas in title-style capitalization, all first letters are capitalized except for those of articles and short prepositions.
+
+
+### 2.1.1 Dates and Times
+
+Use the 12-hour clock for expression of times. Capitalize all letters in **AM**, **PM**, and **UTC**. So don't say:
+
+>Opening hours: Monday to Friday 9:30-12:30, 14:30-18:30 (utc+8)
+
+Instead, say:
+
+>Opening hours: Monday to Friday 9:30-12:30 AM, 2:30-6:30 PM (UTC+8)
+
+Refer to 12:00 as **12 noon** or **12 midnight** to avoid causing confusion. The designations **noon** and **midnight** should be lower case.
+
+An exception is UX writing that addresses an event taking place solely in one country, in which case elements like **UTC-8** or **UTC-5** can look odd. Use the popular time indication in the country or region instead, and in the upper case. Even if some countries may have more than one standard time, only use one. Common names of time zone are listed below.
+
+|**Country or Region**|**Name**|**Offset**|**Commence**|
+|:----|:----|:----|:----|
+|**Canada, the US, and Mexico**|Pacific Standard Time (PST)|UTC-8|on the first Sunday of November|
+|**Canada, the US, and Mexico**|Pacific Daylight Time (PDT)|UTC-7|on the second Sunday of March|
+|**The UK and Ireland**|Greenwich Mean Time (GMT)|UTC+0|on the last Sunday of October|
+|**The UK and Ireland**|Brisish Summer Time (BST)|UTC+1|on the last Sunday of March|
+|**Members of European Union**|Central Europe Time (CET)|UTC+1|on the last Sunday of October|
+|**Members of European Union**|Central Europe Standard Time (CEST)|UTC+2|on the last Sunday of March|
+|**Australia**|Australian Eastern Standard Time (AEST)|UTC+10|on the first Sunday of April|
+|**Australia**|Australian Eastern Daylight Time (AEST)|UTC+11|on the first Sunday of October|
+
+
+### 2.1.2 File Name Extensions
+
+Refer to the file type in upper case when it's in the middle of the sentence. If the name of the file type is at the end of a sentence, write it out as **.file extension**. For example, don't say:
+
+* Download the pdf of the User Manual.
+* Upload your jpg model file.
+* The extension of the file is gcode.
+
+Instead, say:
+
+* Download the PDF of the User Manual.
+* Upload your JPG model file.
+* The extension of the file is .gcode.
+
+
+### 2.1.3 Lists
+
+Use sentence-style capitalization in a list, whether the introducing sentence ends with a colon or a period. For example, don't say:
+
+>Prerequisite:
+>* a pair of tweezers
+>* a glue stick
+>* two spools of PLA filament
+
+Instead, say:
+
+>Prerequisite:
+>* A pair of tweezers
+>* A glue stick
+>* Two spools of PLA filament
+
+If the list is embedded within a sentence, use lower case in the list. For example, don't say:
+
+>Prerequisite: A pair of tweezers, 3-5 pieces of paper, and a spool of PLA filament.
+
+Instead, say:
+
+>Prerequisite: a pair of tweezers, 3-5 pieces of paper, and a spool of PLA filament.
+
+
+### 2.1.4 Notes
+
+Use sentence-style capitalization in the sentence after **Note:**, **Tips:**, **Caution:**, and **Warning:**. For example, don't say:
+
+>Note: if your machine is not responding, check A, B, and C.
+
+Instead, say:
+
+>Note: If your machine is not responding, check A, B, and C.
+
+
+### 2.1.5 Proper Nouns
+
+Proper nouns can be divided into the following categories.
+
+|**Type**|**Usage**|**Example**|
+|:----|:----|:----|
+|Names of the Snapmaker Brand|title-style|Snapmaker|
+|Names of Snapmaker's Products|title-style|Snapmaker Artisan|
+|Names of Snapmaker's Software, Firmware, and App|title-style|Snapmaker Luban|
+|Names of Steps, Features, and Functions|title-style|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
+|Names of Snapmaker's Services and Policies|sentence-style|Snapmaker's customer service, Snapmaker's return policy|
+|Names of Parts, Tools, and Materials|title-style for those with Snapmaker's logo;<br>lowercase for the rest|Laser Module, Heated Bed, Calibration Card;<br>screwdriver, clamp set, acrylic plate|
+|Names of Keys|as displayed on keyboards, regardless of operating system|Ctrl, Enter|
+|Names of Errors|lowercase at all times; don't ever capitalize|black screen, power loss|
+|X Axis, Y Axis, Z Axis, and their Plural Forms|capitalize the **A** in **Axis** or **Axes** when used as non-adjective, otherwise don't capitalize|Z Axis, Z-axis Extension Module|
+
+Note that hyphenated proper nouns should be capitalized in sentence style. Refer to **Hyphens (-)** for more information.
+
+
+### 2.1.6 Texts in a Table
+
+In a table, column headers are at the topmost. They describe data in each column. Row headers are at the leftmost. They describe data in each row. You should:
+
+* Use title-style capitalization for texts in column headers.
+* Use title-style capitalization for texts in row headers.
+* Treat data like the way you would in normal text.
+
+For an illustration, see below:
+
+|    |**Standard Deviation**|**Standard Error**|**Decision**|
+|:----|:----|:----|:----|
+|**Treatment A**|1.76643 (low)|0.233|PASS|
+|**Treatment B**|4.76423 (too high)|1.232|FAIL|
+|**Treatment C**|3.78789|0.467|TO BE CONFIRMED|
+
+
+### 2.1.7 Titles and Headings
+
+Use title-style capitalization for titles and all levels of headings. So capitalize all the words in a title, including the nouns, verbs, pronouns, adjectives, and adverbs. Note that prepositions and conjunctions of 5 letters or more should also be capitalized. But, the following words should not be capitalized except when they are the first or last word in a title:
+
+* Prepositions and conjunctions of 4 letters or fewer 
+* Articles, definite or indefinite
+
+So don't say:
+
+* Set up your Workshop  
+* The Heoroes That Walk among Us
+* Easy To Assemble
+* All For Your Best Experience
+* Connect With Us
+* Sleek Yet Powerful
+* Modular And Expandable
+* a Change to Look Forward to
+
+Instead, say:
+
+* Set up Your Workshop  
+* The Heoroes That Walk Among Us
+* Easy to Assemble
+* All for Your Best Experience
+* Connect with Us
+* Sleek yet Powerful
+* Modular and Expandable
+* A Change to Look Forward To
+
+
+### 2.1.8 Units of Measure
+
+Use lowercase for terms of measurement, except for:
+
+* Decibels (dB)
+* Celsius degree (**°C**)
+* Fahrenheit degree （**°F**)
+* Milliwatt (mW)
+* Megawatt (MW)
