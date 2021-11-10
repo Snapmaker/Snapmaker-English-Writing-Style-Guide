@@ -1,0 +1,59 @@
+## **1.3 Articles**
+
+Articles include indefinite articles **a**, **an**, and definite article **the**. This guide does not provide an exhaustive explanation of all three articles. Rather, it delineates some of the rules regarding the use of the definite article. For a more detailed usage guide, check out [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/) by Grammarly.
+
+The rule of thumb is to put a **the** before one or more particular members of a group that you want to address. That is, use **the** if the noun or noun phrase at issue is too generic and needs to be specified. Otherwise, use **a** or **an**, or don't use any article.
+
+For example, numerous manufacturers use the term **auto levelling**, Snapmaker included. When you use **auto levelling** as a feature, or a distinctive selling point, put a **the** before it, as in:
+
+>The auto levelling feature of Snapmaker helps you save time.
+
+Whereas when it is used as more of a generic term, a standard process which is part of a whole procedure, don't precede it with a **the**, as in:
+
+>Always do auto levelling before you print anything.
+
+This being said, many people tend to overuse the definite article. In the following text, for instance, **replacement** is preceded by a **the**, with the unintended consequence of making it sound like Snapmaker offers a non-standard type of replacement.
+
+>If there is no silicone pad, we will send you a new linear module for the replacement.
+
+This sentence will look a lot more natural by deleting the definite article before **replacement**:
+
+>If there is no silicone pad, we will send you a new linear module for replacement.
+
+These nuances seem tricky to grasp, so in order to help you navigate the world of articles, this section outlines a few common situations where **the** should or shouldn't be used.
+
+Add **the** before:
+
+* Names of products, services, software and firmware, parts, tools, printing materials, and other accessories that are unique to Snapmaker. As such, say:
+    * the Snapmaker community instead of Snapmaker community
+    * the Snapmaker Artisan instead of Snapmaker Artisan
+    * the Snapmaker Luban instead of Snapmaker Luban
+    * the Snapmaker A350 User Manual instead of Snapmaker A350 User Manual
+    * the power module instead of power module
+    * the USB cable instead of USB cable
+    * the acrylic plate inside the material box instead of acrylic plate inside material box
+* The elements in the UI which are not given a specific name by Snapmaker but have widely accepted names. As such, say:
+    * the side bar instead of side bar
+    * the drop-down menu instead of drop-down menu
+    * the dialog box instead of dialog box
+    * the window instead of window
+    * the page instead of page
+
+Don't add **the** before:
+
+* A stand-alone **Snapmaker**, as in:
+    * Snapmaker will not ask for your credit card PIN.
+    * Snapmaker is an equal-opportunity employer.
+* The name of errors, such as:
+    * black screen
+    * negative temperature
+* A standard or universal service or operation, such as:
+    * return
+    * refund
+    * replacement
+    * update
+* The name of buttons on the printer, and keys on the keyboard, such as:
+    * Power
+    * Yes
+    * Enter
+    * Ctrl+C
