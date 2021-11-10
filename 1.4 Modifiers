@@ -1,0 +1,64 @@
+## **1.4 Modifiers**
+
+### 1.4.1 Misplaced Modifiers
+
+Modifiers should be put adjacent to the words they modify. When you separate the modifier from the word it describes, it can create confusion.
+
+In the following text, **for no reason** is intended to describe **stop**, but they are separated by a string of words:
+
+>If the linear modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.
+
+The audience can't help but wonder how can the machine be working for no reason. This kind of confusion can be avoided by moving **for no reason** next to **stop**:
+
+>If the linear modules stop for no reason while the machine is working, please do as follows to check the silicone pad inside the modules.
+
+
+### 1.4.2 Multiple Modifiers
+
+When a noun or noun phrase is preceded by more than two modifiers, it begins to look hard on the eyes.
+
+Look at the following structures:
+
+* An English language school teacher
+* A recently rented small Council house
+* The moving wheel gear casing
+
+Grammar-wise, these expressions are okay, but they look awkward nonetheless. In situations like this, try and reduce the number of modifiers first. Ask yourself: is this modifier really necessary? Does it serve your purpose? If not, omit it.
+
+Where each modifier provides indispensable information and can't be edited out, separate them with a preposition, a possessive form, a hyphen, or a clause. Don't jam them all together before the nouns or pronouns they describe. So don't say:
+
+* The Linear Module motor circuit board
+* The upcoming more powerful Laser Module
+* A regularly maintained open source software
+
+Instead, say:
+
+* The Linear Module's motor circuit board
+* The upcoming Laser Module that’s more powerful
+* A regularly maintained open-source software
+
+
+### 1.4.3 Noun Modifiers
+
+Don't put more than two nouns before the central noun or noun phrase. For example, don't say:
+
+* 3D printing sheet size
+* Printer work table height
+
+But it is okay to say:
+
+* Machine temperature
+* Heated Bed temperature
+* Z-axis Holder
+
+Where there are more than two nouns modifying the central noun or noun phrase, use possessive. For example, say:
+
+* The size of the 3D printing sheet
+* The height of printer worktable
+
+A general rule is to use **'s** after a living organism and a brand, while use **of** for possessive of a lifeless object. To be specific, use **'s** after Snapmaker as a brand name, and use **of** to indicate possessive for Snapmaker's products, tools, and services. For example, say:
+
+* Michel's comment
+* Snapmaker's return policy
+* The specifications of the machine
+* The horsepower of Tesla Model 3
