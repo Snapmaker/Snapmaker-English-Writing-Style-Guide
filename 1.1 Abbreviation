@@ -1,0 +1,57 @@
+# 1. Language and Grammar
+
+## **1.1 Abbreviation**
+
+It is helpful to distinguish between **initialisms**, **acronyms**, **shortened words**, and **contractions** first.
+
+|**Type**|**Definition**|**Examples**|
+|:----|:----|:----|
+|**Initialism**|The first letters of words.|SME (subject matter expert)|
+|**Acronym**|The first letters of words that are pronounced as a word.|SIM (subscriber identity module)|
+|**Shortened words**|Part of a word or phrase, including Latin abbreviation.|app (application), Inc. (incorporated), i.e., etc., e.g.|
+|**Contractions**|Part of a phrase, with a few letters replaced by an apostrophe.|isn't, you're, it's been so long|
+
+To achieve a friendly tone, we use all types of abbreviation in our user experience (UX) writing. So it's okay to say:
+
+* Supported OS: macOS, Linux, Windows 10 and above
+* the US, the UK, the UN (with no **.** in between)
+* app, demo, sync, docs, pics
+* We're streaming!
+* You'll find it exciting.
+* Don't hesitate. Order it now!
+
+While it is okay to use all types of abbreviations in UX writing, avoid using contractions in Quick Start Guides and User Manuals. Use acronyms and shortened words with caution. And always define the term first; then include the abbreviated term in the following parentheses.
+
+For example, in this text, **Target Temperature** is used several times, which makes the whole paragraph look cluttered:
+
+>Change the **Target Temperature** based on the filament you use (the default **Target Temperature** is 200°C). While you wait for the temperature to rise to the **Target Temperature**, hang the filament onto the filament holder.
+
+You can clean up the mess by using abbreviation:
+
+>Change the **Target Temperature** (TT) based on the filament you use (the default **TT** is 200°C). While you wait for the temperature to rise to the **TT**, hang the filament onto the filament holder.
+
+Note that you should use the abbreviated phrase for subsequent mentions within the chapter, and don't switch between abbreviations and full forms. But, to avoid confusion in content reuse, provide a full form in parenthesis after the abbreviation once every chapter.
+
+Don't use incorrect English. For example, don't say:
+
+* There ain't anything you can't do.
+* We gon' bring you the best experience ever!
+* What're the repeatability, max. travel length, and backlash of the Linear Modules of three models?
+* trynna, wanna, gonna
+* pp or ppl
+* w/
+* ur, u'r, y'all
+
+Instead, say:
+
+* There isn't anything you can't do.
+* We're going to bring you the best experience ever!
+* What are the repeatability, max. travel length, and backlash of the Linear Modules of three models?
+* try to, want to, going to
+* people
+* with
+* your, you're, you all
+
+If you are not sure about what is the accepted abbreviation of a certain word, check [American Heritage Dictionary](https://ahdictionary.com/). And as a rule of thumb, place yourself into your readers' shoes. If using an abbreviation is likely to cause confusion, don't use it.
+
+Regarding units of measure and their abbreviation, see [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp).
