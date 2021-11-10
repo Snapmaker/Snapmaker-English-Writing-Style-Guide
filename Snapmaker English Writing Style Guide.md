@@ -589,7 +589,7 @@ Use title-style capitalization for titles and all levels of headings. There are 
 * Prepositions and conjunctions of 4 letters or fewer 
 * Articles, definite or indefinite
 
-These words should be written in lower case except when they are the first or last word in a tile. So don't say:
+These words should be written in lower case except when they are the first or last word in a title. So don't say:
 
 * Easy To Assemble
 * All For Your Best Experience
