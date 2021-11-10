@@ -584,13 +584,15 @@ For an illustration, see below:
 
 ### Titles and Headings
 
-Use title-style capitalization for titles and all levels of headings. There are a few exceptions to note:
+Use title-style capitalization for titles and all levels of headings. So capitalize all the words in a title, including the nouns, verbs, pronouns, adjectives, and adverbs. Note that prepositions and conjunctions of 5 letters or more should also be capitalized. But, the following words should not be capitalized except when they are the first or last word in a title:
 
 * Prepositions and conjunctions of 4 letters or fewer 
 * Articles, definite or indefinite
 
-These words should be written in lower case except when they are the first or last word in a title. So don't say:
+So don't say:
 
+* Set up your Workshop  
+* The Heoroes That Walk among Us
 * Easy To Assemble
 * All For Your Best Experience
 * Connect With Us
@@ -600,6 +602,8 @@ These words should be written in lower case except when they are the first or la
 
 Instead, say:
 
+* Set up Your Workshop  
+* The Heoroes That Walk Among Us
 * Easy to Assemble
 * All for Your Best Experience
 * Connect with Us
@@ -1545,13 +1549,15 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 ### 题目和标题
 
-题目和各级标题用标题式。但有几个例外需要注意：
+题目和各级标题用标题式大写，所以你需要大写名词、动词、代词、形容词和副词的首字母。注意，5 个及以上字母构成的介词和连词也需要大写首字母。但是，除非是题目或标题的第一个或最后一个词，以下词语不要大写：
 
-* 4 个及以下字母的介词和连词；
-* 冠词，无论定冠词还是不定冠词
+* 由 4 个及以下字母构成的介词或连词；
+* 冠词，无论是定冠词还是不定冠词。
 
-这类词出现在标题中也不用大写首字母，除非它们是标题中的第一个或最后一个词。所以，不要说：
+所以，不要说：
 
+* Set up your Workshop  
+* The Heoroes That Walk among Us
 * Easy To Assemble
 * All For Your Best Experience
 * Connect With Us
@@ -1561,6 +1567,8 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 而应该说：
 
+* Set up Your Workshop  
+* The Heoroes That Walk Among Us
 * Easy to Assemble
 * All for Your Best Experience
 * Connect with Us
