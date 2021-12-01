@@ -543,7 +543,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 |**类型**|**用法**|**例**|
 |:----|:----|:----|
 |Snapmaker 品牌名|标题式|Snapmaker|
-|Snapmaker 产品名|标题式|Snapmaker Artisan|
+|Snapmaker 产品名|标题式|Snapmaker 3-in-1 3D Printer (AT Models), Rotary Module, Emgergency Stop Button, Air Purifier, CAN Hub, 10W High Power Laser Module|
 |Snapmaker 的软件、硬件、应用名|标题式|Snapmaker Luban|
 |步骤、特色、功能名|标题式|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
 |Snapmaker 的服务和政策|句子式|Snapmaker's customer service, Snapmaker's return policy|
