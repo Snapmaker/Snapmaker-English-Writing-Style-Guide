@@ -553,7 +553,7 @@ Proper nouns can be divided into the following categories.
 |**Type**|**Usage**|**Example**|
 |:----|:----|:----|
 |Names of the Snapmaker Brand|title-style|Snapmaker|
-|Names of Snapmaker's Products|title-style|Snapmaker Artisan|
+|Names of Snapmaker's Products|title-style|Snapmaker 3-in-1 3D Printer (AT Models), Rotary Module, Emgergency Stop Button, Air Purifier, CAN Hub, 10W High Power Laser Module|
 |Names of Snapmaker's Software, Firmware, and App|title-style|Snapmaker Luban|
 |Names of Steps, Features, and Functions|title-style|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
 |Names of Snapmaker's Services and Policies|sentence-style|Snapmaker's customer service, Snapmaker's return policy|
