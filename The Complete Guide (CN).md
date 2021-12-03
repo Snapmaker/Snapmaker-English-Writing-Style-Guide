@@ -543,11 +543,11 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 |**类型**|**用法**|**例**|
 |:----|:----|:----|
 |Snapmaker 品牌名|标题式|Snapmaker|
-|Snapmaker 产品名|标题式|Snapmaker 3-in-1 3D Printer (AT Models), Rotary Module, Emgergency Stop Button, Air Purifier, CAN Hub, 10W High Power Laser Module|
+|Snapmaker 产品名（整机、模组、扩展组件）|标题式|Snapmaker Original 3-in-1 3D Printer, Z-axis Extension Module, Snapmaker 3-in-1 3D Printer (AT Models), 3D Printing Module, 1.6W Laser Module, CNC Carving Module, Rotary Module, Emgergency Stop Button, Air Purifier, CAN Hub, 10W High Power Laser Module, Linear Module, Power Module, Touchscreen, Controller|
 |Snapmaker 的软件、硬件、应用名|标题式|Snapmaker Luban|
 |步骤、特色、功能名|标题式|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
 |Snapmaker 的服务和政策|句子式|Snapmaker's customer service, Snapmaker's return policy|
-|零件、工具、材料名|有 Snapmaker logo 的用标题式，其余全小写|Laser Module, Heated Bed, Calibration Card;<br>screwdriver, clamp set, acrylic plate|
+|零件、工具、材料名|不大写|toolhead, extruder, converter, heated bed, laser engraving and cutting platform, CNC carving platform, support platform, screwdriver, clamp set, acrylic plate|
 |键盘名|与键盘上一致|Ctrl, En|
 |错误名|全小写，任何时候都不大写|black screen|
 |X Axis, Y Axis, Z Axis 以及它们的复数形式|不作定语时，大写 **Axis** 或 **Axes** 的首字母 A，作定语时加连字号且不大写 a|Z Axis, Z-axis Extension Module|
