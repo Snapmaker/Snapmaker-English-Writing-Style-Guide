@@ -553,11 +553,11 @@ Proper nouns can be divided into the following categories.
 |**Type**|**Usage**|**Example**|
 |:----|:----|:----|
 |Names of the Snapmaker Brand|title-style|Snapmaker|
-|Names of Snapmaker's Products|title-style|Snapmaker 3-in-1 3D Printer (AT Models), Rotary Module, Emgergency Stop Button, Air Purifier, CAN Hub, 10W High Power Laser Module|
+|Names of Snapmaker's Products|title-style|Snapmaker Original 3-in-1 3D Printer, Z-axis Extension Module, Snapmaker 3-in-1 3D Printer (AT Models), 3D Printing Module, 1.6W Laser Module, CNC Carving Module, Rotary Module, Emgergency Stop Button, Air Purifier, CAN Hub, 10W High Power Laser Module, Linear Module, Power Module, Touchscreen, Controller|
 |Names of Snapmaker's Software, Firmware, and App|title-style|Snapmaker Luban|
 |Names of Steps, Features, and Functions|title-style|Assembly, Initial Setup,<br>Auto Leveling, Auto Focus<br>3D Printing, CNC Carving|
 |Names of Snapmaker's Services and Policies|sentence-style|Snapmaker's customer service, Snapmaker's return policy|
-|Names of Parts, Tools, and Materials|title-style for those with Snapmaker's logo;<br>lowercase for the rest|Laser Module, Heated Bed, Calibration Card;<br>screwdriver, clamp set, acrylic plate|
+|Names of Parts, Tools, and Materials|do not capitalize|toolhead, extruder, converter, heated bed, laser engraving and cutting platform, CNC carving platform, support platform, screwdriver, clamp set, acrylic plate|
 |Names of Keys|as displayed on keyboards, regardless of operating system|Ctrl, Enter|
 |Names of Errors|lowercase at all times; don't ever capitalize|black screen, power loss|
 |X Axis, Y Axis, Z Axis, and their Plural Forms|capitalize the **A** in **Axis** or **Axes** when used as non-adjective, otherwise don't capitalize|Z Axis, Z-axis Extension Module|
