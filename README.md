@@ -4,7 +4,7 @@ Welcome! This is the official **Snapmaker English Writing Style Guide**. It is n
 
 This guide is compiled based on the need for our documentation to be factual, versatile, and user-friendly. It assumes readers come from varying backgrounds, and not all of them are native English speakers. As such, it prefers simple words and grammatical structures over complicated and fancy ones; it includes rules that violate traditional English grammar, though very rarely.
 
-The **Language and Grammar** chapter outlines rules that govern right or wrong, while the **Formatting and Content Planning** chapter stipulates rules that determine good or bad. The sections are organized in alphabetical order. The latter half is a Chinese translation of the guide.
+The **Language and Grammar** chapter outlines rules that govern right or wrong, while the **Formatting and Content Planning** chapter stipulates rules that determine good or bad. The sections are organized in alphabetical order. The latter half is a Chinese translation of the guide. For **Snapmaker Chinese Writing Style Guide**, visit https://github.com/Snapmaker/Snapmaker-Chinese-Writing-Style-Guide. 
 
 As of November 12, 2020, the Shimo copy of this guide is no longer being monitored. Any change made will be made on this Github repository. Any suggestions to make it better are welcome. And to report bugs or propose ideas, file an issue first, or email at ginger@snapmaker.com.
 
