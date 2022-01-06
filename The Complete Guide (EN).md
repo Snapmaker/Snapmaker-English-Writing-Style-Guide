@@ -162,11 +162,11 @@ Modifiers should be put adjacent to the words they modify. When you separate the
 
 In the following text, **for no reason** is intended to describe **stop**, but they are separated by a string of words:
 
->If the linear modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.
+>If the Linear Modules stop while the machine is working for no reasons, please do as follows to check the silicone pad inside the modules as the instruction below.
 
 The audience can't help but wonder how can the machine be working for no reason. This kind of confusion can be avoided by moving **for no reason** next to **stop**:
 
->If the linear modules stop for no reason while the machine is working, please do as follows to check the silicone pad inside the modules.
+>If the Linear Modules stop for no reason while the machine is working, please do as follows to check the silicone pad inside the modules.
 
 
 ### 1.4.2 Multiple Modifiers
@@ -204,8 +204,8 @@ Don't put more than two nouns before the central noun or noun phrase. For exampl
 But it is okay to say:
 
 * Machine temperature
-* Heated Bed temperature
-* Z-axis Holder
+* Heated bed temperature
+* Z-axis holder
 
 Where there are more than two nouns modifying the central noun or noun phrase, use possessive. For example, say:
 
@@ -247,17 +247,17 @@ More words are not always more accurate. Always use fewer words when they are pr
 
 * You can conduct a check on the machine.
 * Please turn your machine off and on.
-* Make sure the Heated Bed is clean and there isn't any dust or dirt on it before you place the Print Sheet.
+* Make sure the heated bed is clean and there isn't any dust or dirt on it before you place the print sheet.
 * If you find the edges of the captured image are not aligned, you shall click **Calibration** to manually calibrate the camera.
-* Snapmaker modular 3D printers are ideal choice for beginners who are just getting started, hobbyists who prefer more customized options, as well as engineers and designers who want to make large objects or accurate parts with outstanding print / engrave / cut / carve quality.
+* Snapmaker Modular 3-in-1 3D Printers are ideal choice for beginners who are just getting started, hobbyists who prefer more customized options, as well as engineers and designers who want to make large objects or accurate parts with outstanding print / engrave / cut / carve quality.
 
 Instead, say:
 
 * Check the machine.
 * Restart your machine.
-* Make sure the Heated Bed is contamination-free before you place the Print Sheet.
+* Make sure the heated bed is contamination-free before you place the print sheet.
 * If the edges of the captured image are not aligned, click **Calibration** to manually calibrate the camera.
-* Snapmaker modular 3D printer is the ideal choice for beginners, hobbyists who are into customization, as well as engineers and designers who want to make large objects or accurate parts with outstanding quality.
+* Snapmaker Modular 3-in-1 3D Printer is the ideal choice for beginners, hobbyists who are into customization, as well as engineers and designers who want to make large objects or accurate parts with outstanding quality.
 
 Don't use expressions that are already ubiquitous in Chinese. It's likely they will appear redundant in English as well when translated. These expressions include:
 
@@ -303,7 +303,7 @@ Avoid using words that are too vague or too weak to mean anything. Use specific 
 * It is likely to cause a phenomenon called **dust accumulation**.
 * You should use the dust plugs to avoid the problem of dust accumulation.
 * If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will do troubleshooting for you.
-* Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the Heated Bed.
+* Brim, raft, and skirt are detachable structures for minimizing the problem of object adherence to the heated bed.
 
 Instead, say:
 
@@ -311,7 +311,7 @@ Instead, say:
 * It is likely to cause dust accumulation.
 * Use the dust plugs to avoid dust accumulation.
 * If you can't find the answer to your question in FAQs, ask help from our support team at support@snapmaker.com and our technical staff will troubleshoot for you.
-* Brim, raft, and skirt are detachable structures for enhancing object adherence to the Heated Bed.
+* Brim, raft, and skirt are detachable structures for enhancing object adherence to the heated bed.
 
 Don't create names for steps, processes, or procedures without cheking the [Snapmaker Glossary](https://shimo.im/sheets/9YTQWxT6yVkxYHGp) first.
 
@@ -330,11 +330,11 @@ Present the most important information first. Organize it in a way that is logic
 
 Pay attention to the conjunctions **after** and **only if**. Put what's to be done first at the beginning of the sentence, not the opposite. For example, don't say:
 
->Check whether the laser module works properly, after putting on Safety Goggles.
+>Check whether the laser module works properly, after putting on the laser safety goggles.
 
 Instead, say:
 
->After putting on Safety Goggles, check whether the Laser Module works properly.
+>After putting on the laser safety goggles, check whether the Laser Module works properly.
 
 Or:
 
