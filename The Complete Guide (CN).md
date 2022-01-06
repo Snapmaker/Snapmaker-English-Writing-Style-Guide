@@ -90,11 +90,11 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 举个例子，下面的文本中一会儿将 Snapmaker 二代机当作单数，一会儿又当作复数：
 
->**Snapmaker 2.0**, the modular 3-in-1 3D **printers** that unlock your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. Snapmaker 2.0 **is** smarter, faster, larger, and more powerful than ever before. **It is** a generation of 3-in-1 3D **printers** that **come** with everything you need!
+>**Snapmaker 2.0**, the Modular 3-in-1 3D **Printers** that unlock your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. Snapmaker 2.0 **is** smarter, faster, larger, and more powerful than ever before. **It is** a generation of 3-in-1 3D **printers** that **come** with everything you need!
 
 单独来看，每个句子都是对的。但这种单复数的切换会给校对、复用，和本地化带来困难。如果统一改为单数，就会好很多。
 
->**Snapmaker 2.0**, the modular 3-in-1 3D **printer** that **unlocks** your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. **Snapmaker 2.0 is** smarter, faster, larger, and more powerful than ever before. **It is** a new generation of 3-in-1 3D **printer** that **comes** with everything you need!
+>**Snapmaker 2.0**, the Modular 3-in-1 3D **Printer** that **unlocks** your full creative potential, from 3D printing to laser engraving, cutting, and CNC carving. **Snapmaker 2.0 is** smarter, faster, larger, and more powerful than ever before. **It is** a new generation of 3-in-1 3D **printer** that **comes** with everything you need!
 
 ## 1.3 冠词
 
@@ -186,13 +186,13 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 当每个修饰语都提供了不可或缺的信息所以不能省略时，尝试用介词、所有格、连字符或从句来将它们分开。不要让所有修饰语都挤在中心词的前面。所以，不要说:
 
 * The Linear Module motor circuit board
-* the upcoming more powerful laser module
+* the upcoming more powerful 10W Laser Module
 * a regularly maintained open source software
 
 而应该说：
 
 * The Linear Module's motor circuit board
-* the upcoming laser module that’s more powerful
+* the upcoming 10W Laser Module that’s more powerful
 * a regularly maintained open-source software
 
 ### 1.4.3 名词修饰语
@@ -210,7 +210,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 如果中心词前面有超过两个名词修饰语，则改成所有格形式。比如，可以说:
 
-* the size of 3D Printing Sheet
+* the size of 3D printing sheet
 * the height of printer worktable
 
 基本规则是，在有生命的东西、品牌名后面用 **'s**，而没有生命的物体的所有格用 **of** 来表示。比如，可以说：
@@ -232,12 +232,12 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 能用现在时就不要用过去时，因为过去时可能会有多重解读，给校对带来挑战。比如，不要说：
 
-* Make sure you have put on CNC Safety Goggles before using the CNC function.
+* Make sure you have put on CNC safety goggles before using the CNC function.
 * If the machine failed to respond, check if the cables have been securely connected.
 
 而应该说：
 
-* Put on CNC Safety Goggles before using the CNC function.
+* Put on CNC safety goggles before using the CNC function.
 * If the machine fails to respond, check if the cables are securely connected.
 
 不要在每个操作前面都加上 **please**，**you can**，或者 **you should**。 无论采用什么语气，我们可能会无意识地过度使用 **please**。 通常情况下，避免使用 **please**，因为它们很快就会在文本中失去意义，并且会使文本臃肿。所以仅在错误出现，并且修复错误会给读者带来不便时使用 **please**。
@@ -246,9 +246,9 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 * You can conduct a check on the machine.
 * Please turn your machine off and on.
-* Make sure the Heated Bed is clean and there isn't any dust or dirt on it before you place the Print Sheet.
+* Make sure the heated bed is clean and there isn't any dust or dirt on it before you place the print sheet.
 * If you find the edges of the captured image are not aligned, you shall click **Calibration** to manually calibrate the camera.
-* Snapmaker modular 3D printers are ideal choice for beginners who are just getting started, hobbyists who prefer more customized options, as well as engineers and designers who want to make large objects or accurate parts with outstanding print / engrave / cut / carve quality.
+* Snapmaker Modular 3-in-1 3D Printers are ideal choice for beginners who are just getting started, hobbyists who prefer more customized options, as well as engineers and designers who want to make large objects or accurate parts with outstanding print / engrave / cut / carve quality.
 
 而应该说：
 
@@ -256,7 +256,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * Restart your machine.
 * Make sure the Heated Bed is contamination-free before you place the Print Sheet.
 * If the edges of the captured image are not aligned, click **Calibration** to manually calibrate the camera.
-* Snapmaker modular 3D printer is the ideal choice for beginners, hobbyists who are into customization, as well as engineers and designers who want to make large objects or accurate parts with outstanding quality.
+* Snapmaker Modular 3-in-1 3D Printer is the ideal choice for beginners, hobbyists who are into customization, as well as engineers and designers who want to make large objects or accurate parts with outstanding quality.
 
 用中文构思时可有可无的表达翻译成英语后可能会更繁琐，不要用。这类例子有：
 
@@ -328,15 +328,15 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 
 注意介词 **after** 和 **only if** 的放置顺序。把先做的操作放在前面，而不是后面。比如，不要说：
 
->Check whether the Laser Module works properly, after putting on Safety Goggles.
+>Check whether the Laser Module works properly, after putting on laser safety goggles.
 
 而应该说：
 
->After putting on Safety Goggles, check whether the Laser Module works properly.
+>After putting on laser safety goggles, check whether the Laser Module works properly.
 
 或者说：
 
->Put on Safety Goggles before you check whether the Laser Module works properly.
+>Put on laser safety goggles before you check whether the Laser Module works properly.
 
 但是，在使用 **if**, **in case**，和 **in order to**（或者 **to**）时，应该先告诉读者为什么，再告诉读者做什么。比如，不要说：
 
@@ -769,7 +769,7 @@ Snapmaker A350 and Luban let you:
 比如，不要说：
 
 * We represent detail-orientedness, creativity and passion.
-* Before using CNC carving put on safety goggles.
+* Before using CNC carving put on CNC safety goggles.
 * Take off the dust plugs and you will see the USB port.
 * You will make your Snapmaker more versatile adding the latest Rotary Module.
 * Have you ever wondered: do I buy a 3D printer? Or do I buy a 3-in-one fabrication machine?
@@ -779,7 +779,7 @@ Snapmaker A350 and Luban let you:
 而应该说:
 
 * We represent detail-orientedness, creativity, and passion.
-* Before using CNC carving, put on safety goggles.
+* Before using CNC carving, put on CNC safety goggles.
 * Take off the dust plugs, and you will see the USB port.
 * You will make your Snapmaker more versatile, adding the latest Rotary Module 或者——
 * Adding the latest rotary module, you will make your Snapmaker more versatile.
