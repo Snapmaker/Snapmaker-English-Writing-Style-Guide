@@ -683,7 +683,7 @@ Snapmaker 希望我们的文档是尊重事实的、形式灵活的、以及用�
 * Calibrating the Heated Bed
 * Loading Filament
 * Editing Model File
-* Start Printing
+* Starting Printing
 
 另外，和可读性原则里提到的要求一样，不要用俚语、行话或另一种语言来给标题命名。
 
